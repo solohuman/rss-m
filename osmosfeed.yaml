@@ -1,6 +1,8 @@
 cacheUrl: https://solohuman.github.io/rss-m/cache.json
 sources:
   - href: https://feedx.net/rss/nytimesdual.xml
+  - href: http://feeds.feedburner.com/solidot
+  - href: https://chinadigitaltimes.net/chinese/feed
 #  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
 #  - href: https://css-tricks.com/feed/
 #  - href: https://www.smashingmagazine.com/feed/
