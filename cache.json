@@ -103,6 +103,51 @@
       "siteUrl": "https://www.solidot.org",
       "articles": [
         {
+          "id": "https://www.solidot.org/story?sid=67838",
+          "author": null,
+          "description": "国务院金融稳定发展委员会宣布将打击比特币挖矿和交易行为。最近几天比特币的币值出现了剧烈震荡，币值在 3.6 万美元左右波动，比四月份创下的 6.3 万美元下跌超过 40%。金融稳定发展委员会的声明并没有给出具体措施，但本周早些时候有报道称，内蒙古发展与改革委员会宣布将设立一条电话热线，便利群众举报疑似在挖矿的企业，作为“全面清理关停”虚拟货币挖矿项目的努力的一部分。",
+          "link": "https://www.solidot.org/story?sid=67838",
+          "publishedOn": "2021-05-22T09:05:44.000Z",
+          "wordCount": 75,
+          "title": "中国宣布将打击比特币挖矿和交易行为"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=67837",
+          "author": null,
+          "description": "新华社报道，中国工程院院士袁隆平于 5 月 22 日 13 点 07 分在湖南长沙逝世，享年 91 岁。袁隆平是我国研究与发展杂交水稻的开创者，也是世界上第一个成功利用水稻杂种优势的科学家，被誉为“杂交水稻之父”。袁隆平于 1930 年生于北京，1953 年毕业于西南农学院（现西南大学），1958 到 1961 年的大饥荒促使他开始研究杂交水稻。他因在杂交水稻方面的研究而在 2001 年获国家最高科学技术奖。他在后期开始了转基因水稻的研究。",
+          "link": "https://www.solidot.org/story?sid=67837",
+          "publishedOn": "2021-05-22T06:04:32.000Z",
+          "wordCount": 134,
+          "title": "袁隆平去世享年 91 岁"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=67836",
+          "author": null,
+          "description": "美国食品和药品管理局(FDA)宣布，Pfizer-BioNTech 的 COVID-19 疫苗能在普通冰箱内放置一个月而不是之前限制的五天。这一改变有助于缓解疫苗的储存问题，促进疫苗的推广，超低温的储存问题是阻碍这种疫苗推广的一个重要因素。Pfizer-BioNTech 疫苗的长期储存仍然需要放置在  -80°C 到 -60°C 温度下，冻存管能在  -25°C 到 -15°C 温度下运输和临时储存两周，未稀释的冻存管可以解冻和在普通冰箱  2°C 到 8°C 温度下保存一个月。但一旦稀释则需要在 6 小时内使用。",
+          "link": "https://www.solidot.org/story?sid=67836",
+          "publishedOn": "2021-05-21T11:28:55.000Z",
+          "wordCount": 90,
+          "title": "Pfizer-BioNTech 疫苗能在普通冰箱内放置一个月"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=67835",
+          "author": null,
+          "description": "跨平台源码编辑器 Sublime Text 释出了 4 系列的首个稳定版本，Sublime Text 4 的一大改变是许可证不再只绑定一个大版本，而是对购买三年内的所有更新都有效。之后用户仍然可以访问三年内 Sublime Text 释出的每一个版本，但较新的构建版本将需要许可证升级。新版的主要变化包括：文件标签多选；原生支持 Apple Silicon，Linux ARM64 版本支持 Raspberry Pi，更新了 UI，重写了内容感知自动完成，支持 TypeScript、JSX 和 TSX，改进了语法高亮引擎，能利用 GPU 渲染，更新到  Python 3.8，兼容 Sublime Text 3，等等。其它变化可浏览 Changelog。",
+          "link": "https://www.solidot.org/story?sid=67835",
+          "publishedOn": "2021-05-21T10:47:53.000Z",
+          "wordCount": 105,
+          "title": "Sublime Text 4 发布"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=67834",
+          "author": null,
+          "description": "Google 警告未知黑客正在利用最近披露的 4 个 Android 漏洞执行恶意代码完整控制设备。这四个漏洞是在 5 月 3 日披露的，Google 已经向 Android 厂商释出了安全更新，由后者负责将补丁推送给用户。Google Project Zero 的安全研究员 Maddie Stone 将这四个正利用的漏洞称为 0day。成功利用漏洞允许完整控制受害者的手机。今年至今 Android 系统发现了 4 个 0day，相比下去年只发现 1 个。",
+          "link": "https://www.solidot.org/story?sid=67834",
+          "publishedOn": "2021-05-21T09:25:34.000Z",
+          "wordCount": 105,
+          "title": "黑客正在利用最近披露的 4 个 Android 漏洞"
+        },
+        {
           "id": "https://www.solidot.org/story?sid=67833",
           "author": null,
           "description": "网信办公布了《关于抖音等105款App违法违规收集使用个人信息情况的通报》，称在调查之后发现这些应用收集了与其服务无关的个人信息或未经用户同意收集使用个人信息。被列入名单中的应用包括抖音、快手、360 浏览器、搜狗浏览器、百度浏览器、360 搜索、欧朋浏览器（Opera）、UC、傲游、领英、猎聘、前程无忧、智联、以及百度等等。网信办要求相关运营者在 15 个工作日内完成整改，逾期未完成整改将面临惩罚。",
