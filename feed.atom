@@ -2,10 +2,237 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://solohuman.github.io/rss-m/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T00:51:53.776Z</updated>
+    <updated>2021-05-26T01:01:50.857Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://solohuman.github.io/rss-m/index.html"/>
     <link rel="self" href="https://solohuman.github.io/rss-m/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国专家建议高风险人员注射三剂疫苗]]></title>
+        <id>https://www.solidot.org/story?sid=67864</id>
+        <link href="https://www.solidot.org/story?sid=67864"/>
+        <updated>2021-05-25T15:47:04.000Z</updated>
+        <summary type="html"><![CDATA[中国医学专家正建议高风险人员注射第三剂新冠疫苗，认为疫苗提供的保护作用可能只持续半年。上周阿联酋和巴林表示它们将提供第三剂中国国药集团的疫苗以增强其保护能力。阿联酋向注射了半年或更长时间的人提供第三剂，而巴林则为高风险人群提供第三剂。国药集团和科兴生物的新冠疫苗都是使用失活的新冠病毒，这种疫苗制备方法优点是简单，缺点是效力比较弱，弱于 mRNA 疫苗。国药集团称其疫苗的有效性为 79%，但没有公布完整数据。科兴生物疫苗的有效性可能更低。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 正式向 Nest Hub 设备推出 Fuchsia OS]]></title>
+        <id>https://www.solidot.org/story?sid=67862</id>
+        <link href="https://www.solidot.org/story?sid=67862"/>
+        <updated>2021-05-25T15:08:57.000Z</updated>
+        <summary type="html"><![CDATA[Fuchsia 中文社区 写道 "Google 从头开发的操作系统 Fuchsia OS，是一个长期开发也还正在开发中的项目，不过目前已经可以在真正的 Google 制造的设备上运行了。
+
+今天（5月25日）的最新消息，第一代 Nest Hub 的用户将会陆续开始收到更新，第一代 Nest Hub 
+是一款2018年推出的设备。这个更新不会带来任何功能上的变化，体验也不会和之前有什么不同，但是目前以 Linux Kernel 为基础的 
+Cast OS 将会被替代为 Fuchsia OS。这样重大的但是平滑的更新应该归功于 Flutter。 Google 的智能显示体验是基于 
+Flutter 构建的，Flutter 可以在不同平台上提供一致的应用程序用户体验，当然包括 Fuchsia 平台。
+
+
+
+2016 年以来，许多开发者就在关注 Fuchsia 操作系统的发展（ Fuchsia 中文社区则从 2017 
+年开始）。从最早的一个雄心勃勃的实验性质的用户界面开始，一直到一些针对 Fuchsia 的内部测试设备，包括 Google 
+的智能家居产品线和Chromebook 产品线。Fuchsia 操作系统持续稳步发展，进来甚至开始了稳定的发布计划。
+
+
+
+
+本月初，媒体发现：运行“Fuchsia 1.0”的第一代 Google Nest Hub 设备获得了蓝牙 SIG的新批准。这表明 Google 将 Fuchsia OS 从内部测试扩大到更开放的外部领域，更多开发者也可以参与到测试过程。
+
+
+
+基于 Fuchsia OS 的 Nest Hub 更新将会在接下来的几个月中陆续推送，预览计划（Preview 
+Program）的用户将会最先收到，接下来就是其他普通用户。考虑到用户界面和用户体验将保持不变，Google Nest Hub 
+用户甚至有可能不会知道自己的设备已经切换到了 Fuchsia OS。也就是说：Google 
+似乎会在几个月的过程中非常小心谨慎地执行此更新，毕竟切换操作系统并不是一个简单的小更新。
+
+
+
+今天开始的这次发布标志着 Google 在 Fuchsia 上的动作迈出了面向公众的迄今为止的最大一步。Fuchsia 
+是一个面向普通用户的操作系统，通过对真实设备做的一些现场测试，Google 证明其从零开始的“非 
+Linux”操作系统已经准备好在智能家居中使用，以替代 Cast OS。目前，暂时没有更多的消息 Google 是否打算让其他基于 Cast 
+OS 的设备也开始迁移到 Fuchsia OS。
+
+
+
+如此也可以看出，智能家居只是 Google 在 Fuchsia OS 探索的诸多途径其中之一。Fuchsia 的星辰大海在 PC 
+和智能手机，甚至可以本地运行 Android 应用程序。就像 Google 的 Hiroshi Lockheimer 在 2019 
+年建议的那样：智能家居可能是 Fuchsia OS 在 Google 制造的诸多产品设备的起点。
+
+
+
+一切拭目以待。"]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员发现伪装成勒索软件的数据删除恶意程序]]></title>
+        <id>https://www.solidot.org/story?sid=67863</id>
+        <link href="https://www.solidot.org/story?sid=67863"/>
+        <updated>2021-05-25T13:50:52.000Z</updated>
+        <summary type="html"><![CDATA[安全研究人员发现了一个以以色列为攻击目标、伪装成勒索软件的磁盘数据删除恶意程序。被称为 Apostle 的恶意程序早期版本存在 bug，在尝试删除数据时会失败。后期的版本修复了 bug，还引入了勒索软件行为，会留下勒索通知索要赎金解密加密数据。研究人员根据代码以及它使用的服务器认为开发该恶意程序的黑客组织与伊朗政府有关联。它的主要攻击目标是以色列。研究人员将该黑客组织命名为 Agrius，认为勒索软件功能是为了伪装毁灭数据的真实目的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国预计将封杀所有比特币挖矿活动]]></title>
+        <id>https://www.solidot.org/story?sid=67861</id>
+        <link href="https://www.solidot.org/story?sid=67861"/>
+        <updated>2021-05-25T13:43:19.000Z</updated>
+        <summary type="html"><![CDATA[国务院金融委上周表态将打击比特币挖矿和交易行为，称将“强化平台企业金融活动监管，打击比特币挖矿和交易行为，坚决防范个体风险向社会领域传递”。《南华早报》报道认为中国将会很快封杀所有比特币挖矿活动。中国政府不只是担心与比特币投资相关的金融稳定性，新华社的一篇评论还对比特币在洗钱、贩毒和走私中的作用表达了担忧，并提到了挖矿活动导致的能源浪费。比特币挖矿如果要有利可图需要充足的廉价电力，矿场因此涌向了内蒙古等有廉价煤电的地方。内蒙古的一个比特币矿场使用的发电量高达 50 MW。中国对比特币挖矿的打击预计会将迫使矿工们迁往蒙古、哈萨克斯坦和阿富汗等地。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 开始向 Nest Hub 用户推送 Fuchsia 操作系统]]></title>
+        <id>https://www.solidot.org/story?sid=67860</id>
+        <link href="https://www.solidot.org/story?sid=67860"/>
+        <updated>2021-05-25T11:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Google 的 Nest Hub 设备将运行它的新操作系统 Fuchsia OS。Fuchsia 是 Google 正在开发的实验性操作系统，使用名叫 Zircon 的微内核。这个新操作系统引发了很多猜测。现在 Google 宣布它开始向第一代 Nest Hub 设备推送更新。更新没有改变任何功能，但底层的系统用 Fuchsia OS 取代了原来使用的基于 Linux 的 Cast OS。Nest Hub 的使用体验不会有任何变化。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[放射性物质释放的热量维持了地表深处的生命]]></title>
+        <id>https://www.solidot.org/story?sid=67859</id>
+        <link href="https://www.solidot.org/story?sid=67859"/>
+        <updated>2021-05-25T11:04:27.000Z</updated>
+        <summary type="html"><![CDATA[地球深处并非没有生命，事实上生命无处不在：根据多个估计，有生命居住的地下王国范围相当于海洋体积的两倍，细胞数量达到 1030，它是地球上最大的栖息地之一，也是最古老和最多元化的栖息地之一。但这些生活在地底的生命是如何生存的？来自太阳光的光合作用无法抵达如此深的地方，少量的有机碳食物也很快消耗光了。与生活在深海热泉附近或火山活动温暖区域的生物群不同的是，地球深处的生态系统通常不依赖于高温过程，它们必须在黑暗和寒冷中坚持下去。研究人员最近发表的两篇论文解决了部分谜团：有证据表明，放射性衰变释放的热量维持了地球深处的生命。岩石中不稳定原子释放的辐射能将水分子分解为氢和化学活性的过氧化物以及自由基，部分细胞能直接将氢作为燃料。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国的民主何以岌岌可危]]></title>
+        <id>https://cn.nytimes.com/opinion/20210525/republicans-donald-trump-loyalty/dual</id>
+        <link href="https://cn.nytimes.com/opinion/20210525/republicans-donald-trump-loyalty/dual"/>
+        <updated>2021-05-25T10:06:01.000Z</updated>
+        <summary type="html"><![CDATA[保罗·克鲁格曼2021年5月25日
+America’s democratic experiment may well be nearing its end. That’s not hyperbole; it’s obvious to anyone following the political scene. Republicans might take power legitimately; they might win through pervasive voter suppression; G.O.P. legislators might simply refuse to certify Democratic electoral votes and declare Donald Trump or his political heir the winner. However it plays out, the G.O.P. will try to ensure a permanent lock on power and do all it can to suppress dissent.
+美国的民主实验很可能就要结束了。这不是危言耸听，任何关注政治的人都能清楚地看到。共和党人可能合法掌权；他们可能通过普遍的选民压制而获胜；共和党议员可能干脆拒绝确认民主党的选举人票，宣布唐纳德·特朗普(Donald Trump)或他的政治继承人获胜。无论结果如何，共和党都将努力确保永久锁定权力，并尽其所能压制异议。
+But how did we get here? We read every day about the rage of the Republican base, which overwhelmingly believes, based on nothing, that the…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[光遗传学疗法首次让失明者重见光明]]></title>
+        <id>https://www.solidot.org/story?sid=67858</id>
+        <link href="https://www.solidot.org/story?sid=67858"/>
+        <updated>2021-05-25T08:58:54.000Z</updated>
+        <summary type="html"><![CDATA[一名男子戴着类似 VR 头显的设备，伸出右手将手指放在一个黑色笔记本上。虽然动作简单，但却具有非常重要的意义，因为他已经失明近四十年了。科学家在《Nature Medicine》期刊上报告了光遗传学疗法首次让失明者重见光明。作为临床试验的一部分，这名男子的眼睛植入了基因，使视网膜神经元产生常见于绿藻的光感蛋白。他所佩戴的设备将周围的图像作为脉冲光束投射到光感细胞上，神经元会将光信号传入大脑视觉处理中心。基因改造过的神经元替代了他因为视网膜色素变性这一遗传疾病而失去的感光受体。这名男子还无法看到颜色或更多细节，但展现了光遗传学疗法成功恢复了部分视力。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[炸弹骗局、出动战机：白俄罗斯迫降客机引发外交对决]]></title>
+        <id>https://cn.nytimes.com/world/20210525/belarus-flight-ban/dual</id>
+        <link href="https://cn.nytimes.com/world/20210525/belarus-flight-ban/dual"/>
+        <updated>2021-05-25T08:36:01.000Z</updated>
+        <summary type="html"><![CDATA[ANTON TROIANOVSKI2021年5月25日周一，在华沙举行的一次抗议活动中，被拘留的白俄罗斯记者罗曼·普罗塔塞维奇的支持者手持纸飞机。 Omar Marques/Getty Images
+MOSCOW — The tray tables were being raised and the seat backs returned to their upright positions as passengers on Ryanair Flight 4978 prepared for the scheduled landing in the Lithuanian capital, Vilnius. Then the plane made an abrupt U-turn.
+莫斯科——瑞安航空(Ryanair)4978航班正准备按计划在立陶宛首都维尔纽斯降落，乘客收起了小桌板，将座椅调回原位。这时飞机突然开始掉头。
+For many passengers, it initially seemed like one of those unexpected delays in airline travel. But after the pilot announced the plane had been diverted to Minsk, the capital of Belarus, one passenger — Roman Protasevich, a prominent Belarusian opposition journalist who had been living in exile since 2019 — grew terrified, certain that he faced arrest.
+对于许多乘客来说，这起初看上去像是民航典型的那种意外延误…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为海思发布首款 RISC-V 开发板]]></title>
+        <id>https://www.solidot.org/story?sid=67857</id>
+        <link href="https://www.solidot.org/story?sid=67857"/>
+        <updated>2021-05-25T07:03:42.000Z</updated>
+        <summary type="html"><![CDATA[为了克服美国对使用最新 ARM 设计的限制，华为海思转向了开源指令集架构 RISC-V，针对鸿蒙操作系统的开发者发布了首款 RISC-V 开发板 Hi3861。美国在 2019 年将华为加入到了黑名单，禁止向华为出售美国技术，而 ARM 设计包含了美国技术。Hi3861 针对的是物联网市场，而海思传统上其开发面向的是利润更高的智能手机、平板、PC 和嵌入式系统。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉因通过软件更新限制充电速度被勒令向受影响车主赔偿 1.6 万美元]]></title>
+        <id>https://www.solidot.org/story?sid=67856</id>
+        <link href="https://www.solidot.org/story?sid=67856"/>
+        <updated>2021-05-25T06:24:39.000Z</updated>
+        <summary type="html"><![CDATA[在挪威，特斯拉因通过一次软件更新限制充电速度和电池容量被判有罪，被勒令向受影响车主每人赔偿 1.6 万美元。受影响车主可能多达上万。2019 年，配备  85 kWh 电池组的 Model S 和 Model X 车主报告在软件更新之后他们的电池行驶距离减少了 10% 以上，同时充电速度也下降了。对于车主的报告，特斯拉回应称此举是为了保护电池和改进电池寿命。不同国家的特斯拉车主随后提起了一系列诉讼。挪威法庭证实特斯拉通过软件更新限制了充电速度和电池容量，特斯拉没有回应诉讼，法庭判决它向每位受影响车主赔偿 136,000 挪威克朗（约 1.6 万美元），除非特斯拉在数周内上诉。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inkscape 1.1 发布]]></title>
+        <id>https://www.solidot.org/story?sid=67855</id>
+        <link href="https://www.solidot.org/story?sid=67855"/>
+        <updated>2021-05-25T06:07:29.000Z</updated>
+        <summary type="html"><![CDATA[自由软件向量图形编辑器 Inkscape 项目释出了 1.1 版本。Inkscape 1.1 的主要变化包括：欢迎对话框和全新的欢迎界面，命令面板，重新设计了对话框对接系统，可搜索偏好选择，新的导出格式，新的轮廓叠加模式，更多 Live Path Effects 变化，等等。Inkscape 项目诞生于 2003 年，2020 年发布了 1.0 版本。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为将在 6 月 2 日发布鸿蒙系列产品]]></title>
+        <id>https://www.solidot.org/story?sid=67854</id>
+        <link href="https://www.solidot.org/story?sid=67854"/>
+        <updated>2021-05-25T05:59:36.000Z</updated>
+        <summary type="html"><![CDATA[华为宣布它计划在 6 月 2 日正式举办鸿蒙产品发布会，预计此前只用于智慧屏、可穿戴设备等产品的鸿蒙操作系统将在更多产品品类上使用。华为预计 2021 年底搭载鸿蒙操作系统的设备数量将达 3 亿台，其中华为设备超过 2 亿台，面向第三方合作伙伴的各类终端设备数量超过 1 亿台。美国的制裁措施禁止 Google 为新的华为手机型号提供技术支持，华为使用自己的操作系统，意味着将不再依赖于 Android 系统。此前对鸿蒙V2 的分析表明，它事实上是 Android 的拷贝，只是改了 UI。而华为高管声称鸿蒙V3 将不再基于 Android。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台湾未获邀参加世界卫生大会，批北京从中阻挠]]></title>
+        <id>https://cn.nytimes.com/asia-pacific/20210525/taiwan-excluded-from-a-world-health-forum-blames-chinese-interference/dual</id>
+        <link href="https://cn.nytimes.com/asia-pacific/20210525/taiwan-excluded-from-a-world-health-forum-blames-chinese-interference/dual"/>
+        <updated>2021-05-25T03:36:01.000Z</updated>
+        <summary type="html"><![CDATA[AMY QIN2021年5月25日台湾台北，周日，近期新冠感染病例激增后，一处空荡荡的夜市。 Ann Wang/Reuters
+Taiwan’s government on Monday criticized the World Health Organization for capitulating to China after it failed to secure an invite to an annual health meeting convened by the international agency.
+台湾政府在未能获邀参加世界卫生组织(World Health Organization)召开的年度卫生会议后，于周一批评该机构向中国大陆投降。
+For months, Taiwan and a coalition of supporters, including the United States, had been intensely lobbying for the self-governed island to be granted observer status at the meeting of the World Health Assembly, or W.H.A., which began today and will be held virtually through June 1.
+几个月来，台湾和包括美国在内的支持者联盟一直在积极游说，希望这个自治岛屿在世界卫生大会(World Health Assembly，简称WHA)获得观察员身份，该会议从今天开始，将于线上进行，持续到6月1日。
+China, which claims Taiwan as its own territory, has blocked the island from …]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[甘肃越野跑比赛幸存者回忆惊魂时刻]]></title>
+        <id>https://cn.nytimes.com/china/20210525/china-ultramarathon-survivor/dual</id>
+        <link href="https://cn.nytimes.com/china/20210525/china-ultramarathon-survivor/dual"/>
+        <updated>2021-05-25T03:36:01.000Z</updated>
+        <summary type="html"><![CDATA[艾莎, 曹莉2021年5月25日周日在中国白银市附近，用于搜救选手的紧急救援车。 Agence France-Presse — Getty Images
+The day began in jittery anticipation as 172 Lycra-clad runners jumped up and down at the starting line of the 62-mile mountain race in Gansu Province, China. Zhang Xiaotao noticed the wind as it blew the hats off some of his competitors. It was an early sign of the challenge ahead.
+这一天在充满紧张不安的期待中开始了，172名穿着莱卡运动服的跑者在中国甘肃百公里越野赛的起跑线位置上下跳跃。张小涛发现起风了，风刮掉了一些选手的帽子。这预示着他们即将面临的挑战。
+A few hours later, Mr. Zhang, 30, would be lying unconscious on the rugged mountain, according to a written account that he shared on Chinese social media.
+根据他在中国社交媒体上分享的文字记录，几个小时后，30岁的张小涛躺在崎岖的山上，失去了知觉。
+Mr. Zhang, a sports blogger, was among the group of survivors who were rescued when whipping rain turned to hail and temperatures plummeted hours …]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界面临人口停滞和生育危机]]></title>
+        <id>https://www.solidot.org/story?sid=67853</id>
+        <link href="https://www.solidot.org/story?sid=67853"/>
+        <updated>2021-05-24T14:59:59.000Z</updated>
+        <summary type="html"><![CDATA[世界各国都在面对人口增长停滞、出生率暴跌的问题，这场有历史记载以来最令人目眩的反转，将导致新生儿生日派对比葬礼罕见许多，碍眼的空房子也会随处可见。这种如雪崩一般的人口趋势——死亡多于出生——正在扩大和加剧。有一些国家的人口在增长，尤其在非洲，不过其他地方出生率几乎都呈下降趋势。人口学家预测到本世纪进入后 50 年或更早的时候，全球人口将首次进入持续下降的趋势。人口的减少可以缓解这个星球的资源压力，减轻气候变化的毁灭性冲击，并减轻女性的家务负担。寿命延长和低生育率会导致工作者数量减少，退休人员增加，可能会颠覆社会的组织方式——其核心观念是年轻人的过剩可以推动经济发展，负担老人的成本。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DarkSide 加盟者指控管理员没付钱就跑路]]></title>
+        <id>https://www.solidot.org/story?sid=67852</id>
+        <link href="https://www.solidot.org/story?sid=67852"/>
+        <updated>2021-05-24T14:22:19.000Z</updated>
+        <summary type="html"><![CDATA[化名 darksupp 的黑客去年 11 月在俄语黑客论坛 XSS.is 发帖为勒索软件即服务 DarkSide 招募加盟成员。根据 DarkSide 的加盟分成比例：如果赎金低于 50 万美元加盟者可以分到 75% 的赎金，如果赎金高于 500 万美元，分成比例将提高到 90%。根据加密货币跟踪公司 Chainalysis 的统计，在过去 7 个月内，DarkSide 至少赚到了 6000 万美元，其中 4600 万美元来自于今年前 3 个月。在从美国最大燃油管道公司 Colonial Pipeline 勒索到 500 万美元和从化学品公司优信邦泰勒索到 440 万美元之后，引发广泛关注的 DarkSide 上周突然宣布终止运营，声称失去了对其网络基础设施和部分比特币钱包的控制。之后 DarkSide 成员就销声匿迹了。而在 XSS.is 论坛上，部分 DarkSide 加盟成员投诉 DarkSide 管理者没付钱就跑路了。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国石油公司与矿场合作挖比特币]]></title>
         <id>https://www.solidot.org/story?sid=67851</id>
