@@ -319,6 +319,51 @@
       "siteUrl": "https://www.solidot.org",
       "articles": [
         {
+          "id": "https://www.solidot.org/story?sid=67897",
+          "author": null,
+          "description": "创造 Chia 币的 Chia Network 总裁 Gene Hoffman 承认这种利用硬盘挖矿的加密货币破坏了硬盘供应链。比特币是基于所谓的工作量证明，需要执行大量无意义的计算，挖矿需要消耗惊人的电力；而 Chia 币是基于空间证明（Proof of Space），抛弃了计算改用空闲的硬盘空间。在理论上，它消耗很少的电力，但却导致了对硬盘的大量需求。目前有 1200 万 TB 的硬盘空间被用于挖掘 Chia 币。硬盘仍然需要能量生产和运行，而持续的读写被发现会大幅缩短寿命。 Hoffman 表示这个问题只影响最廉价的硬盘。他表示短期内硬盘供应会出现问题价格会上涨，但长期内随着制造商加快生产其价格会下跌。",
+          "link": "https://www.solidot.org/story?sid=67897",
+          "publishedOn": "2021-05-28T15:45:00.000Z",
+          "wordCount": 92,
+          "title": "Chia 正在破坏硬盘供应链"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=67896",
+          "author": null,
+          "description": "研究人员在感染 COVID-19 之后康复的患者骨髓内发现了长期存在的抗体生成细胞，推测感染新冠的患者可能会终身携带抗体，而新冠疫苗也可能具有类似的持久性。骨髓中的浆细胞（BMPC）能在几十年内持续产生抗体。早期的 COVID-19 免疫研究发现，患者在康复后不久体内的抗体水平就大幅下降，因而引发了免疫不持久的担忧。研究人员跟踪了 77 名感染 COVID-19 后出现轻度症状的患者在康复后的抗体水平，发现在 4 个月后抗体就大幅减少，但之后的下降幅度相对缓慢，研究人员在 11 个月后仍然能探测到抗体。为了识别抗体的来源，研究人员收集了记忆性 B 细胞(memory B cell) 和骨髓，发现了稳定的 BMPC 水平。",
+          "link": "https://www.solidot.org/story?sid=67896",
+          "publishedOn": "2021-05-28T15:12:18.000Z",
+          "wordCount": 89,
+          "title": "感染新冠之后可能会终身携带抗体"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=67895",
+          "author": null,
+          "description": "火星直升机 Ingenuity 完成了在火星上的第六次飞行，期间发生飞行异常，但最终还是设法安全着陆。这次飞行计划在爬升到 10 米之后向西南方向飞行 150 米，再向南飞行 50 米，最后朝东北方向飞行 50 米，总飞行时间预计为 140 秒。但在第一阶段飞行结束时遇到了问题，Ingenuity 出现振荡，横摇和纵摇超过 20 度，电力消耗大幅增加。JPL 发现原因是 Ingenuity 用于估计速度和位置使用的图像丢失了一幅，破坏了后续图像的时间戳，导航算法因而发生了混乱。Ingenuity 还是能按照预定路线飞行和着陆，原因是为了避免飞尘它被编程在着陆前关闭视觉导航系统。",
+          "link": "https://www.solidot.org/story?sid=67895",
+          "publishedOn": "2021-05-28T15:09:21.000Z",
+          "wordCount": 89,
+          "title": "火星直升机在发生飞行异常之后安全着陆"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=67894",
+          "author": null,
+          "description": "微软表示，去年年底发现的 SolarWinds 供应链攻击背后的黑客组织现在正瞄准政府机构、智库、顾问公司和非政府组织。微软称，源自俄罗斯的 Nobelium 与2020年攻击 SolarWinds 客户的幕后黑手是同一个行动者。“这一波攻击的目标是 150 多个不同组织的大约 3,000 个电子邮件账户。”至少有四分之一的目标组织参与了国际发展、人道主义问题和人权工作。微软说， Nobelium 通过侵入美国国际发展署(USAID)使用的电邮营销账户发起了本周的攻击，并从那里对许多其他组织发起了网络钓鱼攻击。",
+          "link": "https://www.solidot.org/story?sid=67894",
+          "publishedOn": "2021-05-28T11:16:20.000Z",
+          "wordCount": 84,
+          "title": "SolarWinds 黑客再次活跃"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=67893",
+          "author": null,
+          "description": "荷兰皇家壳牌石油公司被法庭命令加快减排，而另一家能源巨头埃克森美孚则面临来自投资者的减排压力，至少两名候选董事是由想要该公司加大投资清洁能源的投资者推举的。对冲基金 Engine No. 1 列出了一份包含 4 名候选人的名单，它的提议得到了第二大股东、同时也是世界上最大的投资基金黑石的支持。黑石集团管理的资金超过 8.6 万亿美元。4 名候选人中有 2 人直接当选，还有 1 人接近当选。",
+          "link": "https://www.solidot.org/story?sid=67893",
+          "publishedOn": "2021-05-28T09:25:33.000Z",
+          "wordCount": 83,
+          "title": "石油巨头面临来自投资者和法庭减排压力"
+        },
+        {
           "id": "https://www.solidot.org/story?sid=67892",
           "author": null,
           "description": "美国电信公司 Comcast 的一位用户在 Reddit/linux 频道上透露，他通过 BT 下载了 Ubuntu 的 ISO 镜像之后收到 DMCA 侵权通知。在 DMCA 通知中，反盗版组织列举的侵权文件的哈希值为 4ba4fbf7231a3a660e86892707d25c135533a16a，而它正是 Canonical 官方 ISO 镜像 64 位 Ubuntu 20.04.2.0 LTS 的值。通过 BT 下载  Ubuntu 与侵权显然毫无关系。这起事件再次凸显了反盗版组织滥用 DMCA 通知的问题。",
