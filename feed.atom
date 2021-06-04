@@ -2,10 +2,218 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://solohuman.github.io/rss-m/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T01:54:05.664Z</updated>
+    <updated>2021-06-04T01:37:06.192Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://solohuman.github.io/rss-m/index.html"/>
     <link rel="self" href="https://solohuman.github.io/rss-m/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[江苏发现首例人感染 H10N3 禽流感]]></title>
+        <id>https://www.solidot.org/story?sid=67947</id>
+        <link href="https://www.solidot.org/story?sid=67947"/>
+        <updated>2021-06-03T14:01:09.000Z</updated>
+        <summary type="html"><![CDATA[江苏发现了一例人感染 H10N3 禽流感病例。据国家卫健委发布的消息，该委已指导江苏省按照相关方案开展防控，并组织专家风险评估。专家评估认为，病毒全基因分析显示，H10N3 病毒为禽源性，未具备有效的感染人的能力。此前未见 H10N3 人间病例报道。禽间 H10N3 病毒对禽呈低致病性。此次疫情为一次偶发的禽到人的跨种属传播，发生大规模传播流行风险极低。一位感染病学专家称，禽流感病毒出现个别人感染病例很正常，但感染力的强弱，既受到基因层面人对某种病毒易感性的影响，也取决于病毒与人体受体亲和力的强度。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender 2.93 LTS 发布]]></title>
+        <id>https://www.solidot.org/story?sid=67946</id>
+        <link href="https://www.solidot.org/story?sid=67946"/>
+        <updated>2021-06-03T12:54:29.000Z</updated>
+        <summary type="html"><![CDATA[开源 3D 图形设计软件 Blender 释出了 2.93 LTS 版，它代表着 2.xx 时代的结束，3.0 时代的到来。主要新特性包括：重写了 EEVE 景深渲染选项；扩充了 Geometry Nodes，加入了默认工作空间；艺术线条修改工具支持创建风格化线条，支持导出 SVG 和 PDF；更新了建模；等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PayPal 关闭了一位 Tor 长期支持者的账号]]></title>
+        <id>https://www.solidot.org/story?sid=67945</id>
+        <link href="https://www.solidot.org/story?sid=67945"/>
+        <updated>2021-06-03T10:29:09.000Z</updated>
+        <summary type="html"><![CDATA[近二十年的时间里，Larry Brandt 一直使用 PayPal 账号租赁服务器运行 Tor 节点。但今年 3 月他收到了账号被封的通知。PayPal 在邮件里称他账号的活动危及 PayPal，账号里的钱会在 180 天后退还。他尝试联络客服解决问题但找不到人，因此他只能求助于电子前哨基金会（EFF）。EFF 代表他联络 PayPal，PayPal 否认封锁账号与 Tor 有关，但拒绝给出更详细的封号解释，也拒绝恢复其账号。EFF 发表声明，要求 PayPal 发布透明度报告；如果要关闭用户账号，需要向客户提供更有意义的通知；提供一个有用的上诉流程。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[胡志明市聚集疫情暴发，越南面临新一轮考验]]></title>
+        <id>https://cn.nytimes.com/asia-pacific/20210603/vietnam-covid-ho-chi-minh/dual</id>
+        <link href="https://cn.nytimes.com/asia-pacific/20210603/vietnam-covid-ho-chi-minh/dual"/>
+        <updated>2021-06-03T10:06:02.000Z</updated>
+        <summary type="html"><![CDATA[RICHARD C. PADDOCK, CHAU DOAN2021年6月3日今年5月，越南河内的卫生和地方官员正在检查一家餐馆。随着新一波新冠感染，伴随而来的恐惧浪潮席卷了全国。 Nhac Nguyen/Agence France-Presse — Getty Images
+For more than 20 years, the husband and wife were stalwarts of their evangelical community: pastors who founded a small church in Ho Chi Minh City, Vietnam, where they led services and distributed food and clothing to the needy.
+20多年来，这对夫妻是他们福音派社区的中坚力量：两位牧师在越南胡志明市建立了一个小教堂，在那里他们布道并向有需要的人分发食物和衣服。
+Now, the couple are pariahs. They have been blamed by the authorities for a major coronavirus outbreak, are facing a criminal investigation and have been held accountable on social media for a lockdown in their neighborhood and a ban on religious services nationwide.
+现在，这对夫妇遭到摒弃。当局将新冠病毒的大规模暴发归咎于他们，他们正面临刑事调查，社交媒体上把社区封锁和全国宗教服务禁令的责任归咎于他们。
+The Protestant pastors, Phuo…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为混淆两个鸿蒙操作系统]]></title>
+        <id>https://www.solidot.org/story?sid=67944</id>
+        <link href="https://www.solidot.org/story?sid=67944"/>
+        <updated>2021-06-03T09:52:50.000Z</updated>
+        <summary type="html"><![CDATA[华为正式发布了鸿蒙操作系统，但它没有明确说明的是它其实有两个鸿蒙，这两个鸿蒙事实上是完全不同的：其一是针对物联网和智能手表的鸿蒙，它是基于华为开源的 LiteOS；第二个鸿蒙是用于智能手机和平板，它是基于 Android 源代码（AOSP），使用 Linux 内核，因此华为的智能手机能从 Android“升级”到鸿蒙。两个不同的操作系统使用相同的品牌肯定会造成混淆，但这给华为对鸿蒙的诠释留下了很大的空间。华为高管曾强调鸿蒙没有拷贝 Android 一行代码，这一声明适用于物联网版本的鸿蒙，但不适用于智能手机版本的鸿蒙。与此同时，华为消费者业务软件部总裁王成录告诉德国媒体，手机版的鸿蒙是基于 AOSP，它遵守了开源许可证规定，履行了相关责任义务。从华为的演示看，手机版的鸿蒙使用了 Android 11 的代码。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纽约大都会运输署4月遭入侵，黑客据信与中国政府有关]]></title>
+        <id>https://cn.nytimes.com/usa/20210603/mta-cyber-attack/dual</id>
+        <link href="https://cn.nytimes.com/usa/20210603/mta-cyber-attack/dual"/>
+        <updated>2021-06-03T08:36:02.000Z</updated>
+        <summary type="html"><![CDATA[CHRISTINA GOLDBAUM, WILLIAM K. RASHBAUM2021年6月3日运输官员表示，这是近年来对北美最大的运输网络的第三次、也是最严重的一次网络攻击，被认为是与外国政府有关的黑客所为。 Karsten Moran for The New York Times
+A hacking group believed to have links to the Chinese government penetrated the Metropolitan Transportation Authority’s computer systems in April, exposing vulnerabilities in a vast transportation network that carries millions of people every day, according to an M.T.A. document that outlined the breach.
+根据大都会运输署(Metropolitan Transportation Authority)一份概述黑客入侵事件的文件，一个据信与中国政府有联系的黑客组织于4月侵入了该署的计算机系统，暴露了这个每天运送数百万人的庞大交通网络的漏洞。
+The hackers did not gain access to systems that control train cars and rider safety was not at risk, transit officials said, adding that the intrusion appeared to have done little, if any, damage.
+运输署官员说，黑客没有进入控制火车车厢的系统，乘客的安全也没有受到威胁，…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[openSUSE Leap 15.3 发布]]></title>
+        <id>https://www.solidot.org/story?sid=67943</id>
+        <link href="https://www.solidot.org/story?sid=67943"/>
+        <updated>2021-06-03T08:06:38.000Z</updated>
+        <summary type="html"><![CDATA[基于企业发行版 SUSE Linux Enterprise (SLE) 的社区发行版 openSUSE 释出了 Leap 15.3，开发者称，Leap 15.3 不只是使用 SLE 源代码构建的，它还使用了 SLE 的二进制包，两者的关系就像是阴和阳。开发者不推荐从 Leap 15.2 之前的版本直接升级到 Leap 15.3，而是建议先升级到 Leap 15.2 再升级到 Leap 15.3。主要变化包括：Xfce 4.16，GNU Health v3.8，包管理器 DNF 4.7.0，支持 IBM Z 和 LinuxONE (s390x)，等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA 计划向金星发射两艘飞船]]></title>
+        <id>https://www.solidot.org/story?sid=67942</id>
+        <link href="https://www.solidot.org/story?sid=67942"/>
+        <updated>2021-06-03T06:41:09.000Z</updated>
+        <summary type="html"><![CDATA[NASA 宣布计划未来十年向金星发射两艘飞船。两项任务 DAVINCI+ 和 VERITAS 预算都为 5 亿美元，其中 DAVINCI+ 将收集金星大气的样本，研究其大气层是如何形成和研究，判断金星是否曾经有过海洋，它将发射球形仪器穿过大气层拍摄其独特地貌的高清照片。VERITAS 任务主要测绘金星的表面，研究其地质历史，理解它为什么与地球如此不同，它将配备合成孔径雷达。两项任务的发射日期都是在 2028 年到 2030 年之间。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果将要求员工每周回办公室工作三天]]></title>
+        <id>https://www.solidot.org/story?sid=67941</id>
+        <link href="https://www.solidot.org/story?sid=67941"/>
+        <updated>2021-06-03T06:29:14.000Z</updated>
+        <summary type="html"><![CDATA[从 9 月初开始，苹果将要求员工每周回办公室工作至少三天，苹果 CEO 库克（Tim Cook）告诉员工，视频会议能缩短我们之间的距离，但总有些东西它是无法复制的。员工将被要求周一、周二和周四回办公室办公，周三和周五可选择远程办公，需要现场办公的团队将被要求一周回办公室工作四到五天。员工还可以选择一年最长远程工作两周，这一要求需要得到经理的批准。库克还鼓励所有员工接种疫苗。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富士遭勒索软件攻击]]></title>
+        <id>https://www.solidot.org/story?sid=67940</id>
+        <link href="https://www.solidot.org/story?sid=67940"/>
+        <updated>2021-06-03T05:43:17.000Z</updated>
+        <summary type="html"><![CDATA[富士胶片发表声明称其服务器遭到未经授权访问，它因此关闭了部分网络断开了与外部的通信。富士称它是在 6 月 1 日晚上了解到可能遭到勒索软件的攻击。它没有披露是遭到哪个勒索软件的攻击。安全研究人员称富士上个月曾感染了木马  Qbot，而  Qbot 恶意程序团队目前正与勒索软件组织 REvil 密切合作。最近对世界最大肉品供应商 JBS 的勒索软件攻击被认为就来自于 REvil。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为推出鸿蒙2.0操作系统]]></title>
+        <id>https://www.solidot.org/story?sid=67939</id>
+        <link href="https://www.solidot.org/story?sid=67939"/>
+        <updated>2021-06-03T04:49:51.000Z</updated>
+        <summary type="html"><![CDATA[华为正式推出鸿蒙2.0系统(HarmonyOS)，周三晚间起部分华为手机将可以一键升级至鸿蒙。这意味着华为将不再依赖谷歌的安卓系统。华为此前预计到 2021 年底，搭载鸿蒙操作系统的设备数量将达 3 亿台，其中华为设备超过 2 亿台，面向第三方合作伙伴的各类终端设备数量超过 1 亿台。相较于安卓，鸿蒙并非一个简单的新版操作系统。华为称鸿蒙是“面向万物互联时代的全场景分布式操作系统”，目标是在电脑、智能手表、汽车以及其它智能设备上均可使用，而且设备间可以互相连接。用户报告称，华为手机升级到鸿蒙之后仍然能运行安卓应用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[陈锡兰，用舞步团结世界的社会主义舞蹈家]]></title>
+        <id>https://cn.nytimes.com/obits/20210603/si-lan-chen-overlooked/dual</id>
+        <link href="https://cn.nytimes.com/obits/20210603/si-lan-chen-overlooked/dual"/>
+        <updated>2021-06-03T04:36:01.000Z</updated>
+        <summary type="html"><![CDATA[JENNIFER WILSON2021年6月3日
+This article is part of Overlooked, a series of obituaries about remarkable people whose deaths, beginning in 1851, went unreported in The Times.
+“被忽视的逝者”是一个杰出人物讣告系列，这些在1851年以后去世的人物，在当时没有得到时报的讣闻报道。
+In 1945, the dancer Si-lan Chen sent a draft of her memoir to the writer Pearl S. Buck, with a letter asking for her thoughts on why she was struggling to get the attention of a publisher.
+1945年，舞蹈家陈锡兰将她的回忆录草稿寄给作家赛珍珠(Pearl S. Buck)，并附信询问她为何难以引起出版商的注意。
+The problem, Buck explained, was that while Chen had dined with the Nationalist leader Chiang Kai-shek in revolutionary China, had been romanced by the poet Langston Hughes in Soviet Moscow, and had worked in Hollywood for the producer Joseph Mankiewicz, no one actually knew who she was.
+赛珍珠解释说，问题在于，虽然陈锡兰在中国革命时期曾与国民党领袖蒋介石共进…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stack Overflow 以 18 亿美元出售给 Prosus]]></title>
+        <id>https://www.solidot.org/story?sid=67938</id>
+        <link href="https://www.solidot.org/story?sid=67938"/>
+        <updated>2021-06-03T02:45:52.000Z</updated>
+        <summary type="html"><![CDATA[著名编程问答网站 Stack Overflow 宣布以 18 亿美元出售给 Prosus。Stack Overflow 创办于 2008 年，每月能吸引超过 1 亿访问者。Prosus 是腾讯大股东 Naspers 旗下的投资部门，控制了腾讯 28.9% 的股份，它在欧洲上市，是欧洲市值最高的科技公司之一，收购  Stack Overflow 是该公司至今最大的交易之一。 Stack Overflow 的收入主要来自企业推广其产品和招聘员工。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚裔美国人，一个美丽但充满缺陷的虚构故事]]></title>
+        <id>https://cn.nytimes.com/opinion/20210603/asian-american-aapi-decolonization/dual</id>
+        <link href="https://cn.nytimes.com/opinion/20210603/asian-american-aapi-decolonization/dual"/>
+        <updated>2021-06-03T02:36:01.000Z</updated>
+        <summary type="html"><![CDATA[VIET THANH NGUYEN2021年6月3日 Illustration by The New York Times; Photographs, via Getty
+One is not born an Asian American. It’s an identity that is inherently political, and must be chosen. Before college, I had never even heard of the term, but I vividly remember the moment that I became Asian American.
+一个人并非生来就是亚裔美国人。这个身份认同在根本上是政治性的，必须由人来选择。上大学前，我甚至从未听说过这个词，但我清晰地记得我成为亚裔美国人的时刻。
+I was raised in multicultural San Jose, Calif., during the late 1970s and 1980s, among Mexican Americans and working-class white people. My family and I were refugees from Vietnam and the war fought there, but all I knew of the history that had brought us and many of our neighbors to the United States was what Hollywood told me. It confused me and shamed me to see people who looked like my parents being reduced to wo…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge 开始自动切换到 HTTPS]]></title>
+        <id>https://www.solidot.org/story?sid=67937</id>
+        <link href="https://www.solidot.org/story?sid=67937"/>
+        <updated>2021-06-02T13:25:21.000Z</updated>
+        <summary type="html"><![CDATA[如果网站支持 HTTPS，Microsoft Edge 通过 HTTP 访问该网站时将自动切换到 HTTPS。该功能已包含在测试版本中，正在推送给部分挑选的 Microsoft Edge 92 用户。自动切换到 HTTPS 连接将能阻止中间人攻击，防止流量纂改。如果 Microsoft Edge 用户现在就想启用该功能，可以打开  edge://settings/privacy，启用 Automatically switch to more secure connections with Automatic HTTPS。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国迎来公园修建热潮]]></title>
+        <id>https://www.solidot.org/story?sid=67936</id>
+        <link href="https://www.solidot.org/story?sid=67936"/>
+        <updated>2021-06-02T13:21:29.000Z</updated>
+        <summary type="html"><![CDATA[随着中国正发展成一个工业化的富裕国家，受教育程度越来越高的民众不仅要求提高工资，而且要求提高生活质量。中国迎来了公园修建热潮。苏州过去一年开放了 20 个新公园。开封建设了 28 个新公园。上海去年新增了 55 个公园，使其总数达到 406 个。这座世界上最大的城市之一宣布，计划在未来五年内再建造近 600 个公园。现在，中国城市的人均绿地面积可与纽约媲美。中国最近通过的五年规划要求在全国范围内开展直至 2025 年的城市公园建设规划。城市被要求“科学规划布局城市绿环绿廊绿楔绿道”。该计划还要求在全国范围内修建 1000 座大型公园，鼓励人们健身。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界最大肉类供应商遭勒索软件攻击]]></title>
+        <id>https://www.solidot.org/story?sid=67935</id>
+        <link href="https://www.solidot.org/story?sid=67935"/>
+        <updated>2021-06-02T12:38:08.000Z</updated>
+        <summary type="html"><![CDATA[世界最大的肉加工企业 JBS 遭到勒索软件攻击，公司临时关闭了位于澳大利亚、加拿大和美国的部分运营，有数千工人受到影响。勒索软件组织被认为来自俄罗斯。美国白宫表示 FBI 正对此展开调查。俄罗斯副外长 Sergei Ryabkov 告诉当地媒体拜登当局已联络莫斯科讨论网络攻击。JBS 于 1953 年在巴西创办，在 15 个国家拥有超过 150 家工厂，雇佣了超过 15 万员工。该公司表示其备份系统没有受到影响。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[员工宁愿辞职不愿放弃远程工作]]></title>
+        <id>https://www.solidot.org/story?sid=67934</id>
+        <link href="https://www.solidot.org/story?sid=67934"/>
+        <updated>2021-06-02T11:28:31.000Z</updated>
+        <summary type="html"><![CDATA[在许多地方，随着疫苗接种的普及，企业逐渐恢复到原来的工作模式。虽然 Google 等公司承诺给予员工工作的灵活性，但很多企业的高管开始称赞办公室工作的优越性，认为远程工作削弱了合作和企业文化。员工们并不认同这一观点。过去一年的经历证明，很多工作可以在任何地方完成，无需漫长的通勤。有员工认为，一部分企业老板是在试图重新控制他们的“小黄人”。上个月对 1000 名美国成年人的调查显示，如果雇主在远程工作上没有灵活性，有 39% 的人考虑辞职。在千禧年和 Z 世代人群中，这个比例达到了 49%。FlexJobs 对 2100 人的调查显示，无需通勤和节约费用是远程工作最主要益处。超过三分之一的回应者称，远程工作至少每年能节省 5000 美元。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯如何从公敌变为“开明君主”]]></title>
+        <id>https://www.solidot.org/story?sid=67933</id>
+        <link href="https://www.solidot.org/story?sid=67933"/>
+        <updated>2021-06-02T11:06:51.000Z</updated>
+        <summary type="html"><![CDATA[十几年前，腾讯被广泛视为中国科技企业的公敌。它会毫不犹豫地剽窃他人的创意，让初创公司活不下去。但今天它变成了某种“开明君主”。中国互联网产业有相当一部分属于所谓的腾讯生态系统。这其中包括成百上千家腾讯投资的公司。“当腾讯抄袭的时候”，中国的科技公司没有倒下来，一篇被热转的博客写道。“当腾讯把支票递过来后，他们便失去了抵抗的意志，纷纷投诚。”腾讯在世界上是独一无二的。在许多层面上，它是真正的垄断者。腾讯是一个大型娱乐平台；是风险投资者，根据它自己的说法，它已投资了 800 多家公司；最重要的是，腾讯是一个平台运营商。它运行微信，一款具有社交媒体和金融服务功能的移动消息应用程序。是微信业务让这个公司注重与其他公司交好。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新冠病毒“实验室泄露说”背后真正的丑闻]]></title>
         <id>https://cn.nytimes.com/opinion/20210602/media-lab-leak-theory/dual</id>
@@ -19,6 +227,26 @@ But this possible scandal, which is as yet unproved, obscures an actual scandal,
 I mean the long refusal by too many media gatekeepers (social as well a…]]></summary>
         <author>
             <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCC 放弃版权转让政策]]></title>
+        <id>https://www.solidot.org/story?sid=67932</id>
+        <link href="https://www.solidot.org/story?sid=67932"/>
+        <updated>2021-06-02T09:34:17.000Z</updated>
+        <summary type="html"><![CDATA[GCC 编译器项目和很多 GNU 项目一样，需要贡献者完成文书工作将版权转让给自由软件基金会（FSF）。现在 GCC 的指导委员会决定放宽这一要求，GCC 项目将会继续采用 GNU GPLv3 许可证，但不再要求版权转让给 FSF。这一变动与其它大型自由软件项目如 Linux 内核采取的做法保持一致。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白俄禁止绝大部分居民出国]]></title>
+        <id>https://www.solidot.org/story?sid=67931</id>
+        <link href="https://www.solidot.org/story?sid=67931"/>
+        <updated>2021-06-02T09:24:42.000Z</updated>
+        <summary type="html"><![CDATA[白俄罗斯临时限制绝大部分公民出境，包括持有居留许可的外籍居民。允许出境的主要是商务旅行的公务员和国家交通运输部门的工作人员。在劫持一架 Ryanair 航空公司航班逮捕机上持不同政见的记者及其女友引发国际社会的愤怒之后，国家边境委员会收紧了出入境限制，它在一份声明中称，只有在外国拥有永久居留许可的人才被允许离开白俄罗斯。边境委员会对于采取这一措施给出的理由是新冠疫情。卢卡申科（Alexander Lukashenko）在去年 8 月 9 日宣布赢得受争议的大选后严厉镇压了反对者，迫使很多人流亡。他的最主要竞争对手 Svetlana Tikhanovskaya 坚称她赢得了大选，她及其团队流亡到了邻国立陶宛。外国人只有在 10 天的自我隔离之后才允许离境。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
