@@ -16,12 +16,89 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-06-05">2021-06-05</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.solidot.org">奇客Solidot–传递最新科技情报</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">完整测序人类基因组</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;67962">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>当 20 年前人类基因组项目和 Celera Genomics 公司测序人类基因组时，他们没有完整测序。有 15% 的基因组因为技术限制研究人员无法弄明白某些 DNA 片段是如何组合在一起的。科学家之后解决了部分问题，但仍然有 8% 的基因组缺失。现在，Telomere-to-Telomere (T2T) 联盟的研究人员宣布完成了对人类基因组完整测序。研究报告发表在预印本网站 bioRxiv 上。研究人员报告发现了编码蛋白质的 115 个新基因，基因总数达到 19,969 个。来自  Pacific Biosciences 公司的新测序技术帮助研究人员完成了这一成就，新技术使用激光扫描从细胞里隔离的 DNA 长链，一次最高 2 万碱基对。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">黑客利用泄露的 VPN 密码入侵 Colonial Pipeline</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;67961">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>调查网络攻击的安全公司 Mandiant 的高级副总裁 Charles Carmakal 称，黑客是在 4 月 29 日通过一个 VPN 账号进入美国最大燃油管道公司 Colonial Pipeline 的内网。VPN 允许雇员远程访问公司内网。该账号当时已经不再使用了，但仍然能用于访问内网。账号使用的密码曾被泄露到暗网，这意味着一位 Colonial Pipeline 雇员可能有另一个使用相同密码的泄露账号。至于黑客是如何获得密码 Carmakal 表示无法确定。该 VPN 账号没有使用多因素身份验证，因此黑客只要使用账号名和密码就能进入内网。调查人员不知道黑客是如何获得正确的用户名的。Carmakal 称他们没有发现公司雇员曾遭到钓鱼攻击。5 月 7 日凌晨 5 点，Colonial 控制室的一名雇员看到了勒索通知，他通知了上司，上司随后开始了关闭管道的程序。上午  6:10，全部燃油管道被关闭。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">英特尔和 AMD 提出 x86 中断处理的不同替代，Linus 建议两个都搞</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;67960">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>从 286 时代起，x86 处理器都是使用一个拜占庭系统去管理中断、故障和异常，它组合使用了查询表、权限检查等，可能会让人困惑，但大部分情况下能正常工作。不可避免的是，中断描述符表存在一些 bug，竞争条件、死锁、无限循环和权限冲突等问题虽然罕见但却难以避开。英特尔和 AMD 都各自提出一种方案去简化 x86 处理器的中断处理。两家公司的方案是互相不兼容的，英特尔野心更大，但将需要程序员重写程序才能利用新的机制，而 AMD 的方案更像是补丁而不是彻底改变，因此更简单。英特尔提出了 FRED (Flexible Return and Event Delivery) 去替代中断描述符表及其中断描述符，将权限级别的数量从 4 个减少到 2 个。FRED 是一个可选的系统，能与现有的方法共存，你需要在启动时候启用 FRED。AMD 的方案称为 Supervisor Entry Extensions (SEE)，保留了现有的中断描述符表和权限数量，它调整了现有的 SYSCALL 指令，添加了一个状态位标记中断处理程序为可重入，它寻求堵上一些漏洞。Linux 作者 Linus Torvalds 认为这两个方案都是好主意，建议都实现一下。两个方案并非完全互相排斥的。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2021-06-04">2021-06-04</time></h2>
     <ul class="sources card">
       <li class="source">
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://www.solidot.org">奇客Solidot–传递最新科技情报</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Norton 360 将允许用户挖掘以太坊</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;67959">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>NortonLifelock 在其 Norton 360 杀毒软件中加入挖掘以太坊的功能，以“保护”用户免受恶意挖矿软件的侵犯。新功能被称为 Norton Crypto，将开始推送给登记参与测试的 Norton 360 用户。启用 Norton Crypto 之后，杀毒软件将使用 GPU 挖掘以太坊，挖矿所得将转移到云端的 Norton 钱包。暂时还不清楚 Norton Crypto 是独立挖矿还是作为矿池的一部分挖矿。矿池挖矿能更容易挖出以太坊。如果 Norton 经营矿池，从挖掘出的以太坊里获取少部分收入，那么这项功能将能给它带来收入。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">WordPress 强制对使用 Jetpack 插件的网站执行安全更新</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;67958">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>WordPress 强制对五百多万使用 Jetpack 插件的网站执行安全更新。Jetpack 是一个非常受欢迎的 WordPres 插件，提供了免费的安全、性能和管理功能，包括暴力破解保护、网站备份、安全登陆、恶意程序扫描等。它的活跃安装量超过了五百万，由 WordPress 母公司 Automattic 开发和维护。新发现的安全漏洞影响自 2012 年发布 Jetpack 2.0 起的所有版本。开发团队未发现漏洞正被利用，但随着安全更新的释出，漏洞被利用只是时间问题。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">NASA 将水熊虫和幼鱿鱼送到太空</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;67957">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>SpaceX 于 6 月 3 日 17:29 UTC 在佛罗里达的肯尼迪太空中心发射了一艘货运飞船，执行国际空间站的 CRS-22 补给任务。运送的物品包括水熊虫和夏威夷短尾鱿鱼，以及科学仪器如便捷式超声波等。为什么 NASA 要送去水熊虫和幼鱿鱼？NASA 研究人员想要更好的理解太空飞行环境如何影响生物体，以及未来的宇航员。水熊虫以能在极端环境下的生存能力著称，它们几乎死不了，因此是研究太空飞行对生物生存的完美测试对象。夏威夷短尾鱿鱼则是为了研究微重力对微生物的影响，人体内有许多的微生物，它们对维持人体健康至关重要，但研究人员对太空飞行的微重力环境如何影响这些微生物还不能完全理解。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">15 头亚洲象长达一年的迁徙</summary>
@@ -2885,7 +2962,7 @@ But now, as the federal government focuses on a spate of attacks targeting Asian
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-06-05T01:13:14.241Z">2021-06-05T01:13:14.241Z</time>
+    <time id="build-timestamp" datetime="2021-06-06T01:07:00.689Z">2021-06-06T01:07:00.689Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.10.2</a></span>
   </footer>
   <script src="index.js"></script>
