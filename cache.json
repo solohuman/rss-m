@@ -6,6 +6,60 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/usa/20210610/biden-europe-g7/dual",
+          "author": null,
+          "description": "MICHAEL D. SHEAR, DAVID E. SANGER2021年6月10日拜登总统在周三飞往欧洲与北约、欧盟和七国集团领导人进行一系列会晤之前对记者讲话。 Doug Mills/The New York Times\nWASHINGTON — It should not be that hard to be an American leader visiting Europe for the first time after President Donald J. Trump.\n华盛顿——作为唐纳德·J·特朗普(Donald J. Trump)总统之后访问欧洲的第一位美国领导人，应该不算什么难事。\nBut President Biden will face his own challenges when he departs on Wednesday, especially as the United States confronts a disruptive Russia and a rising China while trying to reassemble and rally the shaken Western alliance as it emerges from the coronavirus pandemic.\n但是拜登总统在周三启程时也将面临他自己的挑战，尤其考虑到美国需要面对一个破坏性的俄罗斯和崛起的中国，同时要在西方联盟刚刚走出冠状病毒大流行之际试图重新召集和团结这个动摇的联盟。\nMr. Biden, who will arrive for a series of summit meetings buoyed by a successful vaccination program and a rebounding economy, will …",
+          "link": "https://cn.nytimes.com/usa/20210610/biden-europe-g7/dual",
+          "publishedOn": "2021-06-10T09:06:02.000Z",
+          "wordCount": 1701,
+          "title": "拜登任内首访欧洲，能否重振美欧联盟？"
+        },
+        {
+          "id": "https://cn.nytimes.com/asia-pacific/20210610/mongolia-covid-sinopharm-vaccine/dual",
+          "author": null,
+          "description": "艾莎2021年6月10日5月，蒙古乌兰巴托，一名护士正在查看刚刚接种疫苗的人。 Khasar Sandag for The New York Times\nCoronavirus cases are surging in Mongolia, where more than half the population is fully vaccinated, prompting a new focus on the effectiveness of its main vaccine, developed by China’s Sinopharm.\n在已经有半数以上人口完全接种疫苗的情况下，蒙古的新冠病例正在剧增。这令人们再一次关注该国主要使用的中国国药疫苗的有效性。\nMongolia reported 1,312 new cases of the coronavirus on Wednesday as the country’s total infections neared 70,000, almost all recorded since January. New daily infections have risen more than 70 percent in the past two weeks, according to a New York Times database.\n蒙古周三报告了1312例新冠新增病例，而该国总感染人数已接近7万，几乎都是1月以后记录的。根据《纽约时报》的数据，在过去的两周内，蒙古每日新增感染人数已经上升了超过70%。\nThe landlocked nation has emerged as an outlier in the global scramble for vaccines among developing nations, sec…",
+          "link": "https://cn.nytimes.com/asia-pacific/20210610/mongolia-covid-sinopharm-vaccine/dual",
+          "publishedOn": "2021-06-10T08:06:02.000Z",
+          "wordCount": 563,
+          "title": "蒙古新冠病例激增，国药疫苗有效性再受质疑"
+        },
+        {
+          "id": "https://cn.nytimes.com/opinion/20210610/china-children-policy/dual",
+          "author": null,
+          "description": "YASHU ZHANG2021年6月10日 Kevin Frayer/Getty Images\nSHANGHAI — I’m 28, I have no children and I want to have more than one. I say this as a single child myself.\n上海——我今年28岁，还没有孩子，我想要一个以上的孩子。我是以一个独生子女的身份这么说的。\nI lament the absence of the younger sibling I could have had if my parents had not aborted it. But there was no way they wouldn’t have. “Having a second child was like running the red light.” my mother has said. “It was against the law.”\n我感叹，如果父母没有堕胎，我本可以有个弟弟或者妹妹。但他们别无选择。“生二胎就像闯红灯。”我母亲说。“是犯法的。”\nI felt lonely growing up. After the Chinese government announced last week that married couples could now have up to three children, I asked my parents, both born well before the one-child policy and with siblings themselves, if they had wanted more children. My mother said: “Yes. In case we die — no…",
+          "link": "https://cn.nytimes.com/opinion/20210610/china-children-policy/dual",
+          "publishedOn": "2021-06-10T07:06:01.000Z",
+          "wordCount": 972,
+          "title": "“三孩”政策来了，中国女性的身体仍然不属于自己"
+        },
+        {
+          "id": "https://cn.nytimes.com/usa/20210610/biden-tiktok-ban-trump/dual",
+          "author": null,
+          "description": "KATIE ROGERS, CECILIA KANG2021年6月10日TikTok在加州卡尔弗城的办公室。新的行政命令制定了更为精确的标准，权衡TikTok和中国等外国对手拥有的公司所带来的风险。 Mike Blake/Reuters\nWASHINGTON — President Biden on Wednesday revoked a Trump-era executive order that sought to ban the popular apps TikTok and WeChat and replaced it with one that calls for a broader review of a number of foreign-controlled applications that could pose a security risk to Americans and their data.\n华盛顿——拜登总统周三撤销了特朗普时期试图禁止流行应用程序TikTok和微信的行政命令，取而代之的是要求对一些可能对美国人及其数据构成安全风险、由外国控制的应用程序进行更广泛的审查。\nThe Trump order had not been carried out “in the soundest fashion,” Biden administration officials said in a call with reporters, adding that the new directive would establish “clear intelligible criteria” to evaluate national security risks posed by software applications connected to foreig…",
+          "link": "https://cn.nytimes.com/usa/20210610/biden-tiktok-ban-trump/dual",
+          "publishedOn": "2021-06-10T05:36:01.000Z",
+          "wordCount": 1099,
+          "title": "拜登撤销特朗普TikTok、微信行政令，签署新审查令"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20210610/wuhan-animal-markets-covid/dual",
+          "author": null,
+          "description": "RAYMOND ZHONG2021年6月10日2020年3月，武汉一家批发市场附近的工作人员。 Hector Retamal/Agence France-Presse — Getty Images\nIn the two years before the pandemic began, markets in the Chinese city of Wuhan were selling nearly three dozen animal species that can harbor pathogens that jump to humans, researchers have found, shedding new light on the possible role of the wildlife trade in the coronavirus’s origins.\n研究人员发现，在疫情开始前的两年里，中国城市武汉的市场上出售的三十多种动物可能携带着传染给人类的病原体。这为野生动物贸易在新冠病毒起源可能起到的作用提供了新的线索。\nThe researchers found sales in Wuhan of mink, palm civets and raccoon dogs, but they did not find sales of pangolins or bats, which have been suspected as possible sources of the coronavirus.\n研究人员在武汉发现貂、果子狸和貉的销售，但没有发现穿山甲或蝙蝠——它们被怀疑是新冠病毒的可能来源。\nIn all, the researchers documented sales of more than 47,000 animals across 38 specie…",
+          "link": "https://cn.nytimes.com/china/20210610/wuhan-animal-markets-covid/dual",
+          "publishedOn": "2021-06-10T03:36:01.000Z",
+          "wordCount": 619,
+          "title": "新研究：武汉市场贩售动物可能携带传染人类病原体"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20210610/china-covid-lockdown/dual",
+          "author": null,
+          "description": "KEITH BRADSHER2021年6月10日本周四，中国广州新建的核酸检测实验室。该市在从周日到周二的时间里，给全市几乎所有1870万人口做了病毒检测。 cnsphoto, via Reuters\nBEIJING — Neighborhoods under strict lockdown. Thousands quarantined. Millions tested in mere days. Overseas arrivals locked up for weeks and sometimes months.\n北京——严格封锁社区。对成千上万的人进行隔离。在短短几天内给数百万人做病毒检测。对从海外入境者进行几周、有时是几个月的隔离检疫。\nChina has followed variations of that formula for dealing with the coronavirus for more than a year — and a new outbreak suggests that they could be part of Chinese life for some time to come.\n一年多来，中国一直在使用这些措施的不同版本来应对新冠病毒。新一轮疫情暗示，这些措施可能会在未来一段时间里继续是中国生活的一部分。\nChina appeared to get the coronavirus under control nearly a year ago. But hundreds of millions of Chinese people remain unvaccinated. New variants of the coronavirus have appeared, and questions remain about whether…",
+          "link": "https://cn.nytimes.com/china/20210610/china-covid-lockdown/dual",
+          "publishedOn": "2021-06-10T02:36:02.000Z",
+          "wordCount": 1386,
+          "title": "中国重新收紧限制措施应对新一轮疫情"
+        },
+        {
           "id": "https://cn.nytimes.com/technology/20210609/farewell-millennial-lifestyle-subsidy/dual",
           "author": null,
           "description": "KEVIN ROOSE2021年6月9日 Joe Melhuish\nA few years ago, while on a work trip in Los Angeles, I hailed an Uber for a crosstown ride during rush hour. I knew it would be a long trip, and I steeled myself to fork over $60 or $70.\n几年前，在洛杉矶出差时，我在交通高峰时间叫了一辆优步(Uber)横穿市区。我知道这这段路会很长，于是做好了交出60或70美元的准备。\nInstead, the app spit out a price that made my jaw drop: $16.\n结果，这款应用给出了一个让我瞠目结舌的价格：16美元。\nExperiences like these were common during the golden era of the Millennial Lifestyle Subsidy, which is what I like to call the period from roughly 2012 through early 2020, when many of the daily activities of big-city 20- and 30-somethings were being quietly underwritten by Silicon Valley venture capitalists.\n在“千禧一代生活方式补贴”(Millennial Lifestyle Subsidy)的黄金时代，这样的经历很常见。我喜欢这么称呼这个大约从2012年到2020年初的时期，当时，大城市二三十岁年轻人的许多日常活动都都被硅…",
@@ -696,6 +750,87 @@
       "feedUrl": "http://feeds.feedburner.com/solidot",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=68004",
+          "author": null,
+          "description": "Facebook CEO Mark Zuckerberg 宣布将允许所有全职员工在家远程办公，如果他们的工作能远程完成的话。Zuckerberg 在给员工的备忘录中表示，过去一年我们了解到好的工作可以在任何地方完成，他对大规模远程工作的可能性非常乐观，尤其是远程视频系统和虚拟现实在持续的改进。不能远程工作的主要是硬件部门和数据中心部门。Facebook 将允许员工跨国境远程工作，如美国的员工可以请求在加拿大远程工作，而欧洲的员工可以请求在英国远程工作。从 2022 年 1 月开始，Facebook 将允许员工在欧洲七国之间永久流动。",
+          "link": "https://www.solidot.org/story?sid=68004",
+          "publishedOn": "2021-06-10T07:49:38.000Z",
+          "wordCount": 83,
+          "title": "Facebook 延长在家远程办公政策"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=68003",
+          "author": null,
+          "description": "白宫表示，美国总统拜登周四将宣布，计划采购 5 亿剂辉瑞新冠疫苗并捐赠给 92 个中低收入国家和非洲联盟，同时呼吁世界各国尽自己努力帮助结束疫情。拜登将在英国康沃尔召开的七国集团(G7)会议前宣布疫苗捐赠计划，这将是单个国家的最大捐赠规模。白宫称，该计划意在“支持全球抗击新冠的行动”。华盛顿还将采取行动支持其他国家当地的新冠疫苗生产，包括通过与日本、印度和澳洲的“四国机制”来实现。",
+          "link": "https://www.solidot.org/story?sid=68003",
+          "publishedOn": "2021-06-10T07:45:15.000Z",
+          "wordCount": 74,
+          "title": "美国将捐赠五亿剂辉瑞疫苗"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=68002",
+          "author": null,
+          "description": "中国警方逮捕了 1100 多名涉嫌利用加密货币洗钱的嫌疑人，公安部称这一行动为“断卡行动”，破获了 170 多个涉嫌利用加密货币洗钱的犯罪团伙。洗钱者收取 1.5% 到 5% 的手续费，将非法所得转换成加密货币。因为加密货币具有匿名、便利和全球化的属性，日益成为跨境洗钱的重要渠道。中国上个月宣布打击比特币挖矿和交易行为。",
+          "link": "https://www.solidot.org/story?sid=68002",
+          "publishedOn": "2021-06-10T05:24:33.000Z",
+          "wordCount": 82,
+          "title": "中国逮捕 1100 名涉嫌利用加密货币洗钱的嫌疑人"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=68001",
+          "author": null,
+          "description": "在内蒙古之后，青海省工业和信息化厅下发通知，严禁各地区立项批复各类虚拟货币“挖矿”项目，对现有的各类虚拟货币“挖矿”项目全面关停；并要求坚决查处纠正以大数据、超算中心等名义立项但从事虚拟货币“挖矿”的项目主体。中国是在 5 月底宣布将打击比特币挖矿和交易行为。比特币挖矿需要消耗大量电力，因此专门的矿场主要建在电力非常便宜的地方，如四川、内蒙古和青海等地。中国对加密货币挖矿的打击预计将会推动矿工们迁往蒙古、哈萨克斯坦和阿富汗等地。",
+          "link": "https://www.solidot.org/story?sid=68001",
+          "publishedOn": "2021-06-10T05:07:29.000Z",
+          "wordCount": 72,
+          "title": "青海要求全面关停加密货币挖矿项目"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=68000",
+          "author": null,
+          "description": "据中国载人航天工程办公室消息，6 月 9 日，神舟十二号载人飞船与长征二号F遥十二运载火箭组合体已转运至发射区。目前，发射场设施设备状态良好，后续将按计划开展发射前的各项功能检查、联合测试等工作。神舟十二号载人飞船计划送 3 名航天员上太空，这 3 名航天员将成为空间站天和核心舱的首批“入住人员”。3 名航天员将在轨驻留 3 个月，开展舱外维修维护、设备更换、科学应用载荷等一系列操作。按照空间站建造任务规划，今明两年中国将接续实施 11 次飞行任务，包括 3 次空间站舱段发射、4 次货运飞船以及 4 次载人飞船发射，于 2022 年前后完成空间站在轨建造。",
+          "link": "https://www.solidot.org/story?sid=68000",
+          "publishedOn": "2021-06-10T03:27:23.000Z",
+          "wordCount": 89,
+          "title": "中国准备发射神舟十二号"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=67999",
+          "author": null,
+          "description": "美国总统拜登周三撤销了特朗普时代试图禁止新用户下载微信（WeChat）和 TikTok 的一系列行政令，并下令商务部审查这些应用和其他应用带来的安全担忧。拜登的新行政令撤销了特朗普去年 8 月发布的针对 WeChat 和 TikTok 的行政令，以及今年 1 月针对其他八款通信和金融技术软件应用的禁令。今年 1 月特朗普的行政令要求官员禁止美国公民与八款中国应用的交易，包括蚂蚁集团的支付宝和腾讯控股的 QQ 钱包和微信支付。",
+          "link": "https://www.solidot.org/story?sid=67999",
+          "publishedOn": "2021-06-10T02:28:43.000Z",
+          "wordCount": 86,
+          "title": "拜登撤销对微信、TikTok 和支付宝等的禁令"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=67998",
+          "author": null,
+          "description": "萨尔瓦多成为第一个将比特币归类为法币的国家。国会以 62/84 票批准了总统 Nayib Bukele 的提议。总统称政府创造了历史，此举将让该国的海外侨民更容易向国内寄钱。比特币将在 90 天内正式成为法币。新的法律意味着每一家企业都必须将比特币接受为购买商品或服务的法币，除非它无法提供用于完成交易所需的技术。萨尔瓦多严重依赖于海外侨民的汇款，这些汇款占到了 GDP 的20%。比特币的币值在 3.5 万美元左右，出于数个月来的低点。",
+          "link": "https://www.solidot.org/story?sid=67998",
+          "publishedOn": "2021-06-09T14:08:47.000Z",
+          "wordCount": 81,
+          "title": "萨尔瓦多批准比特币为法币"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=67997",
+          "author": null,
+          "description": "基于 Chromium 的浏览器 Vivaldi 释出了 4.0 版本。Vivaldi 由 Opera 联合创始人谭咏文（Jon von Tetzchner）创办。Vivaldi 4.0 的特性包括：桌面和 Android 版本内置翻译功能 Vivaldi Translate，该功能由 Lingvanex 提供，但翻译引擎托管在 Vivaldi 的服务器上，因此不涉及到第三方服务器，不会分享数据；邮件 Vivaldi Mail、阅读器 Vivaldi Feed Reader 以及日历  Vivaldi Calendar 发布了 beta 版本，邮件支持多个账号，支持 IMAP 和 POP3；等等。",
+          "link": "https://www.solidot.org/story?sid=67997",
+          "publishedOn": "2021-06-09T13:29:18.000Z",
+          "wordCount": 109,
+          "title": "Vivaldi 4.0 发布"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=67996",
+          "author": null,
+          "description": "美国 NIH 的研究人员绘制了大脑在学一项新技能如学习在钢琴上弹奏一首新歌曲时候的活动，发现学习期间的短暂休息有助于掌握新技能。研究人员发现在休息时大脑会快速反复回放之前练习的按键，回访的次数越多在随后的练习中表现会更好，这显示休息有助于增强记忆。研究报告发表在《Cell Reports》期刊上。研究人员认为这项发现不仅有助于塑造学习新技能的方式，也有助于帮助患者恢复因神经损伤而失去的技能。",
+          "link": "https://www.solidot.org/story?sid=67996",
+          "publishedOn": "2021-06-09T10:25:02.000Z",
+          "wordCount": 73,
+          "title": "研究发现短暂休息有助于大脑掌握新技能"
+        },
         {
           "id": "https://www.solidot.org/story?sid=67995",
           "author": null,
