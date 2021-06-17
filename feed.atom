@@ -2,10 +2,188 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://solohuman.github.io/rss-m/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-16T00:44:24.606Z</updated>
+    <updated>2021-06-17T00:40:33.684Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://solohuman.github.io/rss-m/index.html"/>
     <link rel="self" href="https://solohuman.github.io/rss-m/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“对牛弹琴”？丹麦农舍为奶牛举办音乐会]]></title>
+        <id>https://cn.nytimes.com/culture/20210429/cow-concert-scandinavian-cello-school/dual</id>
+        <link href="https://cn.nytimes.com/culture/20210429/cow-concert-scandinavian-cello-school/dual"/>
+        <updated>2021-06-16T09:36:01.000Z</updated>
+        <summary type="html"><![CDATA[LISA ABEND2021年4月29日 Carsten Snejbjerg for The New York Times
+LUND, Denmark — During a recent performance of Tchaikovsky’s “Pezzo Capriccioso,” a handful of audience members leaned forward attentively, their eyes bright, a few encouraging snuffles escaping from the otherwise hushed parterre. Though relative newcomers to classical music, they seemed closely attuned to the eight cellists onstage, raising their heads abruptly as the piece’s languid strains gave way to rapid-fire bow strokes.
+丹麦隆德——前不久，在一场柴可夫斯基(Tchaikovsky)《奇想曲》(Pezzo Capriccioso)演奏会上，几位观众聚精会神地向前倾着身子，眼睛闪闪发亮，除了几声鼓励的鼻息之外，整个会场一片寂静。尽管对古典音乐较为生疏，但它们似乎对台上八名大提琴手的举动心领神会，在慵懒旋律突然变成一连串运弓动作时，它们突然抬起了脑袋。
+When it was over, amid the fervent applause and cries of “bravo,” there could be heard a single, appreciative moo.
+一曲终了，在热烈的掌声和“好极了”的喊声中，可以…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚洲国家为何从抗疫模范变后进？]]></title>
+        <id>https://cn.nytimes.com/asia-pacific/20210616/asia-coronavirus/dual</id>
+        <link href="https://cn.nytimes.com/asia-pacific/20210616/asia-coronavirus/dual"/>
+        <updated>2021-06-16T09:36:01.000Z</updated>
+        <summary type="html"><![CDATA[DAMIEN CAVE2021年6月16日本月北京的购物者。中国已经表示，针对新冠病毒的限制可能会持续下去。 Andy Wong/Associated Press
+SYDNEY, Australia — All across the Asia-Pacific region, the countries that led the world in containing the coronavirus are now languishing in the race to put it behind them.
+澳大利亚悉尼——在整个亚太地区，在遏制新冠病毒方面曾处于世界领先地位的国家，如今在疲于摆脱病毒的困扰。
+While the United States, which has suffered far more grievous outbreaks, is now filling stadiums with vaccinated fans and cramming airplanes with summer vacationers, the pandemic champions of the East are still stuck in a cycle of uncertainty, restrictions and isolation.
+在疫情曾经严重得多的美国，体育场内坐满已接种疫苗的球迷，飞机上挤满了暑假出游的人，但在东方，遏制大流行的先锋国家仍然陷在不确定、限制和隔离的循环中。
+In southern China, the spread of the Delta variant led to a sudden lockdown in Guangzhou, a major industrial capital. Taiwan, Vietnam, Thailand a…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美欧搁置飞机补贴争端，共同应对中国挑战]]></title>
+        <id>https://cn.nytimes.com/business/20210616/us-eu-airbus-boeing/dual</id>
+        <link href="https://cn.nytimes.com/business/20210616/us-eu-airbus-boeing/dual"/>
+        <updated>2021-06-16T08:06:02.000Z</updated>
+        <summary type="html"><![CDATA[STEVEN ERLANGER, MICHAEL D. SHEAR2021年6月16日拜登总统周二在布鲁塞尔会见了欧盟委员会主席乌尔苏拉·冯德莱恩（左）和欧洲理事会主席查尔斯·米歇尔。 Doug Mills/The New York Times
+BRUSSELS — The United States and Europe on Tuesday agreed to put aside a 17-year dispute over aircraft subsidies for Boeing and Airbus and work together to counter China’s global ambitions to dominate key industries.
+布鲁塞尔——周二，美国和欧洲同意搁置长达17年的波音(Boeing)和空客(Airbus)飞机补贴争端，共同应对中国主导关键行业的全球野心。
+The agreement, which suspends the threat of billions of dollars in punitive tariffs on each other’s economies for five years, is a clear sign of President Biden’s seriousness in repairing relations with the European Union and getting the wealthy bloc on his side in what he regards as a generational challenge from the rise of a technologically advanced and autocratic China.
+该协议规定，未来五年，美国…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[淘宝大量用户信息泄露]]></title>
+        <id>https://www.solidot.org/story?sid=68048</id>
+        <link href="https://www.solidot.org/story?sid=68048"/>
+        <updated>2021-06-16T07:49:51.000Z</updated>
+        <summary type="html"><![CDATA[商丘市睢阳区人民法院 6 月 3 日在裁判文书网公开的刑事判决书显示，两名犯罪分子在淘宝爬取并盗走大量数据。经过检方核实，被盗取的淘宝用户数据近 12 亿条。淘宝去年 8 月 14 日报警，有黑产人员通过接口，绕过平台风控，批量爬取数据，爬取内容包括买家UID、淘宝昵称、用户手机号等敏感信息。淘宝在一份声明中表示，没有用户资讯被卖给第三方，也没有发生经济损失。法院裁定，这家公司一名员工收集超过 10 亿条淘宝用户资讯，虽然是用以为客户提供服务，但该员工及其雇主判处三年以上监禁，并处以总计 45  万元人民币的罚款。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蔡崇信称马云现在很低调]]></title>
+        <id>https://www.solidot.org/story?sid=68047</id>
+        <link href="https://www.solidot.org/story?sid=68047"/>
+        <updated>2021-06-16T07:36:27.000Z</updated>
+        <summary type="html"><![CDATA[CNBC 在布鲁克林篮网主场巴克莱中心采访了阿里巴巴集团副主席蔡崇信，他表示过去几个月一直销声匿迹的公司联合创始人马云目前的状况很好，只是很低调，大部分时间都花在个人爱好上，如搞慈善和画画。马云去年 10 月之后就基本退出了公众视野，阿里巴巴关联公司的蚂蚁集团 IPO 被叫停，阿里巴巴也因为反垄断行为处于巨额罚款，公司的金融业务也被要求重组。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究显示新冠感染者或面临长期后遗症]]></title>
+        <id>https://cn.nytimes.com/health/20210616/medical-problems-can-persist-long-after-infection-with-virus-a-study-found/dual</id>
+        <link href="https://cn.nytimes.com/health/20210616/medical-problems-can-persist-long-after-infection-with-virus-a-study-found/dual"/>
+        <updated>2021-06-16T07:36:01.000Z</updated>
+        <summary type="html"><![CDATA[PAM BELLUCK2021年6月16日今年早些时候，洛杉矶为出现Covid-19感染症状的人提供分流帐篷。 Isadora Kosofsky for The New York Times
+Hundreds of thousands of Americans have sought medical care for post-Covid health problems that they had not been diagnosed with before becoming infected with the coronavirus, according to the largest study to date of long-term symptoms in Covid-19 patients.
+一项迄今为止对Covid-19患者的长期症状所进行的最大规模研究显示，数十万美国人已就感染Covid-19后的健康问题寻求医疗护理，这些健康问题是在感染新冠病毒之前并未被诊断出的。
+The study, tracking the health insurance records of nearly 2 million people in the United States who contracted the coronavirus last year, found that one month or more after their infection, almost one-quarter — 23 percent — of them sought medical treatment for new conditions.
+这项研究追踪了近200万名去年感染Covid-19的美国人的医疗保险记录，发现在感染发生的一个月或更长时间后，近四分之一(23%)的人因新的健康问题寻求…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任天堂透露《塞尔达传说荒野之息》续集]]></title>
+        <id>https://www.solidot.org/story?sid=68046</id>
+        <link href="https://www.solidot.org/story?sid=68046"/>
+        <updated>2021-06-16T06:54:03.000Z</updated>
+        <summary type="html"><![CDATA[任天堂在 E3 2021 上透露了《塞尔达传说荒野之息》续集的首个游戏片段（YouTube）。《荒野之息》的游戏背景将从地面转移到天空，游戏主角林克穿梭在云端，探索云中之城。《塞尔达》系列制作人  Eiji Aonuma 表示开发工作稳步前进，游戏的预定发售时间是在 2022 年。续篇的正式名字尚未公布，因为名字暗示了故事。任天堂还宣布了《银河战士》系列相隔 19 年后的新作《Metroid Dread》，发售时间 2021 年 10 月 8 日；以及《真女神转生V》，11 月 12 日发售，等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国驳斥北约公报，出动战机在台海上空展示武力]]></title>
+        <id>https://cn.nytimes.com/china/20210616/china-nato-military/dual</id>
+        <link href="https://cn.nytimes.com/china/20210616/china-nato-military/dual"/>
+        <updated>2021-06-16T05:36:01.000Z</updated>
+        <summary type="html"><![CDATA[STEVEN LEE MYERS2021年6月16日2018年中国在东海举行的军事演习中，辽宁舰上的战斗机。中国现在可以以几年前无法想象的方式展示其军事力量。 Reuters
+China’s former leader, Deng Xiaoping, famously used an old proverb to describe the country’s foreign policy after the end of the Cold War: “Hide our strength, bide our time.” Those days are long gone.
+中国前领导人邓小平曾用一句老话来描述冷战结束后的中国外交政策：“韬光养晦”。那些日子已经一去不回。
+China now faces a world that increasingly views its economic and military might as a threat that must be confronted, as NATO’s leaders made clear in their summit in Brussels.
+正如北约(NATO)领导人在布鲁塞尔峰会上明确表示的那样，中国面对着一个日益将其经济和军事实力视为必须应对的威胁的世界。
+While China poses virtually no direct military threat to Europe, which is NATO’s home field, it can now flex its military power in ways that were unimaginable only a few years ago — not only in Asia, but also globally.
+尽管中国对北…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神舟十二号计划于周四上午发射]]></title>
+        <id>https://www.solidot.org/story?sid=68045</id>
+        <link href="https://www.solidot.org/story?sid=68045"/>
+        <updated>2021-06-16T05:02:22.000Z</updated>
+        <summary type="html"><![CDATA[中国载人航天工程办公室主任助理季启明宣布，神舟十二号载人飞船将于 6 月 17 日 9 时 22 分发射，飞行乘组由航天员聂海胜、刘伯明和汤洪波三人组成。聂海胜担任指令长，备份航天员为翟志刚、王亚平、叶光富。聂海胜参加过神舟六号、神舟十号载人飞行任务，刘伯明参加过神舟七号载人飞行任务，汤洪波是首次飞行。季启明表示，神舟十二号载人飞行任务是空间站关键技术验证阶段第四次飞行任务，也是空间站阶段首次载人飞行任务，任务有以下主要目的：在轨验证航天员长期驻留、再生生保、空间物资补给、出舱活动、舱外操作、在轨维修等空间站建造和运营关键技术，首次检验东风着陆场的航天员搜索救援能力；开展多领域的空间应用及实（试）验；综合评估考核工程各系统执行空间站任务的功能和性能，进一步考核各系统间的匹配性和协调性，为后续任务积累经验。按计划，神舟十二号飞船入轨后，将采用自主快速交会对接模式对接于天和核心舱的前向端口，与天和核心舱、天舟二号货运飞船形成组合体。航天员进驻核心舱，执行天地同步作息制度进行工作生活，驻留约 3 个月后，搭乘飞船返回舱返回东风着陆场。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国手机出货量连续两月下降三成以上]]></title>
+        <id>https://www.solidot.org/story?sid=68044</id>
+        <link href="https://www.solidot.org/story?sid=68044"/>
+        <updated>2021-06-16T04:50:58.000Z</updated>
+        <summary type="html"><![CDATA[中国信息通信研究院周三发布报告称，5 月中国国内手机出货量 2,296.8 万部，同比下降 32%，其中智能手机出货量 2,260.4 万部，同比下降 30.8%。这是中国国内手机出货量连续第二个月同比大幅下降，4 月国内手机出货量同比降幅达34%。不过，1-5 月，国内市场手机总体出货量累计 1.48 亿部，同比增长 19.3%，其中智能手机出货量 1.46 亿部，同比增长 20.3%。信通院报告解释称，4、5 月份手机出货量同比有所下降主要受三方面因素影响：一是一季度国内市场手机出货量同比增长超过 100%，需求提前释放；二是产业链上游手机芯片供应偏紧；三是华为出货量大幅下降，其他厂商未能完全弥补华为空缺。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国政府暴行下，一名维吾尔女性的艰难旅程]]></title>
+        <id>https://cn.nytimes.com/opinion/20210616/china-xinjiang-uyghur-muslims-genocide/dual</id>
+        <link href="https://cn.nytimes.com/opinion/20210616/china-xinjiang-uyghur-muslims-genocide/dual"/>
+        <updated>2021-06-16T02:06:02.000Z</updated>
+        <summary type="html"><![CDATA[纪思道2021年6月16日 Kevin Frayer/Getty Images
+In 2021 the United States and other countries have declared that China is committing genocide against ethnic Uyghurs — yet nothing much changes.
+美国和其他国家已在2021年宣布中国在对维吾尔人进行种族灭绝——但并没有发生多少变化。
+That passivity discounts the horror of genocide, the ultimate crime. So that we don’t grow numb to what’s unfolding, let me introduce a Uyghur woman: “Nancy,” as she asks to be called, is now safe in the United States but terrified that speaking out will doom her parents.
+这种消极态度令种族灭绝这个终极罪行的恐怖性大打折扣。为了让我们不对正在发生的事情变得麻木，让我把一名维吾尔女子介绍给读者：她让人叫她“南希”(Nancy)，虽然现在安全地生活在美国，但害怕公开说话会让她的父母遭殃。
+China’s repression of the Uyghurs, a Muslim minority in the far west region of Xinjiang, has received attention mostly for locking about one million people in modern concentration camps. A l…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让你做梦梦到广告]]></title>
+        <id>https://www.solidot.org/story?sid=68043</id>
+        <link href="https://www.solidot.org/story?sid=68043"/>
+        <updated>2021-06-15T14:42:28.000Z</updated>
+        <summary type="html"><![CDATA[你可能做梦会梦到考试，那么你是否愿意做梦梦到广告呢？多个知名品牌正在与科学家合作通过视频和音频片段设计将广告植入到消费者的梦中。但这些研究引发了业内研究人员的抗议，认为应该对商业性的梦操纵进行监管。40 名研究梦的科学家指出这种广告梦是会有实际后果的，“我们的梦不能成为另一个企业广告商的游乐场”。认知科学家 Adam Haar 说，人们在睡眠特别容易受到“暗示”的影响。虽然目前操纵梦的实验还缺乏实用价值，但未来此类研究会可能得到改进。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 可能在 2025 年结束支持]]></title>
+        <id>https://www.solidot.org/story?sid=68042</id>
+        <link href="https://www.solidot.org/story?sid=68042"/>
+        <updated>2021-06-15T14:07:04.000Z</updated>
+        <summary type="html"><![CDATA[微软将于 6 月 24 日举行活动宣布下一代的 Windows，而下一代的 Windows 应该与 Windows 10 无关了。微软刚刚更新了产品生命周期文档，声明 Windows 10 家庭版和专业版将于 2025 年 10 月 14 日终止支持。Windows 10 是在 2015 年 7 月 29 日发布的，微软同时引入了 Windows as a Service 的概念，每半年推出一次较大的更新，而 Windows 10 的大版本号保持不变。最新的文档显示 Windows 10 这一品牌将很快走进历史。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI 特工承认错误指控华裔教授为中国间谍]]></title>
+        <id>https://www.solidot.org/story?sid=68041</id>
+        <link href="https://www.solidot.org/story?sid=68041"/>
+        <updated>2021-06-15T13:40:12.000Z</updated>
+        <summary type="html"><![CDATA[FBI 特工 Kujtim Sadiku 上周承认错误指控前田纳西大学 Knoxville 分校教授 Anming Hu 为中国间谍。Sadiku 还承认使用虚假信息向 Hu 教授施压让他成为美国的间谍。2018 年，美国司法部发起了“中国倡议”，指示联邦特工搜出在美国的中国经济间谍。美国大学的华裔教授很快就成为了倡议的目标。Hu 是首位受审的华裔教授。Sadiku 承认他是通过 Google 搜索 Hu 教授的信息后告诉学校官员 Hu 教授是中国军方特工，当时他没有证据证明这一声明。美国地区法官预计将在本周决定是以检方缺乏足够证据为由驳回诉讼还是让陪审团裁决。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[芯片短缺将导致更多的劣质仿冒芯片进入设备]]></title>
+        <id>https://www.solidot.org/story?sid=68040</id>
+        <link href="https://www.solidot.org/story?sid=68040"/>
+        <updated>2021-06-15T13:07:34.000Z</updated>
+        <summary type="html"><![CDATA[劣质仿冒产品并非新鲜事，而芯片的供不应求将导致更多劣质芯片进入市场，使得采用这些低于标准芯片的产品可靠性和寿命出现问题。Independent Distributors of Electronics Association (IDEA)创始人 Steve Calabria 表示他已经看到了问题的苗头。生产仿冒芯片比生产仿冒设备要容易得多，仿冒设备需要操作系统和硬件整合，需要让产品不会一眼就看穿。仿冒芯片面临的挑战要低得多。在亟需芯片的情况下，没有芯片生产线就要关闭的情况下，厂商不太可能严格测试收到的芯片。Calabria 相信这个问题已经发生了。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Novavax 新冠疫苗有效率 90%]]></title>
         <id>https://www.solidot.org/story?sid=68039</id>
