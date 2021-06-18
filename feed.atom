@@ -2,10 +2,253 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://solohuman.github.io/rss-m/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T00:40:33.684Z</updated>
+    <updated>2021-06-18T00:40:58.363Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://solohuman.github.io/rss-m/index.html"/>
     <link rel="self" href="https://solohuman.github.io/rss-m/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[参宿四变暗的原因是尘埃团]]></title>
+        <id>https://www.solidot.org/story?sid=68064</id>
+        <link href="https://www.solidot.org/story?sid=68064"/>
+        <updated>2021-06-17T15:06:20.000Z</updated>
+        <summary type="html"><![CDATA[去年初，天文学家注意到参宿四的亮度比往常更为黯淡，怀疑它可能走到了生命的终点。参宿四是一颗红超巨星，其结局将是超新星爆发。但后续的观察否定了这一看法。现在，天文学家在《自然》期刊上发表研究报告称 ，参宿四变暗是由其南半球形成的尘埃团和冷斑导致的。这一观测结果或有助于阐释大质量恒星演化末期最常见的重大质量损失事件的发生机制。观测和建模结果显示，参宿四可见表面形成的一个冷区出现了局域温度下降，这一结果反驳了变暗事件预示了参宿四即将发生超新星爆发的理论。值得注意的是，研究人员认为这种多样化、快速演化的局域表面行为与独特的非均匀质量损失事件有关，这也是首次在红超巨星上实时观测到这类事件。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook 与科学家合作开发出能以 99% 的精度识别 deepfake 的系统]]></title>
+        <id>https://www.solidot.org/story?sid=68063</id>
+        <link href="https://www.solidot.org/story?sid=68063"/>
+        <updated>2021-06-17T14:23:52.000Z</updated>
+        <summary type="html"><![CDATA[Facebook AI Research 与密歇根州立大学的计算机科学家合作构建出一种原型系统，能以 99% 的精度识别 deepfake（利用神经网络伪造的） 图像。系统还能推断用于伪造图像的神经网络架构，比如说这批图像是用模型 A 创造的，而那些图像则是用模型 B 创造的。他们的论文发表在预印本网站h arxiv 上。论文作者之一的 Facebook 研究员 Tal Hassner 称他们的逆向工程方法依赖于发现生成 deepfake 图像背后的 AI 模型的独特模式。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币是海外侨民向家乡汇款的最佳选项吗？]]></title>
+        <id>https://www.solidot.org/story?sid=68062</id>
+        <link href="https://www.solidot.org/story?sid=68062"/>
+        <updated>2021-06-17T14:03:42.000Z</updated>
+        <summary type="html"><![CDATA[本月早些时候，中美洲国家萨尔瓦多国会投票通过决定，在 90 天内将比特币认定为美元之外该国另一法定货币，成为全世界首个将比特币合法化的国家了。这项新法意味着，除非无法提供交易所需的技术，所有企业均必须接受比特币作为商品或服务交易的法定货币。萨尔瓦多财长 Alejandro Zelaya 本周三表示正寻求世界银行的技术援助去实现普及比特币的金融基础设施。萨尔瓦多合法化比特币的一个重要原因是简化海外侨民的国内汇款？
+但比特币真的是海外侨民向家乡汇款的最佳选项吗？作为一种虚拟资产，比特币与实体经济没有任何直接联系。它的价值在有限时间内出现过大幅波动。而且，并不是所有人都了解它的运行原理和个中风险。不同于已有的银行系统，目前没有任何机制可以保障客户免受比特币价值波动影响。哈佛大学经济学教授 Ken Rogoff 表示，一种成功货币拥有两个重要特征，一个是有效的交换形式，另一个是稳定的保值作用，而比特币不拥有其中任何一个特征。他表示，比特币几乎完全是作为一种投机工具而存在的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新电池让电动空中飞车成为可能]]></title>
+        <id>https://www.solidot.org/story?sid=68061</id>
+        <link href="https://www.solidot.org/story?sid=68061"/>
+        <updated>2021-06-17T13:30:17.000Z</updated>
+        <summary type="html"><![CDATA[要让汽车飞起来面临巨大的挑战，而要让电动汽车飞起来，挑战会更为艰巨，需要考虑到电池的重量以及充电的频率。滨州州立大学的 Chao-Yang Wang 和同事开发出一种原型电池，让电动空中飞车成为可能。新电池支持 80 公里的飞行，能量密度每公斤 271 瓦特时，能维持超过 2000 次充电周期，充电只需要 5 到 10 分钟。电池使用了一种自加热技术去实现快速充电而不会导致短路。研究人员计划中的下一代电池能量密度将达到每公斤 350 到 400 瓦特时，成本减少到每千瓦时 50 美元。研究报告发表在《Joule》期刊上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lina Khan 被任命为 FTC 主席]]></title>
+        <id>https://www.solidot.org/story?sid=68060</id>
+        <link href="https://www.solidot.org/story?sid=68060"/>
+        <updated>2021-06-17T10:40:46.000Z</updated>
+        <summary type="html"><![CDATA[在美国参议院确认反垄断知名人士 Lina Khan 出任联邦贸易委员会(FTC)五名委员之一后，总统拜登(Joe Biden)立即任命她担任 FTC 主席，这可能意味着拜登政府将对科技巨头如 Google、Amazon、Facebook 和 Apple 采取更强硬的立场。但 FTC 不太可能立即开始拆分这些巨头。32 岁的 Lina Khan 是哥伦比亚大学法学院教授，她的委员提名以 69 对 28 票在参议院获得通过，但拜登任命她担任主席则出乎很多人的意料，之前从未有过类似的先例。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地缘政治竞争延伸至太空：中俄联手对抗美国]]></title>
+        <id>https://cn.nytimes.com/world/20210617/china-russia-space/dual</id>
+        <link href="https://cn.nytimes.com/world/20210617/china-russia-space/dual"/>
+        <updated>2021-06-17T10:36:01.000Z</updated>
+        <summary type="html"><![CDATA[ANDREW E. KRAMER, STEVEN LEE MYERS2021年6月17日俄罗斯航天器于4月发射前往国际空间站。俄罗斯官员表示，一旦当前协议于2024年结束，他们可能会退出空间站。 Bill Ingalls/NASA, via Agence France-Presse — Getty Images
+MOSCOW — Sixty-three years ago, the Soviet Union put the first satellite in space. Nearly four years later, it sent the first man into orbit, Yuri Gagarin. It fell behind NASA in the space race that followed, but even after the collapse of the Soviet Union, Russia remained a reliable space power, joining with the United States to build and operate the International Space Station for the last two decades.
+莫斯科——63年前，苏联将第一颗卫星送入太空。将近四年后，它将尤里·加加林(Yuri Gagarin)送入轨道，令其成为首个进入太空的人。在随后的太空竞赛中它落后于NASA，但即使在苏联解体之后，俄罗斯仍然是一个稳定的太空强国，在过去的20年里与美国一起建造和运作国际空间站。
+Now, the future of the Russian space program rests with the world’s new space power, China.
+现在，俄…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果预装应用面临限制]]></title>
+        <id>https://www.solidot.org/story?sid=68059</id>
+        <link href="https://www.solidot.org/story?sid=68059"/>
+        <updated>2021-06-17T08:59:17.000Z</updated>
+        <summary type="html"><![CDATA[美国国会上周提出的反垄断改革法案寻求限制平台给自家产品竞争优势，如禁止用户从设备上移除预装的应用。该法案将意味着苹果必须让消费者决定使用哪种应用或者卸载哪些应用。领导这项立法工作的罗德岛州民主党众议员 David Cicilline 称下载其它应用和下载苹果自家应用一样简单，苹果将无法使用其市场支配力量偏袒自家产品和服务。这一限制还将适用于亚马逊的 Prime 订阅服务。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1990 年代的移动加密算法被发现含有后门]]></title>
+        <id>https://www.solidot.org/story?sid=68058</id>
+        <link href="https://www.solidot.org/story?sid=68058"/>
+        <updated>2021-06-17T08:51:23.000Z</updated>
+        <summary type="html"><![CDATA[1990 年代的加密算法受制于出口管制规定，强加密算法被限制出口，因此很多当时广泛使用的加密算法是所谓的“弱加密”，也就是可能含有有意加入的后门，使得加密后的数据容易破解。现在，德国波鸿鲁尔大学的研究人员与法国和挪威的同事合作发表了一篇论文，发现 1990 年代实现的移动手机加密算法 GEA-1 含有后门。GEA-1 仍然包含在最近几年发售的  Android 和 iOS 手机中，它本应该早在 2013 年就需要被淘汰了。这个后门对情报机构可能没什么价值了，因为任何人都可以利用该漏洞。研究人员分析了两种加密 2G 数据的算法  GEA-1 和 GEA-2，它们都是弱加密算法，其中 GEA-1 密钥非常容易破解，因此被认为包含有意加入的后门。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国考虑假期禁止补习]]></title>
+        <id>https://www.solidot.org/story?sid=68057</id>
+        <link href="https://www.solidot.org/story?sid=68057"/>
+        <updated>2021-06-17T07:59:54.000Z</updated>
+        <summary type="html"><![CDATA[中国计划于本月公布比预期更严格的新规定，整顿规模达 1,200 亿美元的民间教育培训行业，包括对广告设限，以及试行禁止假日期间补习。新规旨在减轻学童的压力，并通过降低家庭生活成本来提高出生率，最早可能于下周公布并在下个月生效。新规将在北京、上海和其它几个大城市试行禁止寒暑假期间的线上和线下补习。教育部和其他有关部门正在起草的改革方案针对的是从幼儿园到 12 年级学生的教培市场，这一行业近年来发展迅速，竞争白热化。监管机构也将禁止在线上和线下对课外辅导“过度”打广告，尤其是在主流媒体和公共区域，他们并称辅导费也将受到严格控制。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台湾疫苗僵局谁之过：当公共卫生采购变成政治问题]]></title>
+        <id>https://cn.nytimes.com/asia-pacific/20210617/taiwan-china-biontech-vaccine/dual</id>
+        <link href="https://cn.nytimes.com/asia-pacific/20210617/taiwan-china-biontech-vaccine/dual"/>
+        <updated>2021-06-17T07:36:01.000Z</updated>
+        <summary type="html"><![CDATA[RAYMOND ZHONG, CHRISTOPHER F. SCHUETZE2021年6月17日本月，医务人员在台湾台北市一所学校为民众接种疫苗。 Ann Wang/Reuters
+TAIPEI, Taiwan — This is the age of “vaccine diplomacy.” It is also the era of its bitter, mudslinging opposite.
+台湾台北——这是属于“疫苗外交”的时代。这也是属于疫苗外交中怀恨诋毁这一面的时代。
+For months, Taiwan has been unable to purchase doses of the BioNTech coronavirus vaccine, and the island’s leaders blame “Chinese intervention.” China, which regards Taiwan as its own territory, calls this accusation “fabricated out of nothing.”
+几个月来，台湾始终无法购买BioNTech新冠疫苗，该岛领导人指责“中国介入”。视台湾为自己领土的中国则称这种指责是“无中生有”。
+It is unclear what steps, if any, the government in Beijing has taken to disrupt Taiwan’s dealings with BioNTech, the German drugmaker that developed the vaccine with Pfizer. BioNTech declined to comment.
+尚不清楚北京政府采取了哪些措施（如果有的话）干扰台湾与BioNTech的协…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国发射神舟十二号载人飞船，三名宇航员探索太空]]></title>
+        <id>https://cn.nytimes.com/science/20210617/china-launch-space-station/dual</id>
+        <link href="https://cn.nytimes.com/science/20210617/china-launch-space-station/dual"/>
+        <updated>2021-06-17T06:06:01.000Z</updated>
+        <summary type="html"><![CDATA[STEVEN LEE MYERS, KENNETH CHANG2021年6月17日周四，“长征二号F”火箭运载“神舟十二号”飞船，将三名宇航员送入太空轨道。 Greg Baker/Agence France-Presse — Getty Images
+There will soon be two places in orbit where astronauts live.
+轨道上即将有两个给宇航员居住的地方。
+
+On a clear, sunny Thursday morning in the Gobi Desert, China launched three astronauts to rendezvous with the country’s nascent space station.
+在一个晴朗、阳光明媚的周四上午，在戈壁沙漠，中国将三名宇航员送入太空，与该国刚刚建成的空间站会合。
+They waved to cameras in their capsule as their trip to space began. Twenty-one minutes into the mission, the director of the launch center, Zhang Zhifen, announced that it was “a complete success.”
+当他们的太空之旅开始时，三名宇航员从太空舱里向摄像机挥手。21分钟后，酒泉卫星发射中心主任张志芬宣布发射“圆满成功”。
+
+If all now goes according to plan, they will rendezvous with China’s nascent space station later in the day, beginning what is planned to b…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果的 VPN 实际上是洋葱路由]]></title>
+        <id>https://www.solidot.org/story?sid=68056</id>
+        <link href="https://www.solidot.org/story?sid=68056"/>
+        <updated>2021-06-17T05:03:23.000Z</updated>
+        <summary type="html"><![CDATA[苹果最近在开发者大会上宣布了名为 private relay 的隐私保护功能，媒体广泛称之为苹果的 VPN 服务，但它实际上是洋葱路由。路由使用了两跳，苹果提供第一跳，独立第三方提供第二跳。目前该服务只支持 Safari、Mail 等应用，还不清楚苹果是否会提供公共 API 允许其它应用程序和浏览器使用，也不清楚路由是否经过洋葱层。苹果否认自己知道客户的 DNS 查询和 Web 流量，如果收到传票它能反馈的信息也很少。苹果此举将洋葱路由这个黑客使用的专门工具转变成数十亿设备日常使用的服务。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国成功发射神舟十二号]]></title>
+        <id>https://www.solidot.org/story?sid=68055</id>
+        <link href="https://www.solidot.org/story?sid=68055"/>
+        <updated>2021-06-17T04:04:00.000Z</updated>
+        <summary type="html"><![CDATA[中国载人航天工程办公室宣布，6 月 17 日 9 时 22 分，搭载神舟十二号载人飞船的长征二号F遥十二运载火箭，在酒泉卫星发射中心点火发射，约 573 秒后，神舟十二号载人飞船与火箭成功分离，进入预定轨道，顺利将聂海胜、刘伯明、汤洪波3名航天员送入太空。这是载人航天工程立项实施以来的第 19 次飞行任务，也是空间站建造阶段的首次载人飞行任务。飞船入轨后，将按照预定程序，与天和核心舱进行自主快速交会对接。组合体飞行期间，航天员将进驻天和核心舱，完成为期 3 个月的在轨驻留，开展机械臂操作、太空出舱等活动，验证航天员长期在轨驻留、再生生保等一系列关键技术。中国空间站未来还将迎来俄罗斯和欧洲航天局的宇航员，作为未来太空飞行的一部分，欧洲航天局宇航员 Matthias Maurer 和 Samantha Cristoforetti 已经接受了中国航天员培训。中国还计划在 2024 年发射名为 Xuntian 的太空望远镜，望远镜将周期性的对接空间站进行维护。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[滴滴出行遭反垄断调查]]></title>
+        <id>https://www.solidot.org/story?sid=68054</id>
+        <link href="https://www.solidot.org/story?sid=68054"/>
+        <updated>2021-06-17T03:57:55.000Z</updated>
+        <summary type="html"><![CDATA[中国市场监管机构开始对打车巨头滴滴出行展开反垄断调查。此时滴滴出行正在推进在美国 IPO 的计划。这也是中国针对平台企业进行打击行动的最新一起。此前几个月，中国监管机构对几家平台企业进行打击，包括阿里巴巴、腾讯等科技巨头都受到巨额罚款。消息人士称，中国国家市场监督管理总局正在调查滴滴是否使用了任何不公平地排挤小型竞争对手的竞争行为。消息人士表示，市场监管机构的调查处于初始阶段，监管机构尚未给该公司下达具体指示。调查对该公司 IPO 的影响还有待观察。滴滴有望成为自 2014 年阿里巴巴 250 亿美元上市以来，中国在纽约的最大 IPO。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[揭秘东条英机遗骸下落：骨灰被撒入太平洋]]></title>
+        <id>https://cn.nytimes.com/asia-pacific/20210617/japan-tojo-remains/dual</id>
+        <link href="https://cn.nytimes.com/asia-pacific/20210617/japan-tojo-remains/dual"/>
+        <updated>2021-06-17T03:36:01.000Z</updated>
+        <summary type="html"><![CDATA[LIVIA ALBECK-RIPKA, HIKARI HIDA2021年6月17日日本首相东条英机站在东京日本议会外的一张未注明日期的照片。 Charles Gorry/Associated Press
+For more than 70 years, the location of the remains of Hideki Tojo, the Japanese prime minister who led his country’s war effort during World War II, was an enduring mystery.
+70多年来，在第二次世界大战期间领导国家战争的日本首相东条英机的遗骸下落一直是个谜。
+A great-grandson of Tojo said he had always believed that only the hair and nails of his ancestor were buried in a family plot in northwest Tokyo. He had no idea where the rest of the remains were. But the answer had been hidden in plain sight.
+东条英机的一名曾孙说，他一直认为，曾祖父只有头发和指甲被埋在位于东京西北部的家族墓地里。他不知道遗骸的其他部分在什么地方。但答案一直隐藏在众目睽睽之下。
+Declassified documents in the U.S. national archives that were unearthed by a Japanese professor show that American military officials scattered Tojo’s ashes …]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国否认台山核电站辐射泄露，承认燃料棒受损]]></title>
+        <id>https://cn.nytimes.com/china/20210617/china-nuclear-reactor/dual</id>
+        <link href="https://cn.nytimes.com/china/20210617/china-nuclear-reactor/dual"/>
+        <updated>2021-06-17T02:36:01.000Z</updated>
+        <summary type="html"><![CDATA[KEITH BRADSHER2021年6月17日2013年在建的广东省台山核电厂。中国周三说，核电厂的个别铀燃料棒出现破损，这在反应堆中并不罕见。 Peter Parks/Agence France-Presse — Getty Images
+SHANGHAI — The Chinese government said on Wednesday that “about five” of the uranium fuel rods inside a nuclear power plant in southeastern China had been damaged, but added that no radiation had leaked out of reactors at the site.
+上海——中国政府周三说，位于中国东南部的一座核电厂“约为五根左右”铀燃料棒受损，但补充说，该核电厂没有发生反应堆辐射泄漏。
+Regulators have also reviewed and approved limits on how much radioactive gas is allowed to accumulate in the water at the reactor, China’s National Nuclear Safety Administration said in a statement. Nuclear scientists in the United States and Europe said in interviews earlier this week that a buildup of radioactive gas in the water and steam surrounding the fuel rods, while not un…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《苹果日报》总编辑罗伟光等五人被捕]]></title>
+        <id>https://cn.nytimes.com/china/20210617/hong-kong-apple-daily/dual</id>
+        <link href="https://cn.nytimes.com/china/20210617/hong-kong-apple-daily/dual"/>
+        <updated>2021-06-17T02:36:01.000Z</updated>
+        <summary type="html"><![CDATA[王霜舟, TIFFANY MAY2021年6月17日周四，《苹果日报》记者拍摄的画面显示数十名香港警员进入壹传媒总部。 Lam Yik/Reuters
+HONG KONG — The Hong Kong police on Thursday arrested five executives at an embattled pro-democracy newspaper on suspicion of colluding with foreign powers to violate the Chinese territory’s sweeping national security law.
+香港——周四，香港警方以涉嫌串谋勾结外国势力，违反该地区全面的国家安全法为由，逮捕了一家深陷困境的亲民主报社的五名高管。
+The police said they had arrested five people of a media company on suspicion of “collusion with a foreign country or with external elements to endanger national security.” They did not name the company or specify who the foreign powers might be.
+警方表示，他们逮捕了一家媒体机构中的五名人士，他们涉嫌“串谋勾结外国或境外势力危害国家安全”。警方没有给出该公司的名称，也没有明确指明外国势力是谁。
+The five executives work for Apple Daily, a pro-democracy newspaper or its parent company, Next Digital, the newspaper…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰警方逮捕了勒索软件黑帮 Clop 的六名嫌疑人]]></title>
+        <id>https://www.solidot.org/story?sid=68053</id>
+        <link href="https://www.solidot.org/story?sid=68053"/>
+        <updated>2021-06-16T15:49:10.000Z</updated>
+        <summary type="html"><![CDATA[乌克兰警方与韩国警方合作逮捕了勒索软件黑帮 Clop 的六名嫌疑人，扣押了大量现金、包括特斯拉和梅塞德斯在内的汽车，以及大量苹果电脑。Clop 据报道去年以韩国 E-Land 集团为目标，在 12 个月内窃取到 200 万信用卡信息。在进入该公司内网之后 Clop 部署了远程访问木马 Flawedammyy。趋势科技称，在最臭名昭著的勒索软件黑帮 Conti、Doppelpaymer、Egregor、Clop 和 REvil 中，Clop 在网上公开了 5 TB 窃取的数据，超过其它勒索软件黑帮。它攻击的美国目标包括了斯坦福大学医学院、马里兰大学和加州大学。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚洲国家在疫苗接种率上落后]]></title>
+        <id>https://www.solidot.org/story?sid=68052</id>
+        <link href="https://www.solidot.org/story?sid=68052"/>
+        <updated>2021-06-16T14:37:56.000Z</updated>
+        <summary type="html"><![CDATA[在遏制新冠病毒方面曾处于世界领先地位的亚洲国家，如今在疲于摆脱病毒的困扰。一个重要原因是在疫苗接种率上落后。在亚洲，约有 20% 的人至少接种过一剂疫苗，以日本为例，这一比例仅有 14%。相比之下，法国这一数字接近 45%，在美国超过 50%，在英国超过 60%。中国的情况略好，据报道中国总共接种了近 9 亿剂疫苗。由于疫苗接种在亚洲各地都处于滞后状态，因此任何有力的国际重新开放也会滞后。澳大利亚表示将继续关闭边境一年。日本目前禁止几乎所有非日本居民入境，而中国对海外入境人员的严格审查导致跨国企业失去了关键员工。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Messages 应用开始提供端对端加密]]></title>
+        <id>https://www.solidot.org/story?sid=68051</id>
+        <link href="https://www.solidot.org/story?sid=68051"/>
+        <updated>2021-06-16T11:17:50.000Z</updated>
+        <summary type="html"><![CDATA[Android Messages 消息应用开始向每一位用户提供端对端加密功能。但目前端对端加密只支持用户个人之间的聊天，不支持群聊。聊天双方都需要启用 Rich Communication Services (RCS)聊天功能，如果你看到发送按钮上有锁的图标，那么你发送的消息将是加密的。Beta 测试用户从去年 11 月开始就可以使用端对端加密，本周开始 Google 将该功能推送给所有用户。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 镜像和屏幕截图泄露]]></title>
+        <id>https://www.solidot.org/story?sid=68050</id>
+        <link href="https://www.solidot.org/story?sid=68050"/>
+        <updated>2021-06-16T10:41:55.000Z</updated>
+        <summary type="html"><![CDATA[微软曾经声称将会永远更新的 Windows 10 将于 2025 年结束支持，而接替它的 Windows 11 的 ISO 镜像和屏幕截图也都泄露在网上。Windows 11 一大变化是其 UI，任务栏默认在底部中心位置显示，微软在设置里提供了选项可选择在底部左侧或右侧显示。泄露的 Windows 11 构建号是 21996.1，在很多方面它整合了微软此前放弃发布的 Windows 10X。Windows 10X 是微软对 Google Chrome OS 的回应，设计作为一种简化版的 Windows 10 提供给教育和一线工人市场，它原计划在 2021 年推出。但微软后来表示，它认为 Windows 10X 的技术能在更多方面有用，能比最初预计的服务于更多用户，它将把 Windows 10X 的关键技术整合到 Windows 等产品中，]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“对牛弹琴”？丹麦农舍为奶牛举办音乐会]]></title>
         <id>https://cn.nytimes.com/culture/20210429/cow-concert-scandinavian-cello-school/dual</id>
@@ -33,6 +276,16 @@ While the United States, which has suffered far more grievous outbreaks, is now 
 In southern China, the spread of the Delta variant led to a sudden lockdown in Guangzhou, a major industrial capital. Taiwan, Vietnam, Thailand a…]]></summary>
         <author>
             <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊屏蔽 Google 的 FLoC]]></title>
+        <id>https://www.solidot.org/story?sid=68049</id>
+        <link href="https://www.solidot.org/story?sid=68049"/>
+        <updated>2021-06-16T09:34:48.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊屏蔽了 Google 受争议的替代数字广告跟踪技术 FLoC（ Federated Learning of Cohorts）。亚马逊旗下主要电商平台 Amazon.com、WholeFoods.com 和 Zappos.com 等都部署了代码屏蔽 FLoC。 FLoC 通过收集用户的网络活动数据然后推断出他们的共同兴趣，将有共同兴趣的用户划分到一起，据此展示广告。但用户的兴趣是变化的，FLoC 需要不断收集数据重新计算和重新分类用户。电商巨头的行动将打击 Google 收集用户数据的努力。亚马逊大约是从上周四开始在网站中加入屏蔽 FLoC 的代码，在这之前 WholeFoods.com 和 Woot.com 都没有看到相关代码。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -3816,36 +4069,6 @@ But now, as the federal government focuses on a spate of attacks targeting Asian
         <link href="https://www.solidot.org/story?sid=67817"/>
         <updated>2021-05-19T14:31:16.000Z</updated>
         <summary type="html"><![CDATA[微软正式承认它不会发布 Windows 10X。Windows 10X 是微软对 Google Chrome OS 的回应，设计作为一种简化版的 Windows 10 提供给教育和一线工人市场，它原计划在 2021 年推出。但现在微软表示，它认为 Windows 10X 的技术能在更多方面有用，能比最初预计的服务于更多用户，它将把 Windows 10X 的关键技术整合到 Windows 等产品中，部分已经整合到预览版中，如  Microsoft Defender Application Guard 引入的新应用容器技术，增强的  Voice Typing 体验等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去年旧金山死于吸毒过量的人数是死于新冠的两倍多]]></title>
-        <id>https://www.solidot.org/story?sid=67816</id>
-        <link href="https://www.solidot.org/story?sid=67816"/>
-        <updated>2021-05-19T10:46:44.000Z</updated>
-        <summary type="html"><![CDATA[来自美国 CDC 的初步数据显示，截至 2020 年 10 月的 12 个月内，美国有超过 9 万人死于吸毒过量，比死于车祸（42,000）和死于枪击（44,000）的人数总和还要多。其中有大约 5.5 万人是死于合成阿片类毒品如芬太尼（fentanyl），新冠疫情期间的隔离措施被认为加剧了抑郁和焦虑，当人们失去工作或为经济状况担忧，他们更可能会滥用药物。由于诊所关闭或停止接受新患者，吸毒过量之后可能无法及时救助。在美国无家可归者人数最多的旧金山，死于吸毒过量的人数是死于新冠的两倍多。芬太尼最大的供应商是中国，这种化合物通过邮寄直接发送到美国，特朗普政府成功说服中国将此类药物加入到禁止出口名单之后，直接邮寄基本消失。但中国供应商使用了绕道的方法，将芬太尼出口到墨西哥，通过墨西哥的贩毒集团将芬太尼走私到美国。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 透露让远程交流更逼真的 Project Starline]]></title>
-        <id>https://www.solidot.org/story?sid=67815</id>
-        <link href="https://www.solidot.org/story?sid=67815"/>
-        <updated>2021-05-19T09:54:26.000Z</updated>
-        <summary type="html"><![CDATA[去年疫情流行期间采取的限制措施让社交活动降低到了最低程度，视频通话成为许多人主要的沟通方法，但视频并不能真正让人感觉到有一个活生生的人在面前。Google 通过 Project Starline 试图解决这个问题。Google 研究人员在这个项目上工作了好几年，综合利用了计算机视觉、机器学习、三维空间音频和实时压缩，研究人员在 3D 成像、实时压缩和 3D 显示屏上取得了突破，远程交流的双方不需要眼镜或头戴式设备就能感受到仿佛有一个真人在触手可及的地方。目前 Project Starline 需要定制的硬件和高度专业化的设备，研究人员希望这项技术最终能让很多人负担得起。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe 停止支持 PostScript Type 1 字体]]></title>
-        <id>https://www.solidot.org/story?sid=67814</id>
-        <link href="https://www.solidot.org/story?sid=67814"/>
-        <updated>2021-05-19T08:07:12.000Z</updated>
-        <summary type="html"><![CDATA[Adobe 在 1980 年代设计的数字排版字体 PostScript Type 1 即将走进历史。Adobe Photoshop 在今年停止支持 PostScript Type 1，到 2023 年 Adobe 的其它产品也将停止支持该字体。PostScript 字体是 Adobe 为专业数字排版开发的大纲字体规范编码的字体文件。该系统使用 PostScript 文件格式来编码字体信息。Adobe 在 1984 年的 PostScript 页面描述语言中定义了 Type 1 和 Type 3 字体格式。但在 1985 年 3 月支持 PostScript 的激光打印机 Apple LaserWriter 面世，它才真正流行起来。在当时，轮廓字体只在打印机中使用，屏幕上依旧用位图字体。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
