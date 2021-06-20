@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://solohuman.github.io/rss-m/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T00:41:40.274Z</updated>
+    <updated>2021-06-20T00:43:38.892Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://solohuman.github.io/rss-m/index.html"/>
     <link rel="self" href="https://solohuman.github.io/rss-m/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[基准测试显示 AMD 在新台式机市场的占有率接近英特尔]]></title>
+        <id>https://www.solidot.org/story?sid=68074</id>
+        <link href="https://www.solidot.org/story?sid=68074"/>
+        <updated>2021-06-19T11:05:10.000Z</updated>
+        <summary type="html"><![CDATA[很多人买到新电脑之后可能会用测试软件测试下性能，测试软件供应商 PassMark Software 根据用户递交的基准测试报告公布了 AMD 和英特尔在桌面和笔记本电脑市场的占有率。这一结果未必能反映市场全貌，但至少提供了部分观察。报告显示，截至 2021 年第二季度，AMD CPU 的市场占有率达到 44.6%，而英特尔为 55.3%。在桌面市场，AMD 正无限接近于英特尔：AMD 市场占有率 49.1%，英特尔 50.9%。在笔记本市场，AMD 占 41.2%，英特尔 58.8%。过去一到两年，AMD 在测试者中的市场占有率提升巨大。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[软件如何吞食汽车]]></title>
+        <id>https://www.solidot.org/story?sid=68073</id>
+        <link href="https://www.solidot.org/story?sid=68073"/>
+        <updated>2021-06-19T10:48:20.000Z</updated>
+        <summary type="html"><![CDATA[芯片短缺对汽车行业的巨大冲击让很多人意识到今天的汽车使用了大量的微芯片，运行了惊人的代码。软件已经成为了汽车不可缺少的一部分。10 年前仅有高档车才会使用 100 个基于微处理器的微控制单元（ECU），运行大约一亿行代码。今天像 BMW 7 系列这类配备先进辅助驾驶系统的高档汽车可能使用了 150 个以上的 ECU，皮卡如福特 F-150 运行的代码行数高达 150 亿。甚至低端汽车使用的 ECU 都接近 100 个，代码行数 1 亿以上。咨询公司 Deloitte Touche Tohmatsu Limited 估计，2017 年新汽车四成的成本与基于半导体的电子系统相关，到 2030 年电子系统所占的成本比重将达到五成。Deloitte 估计，汽车四成以上的开发预算与系统集成、测试和验证相关。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mRNA 疟疾疫苗对实验鼠提供全面的保护]]></title>
+        <id>https://www.solidot.org/story?sid=68072</id>
+        <link href="https://www.solidot.org/story?sid=68072"/>
+        <updated>2021-06-18T14:38:36.000Z</updated>
+        <summary type="html"><![CDATA[疟疾由一种叫作疟原虫的寄生虫引起，通过受感染蚊子的叮咬传播。这种寄生虫在人体的肝脏中繁殖，然后感染血红细胞。症状包括发烧、头痛和呕吐，通常在蚊子叮咬后 10-15 天显现。如不治疗，疟疾可能中断对维持生命的重要器官的供血，从而迅速威胁生命。每年有数十万人死于疟疾，大部分位于非洲。目前还没有获得批准的疟疾疫苗。美国海军和陆军研究所的研究人员在《自然》期刊上报告了一种 mRNA 疟疾候选疫苗 PfCSP，对实验鼠的测试显示它能提供全面的保护。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国公司日益使用高科技工具监视员工]]></title>
+        <id>https://www.solidot.org/story?sid=68071</id>
+        <link href="https://www.solidot.org/story?sid=68071"/>
+        <updated>2021-06-18T13:33:52.000Z</updated>
+        <summary type="html"><![CDATA[日经报道，Andy Wang 是上海一家游戏公司的 IT 工程师，他有时会对自己的工作产生罪恶感。他的大部分工作时间花在名为“第三只眼”的监视软件上，该软件安装在每一位同事的笔记本电脑上，实时跟踪他们的屏幕，记录他们的聊天、浏览活动和编辑的每一份文档。软件会自动的标记可疑活动，如访问求职网站和流视频平台，它会每周生成一份报告总结员工在网站和应用程序上花费的时间。上司会定期检查这些报告。甚至 Wang 自己也不能豁免于监视。在工作了两年之后，不堪重负的他选择了辞职，他说这没有意义，我们无法不停的工作，需要一些喘息的空间。就像美团的蓝领骑手受制于算法，办公室的白领工人们也日益受到监视软件的监督。中国公司正日益使用高科技工具持续的监视员工。中国最大的监视平台供应商深信服称它的企业客户超过 5 万家，其中包括阿里巴巴、字节跳动、新浪、小米和中兴。在员工连接到公司 WiFi 之后，深信服的服务能访问员工的移动浏览历史和应用使用记录。它无需用户批准，能屏蔽被认为对生产力有害的特定应用。系统还会根据花在与工作无关的网站和应用上的时间给低效的员工进行排名。它还能根据对招聘网站的访问和发送简历识别可能辞职的员工。佳能在中国的子公司去年使用了微笑识别技术，只允许微笑的员工进入办公室和会议室，佳能称此举旨在在后疫情时代给办公室带来欢乐，创造一种积极的气氛。公司发言人说，大多数人都羞于微笑，当他们习惯微笑之后会保持微笑。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么越来越多美国女性选择晚生孩子？]]></title>
         <id>https://cn.nytimes.com/usa/20210618/declining-birthrate-motherhood/dual</id>
@@ -20,6 +60,16 @@ Ms. Portillo’s mother had her when she was 16. Her father has worked as a land
 波蒂略的母亲在她16岁时生下了她。从她记事起，父亲就一直在做园艺师的工作。她想有事业，对…]]></summary>
         <author>
             <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国将禁止认证华为等中企通信设备]]></title>
+        <id>https://www.solidot.org/story?sid=68070</id>
+        <link href="https://www.solidot.org/story?sid=68070"/>
+        <updated>2021-06-18T10:07:02.000Z</updated>
+        <summary type="html"><![CDATA[美国联邦通信委员会（FCC）6 月 17 日敲定了禁止认证视为安全保障方面风险的华为技术等5家中国企业的通信设备的方针。未接受美国政府补贴的通信商也将无法使用 5 家企业的产品。进一步加强了对中国高科技企业的限制。禁止对象是涉足通信设备的华为和中兴通讯（ZTE）、涉足监控摄像头的杭州海康威视数字技术和浙江大华技术、还有涉足无线通信设备的海能达通信。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -3862,185 +3912,6 @@ He died of multiple organ failure, China’s main state-run newspaper, People’
         <link href="https://www.solidot.org/story?sid=67837"/>
         <updated>2021-05-22T06:04:32.000Z</updated>
         <summary type="html"><![CDATA[新华社报道，中国工程院院士袁隆平于 5 月 22 日 13 点 07 分在湖南长沙逝世，享年 91 岁。袁隆平是我国研究与发展杂交水稻的开创者，也是世界上第一个成功利用水稻杂种优势的科学家，被誉为“杂交水稻之父”。袁隆平于 1930 年生于北京，1953 年毕业于西南农学院（现西南大学），1958 到 1961 年的大饥荒促使他开始研究杂交水稻。他因在杂交水稻方面的研究而在 2001 年获国家最高科学技术奖。他在后期开始了转基因水稻的研究。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pfizer-BioNTech 疫苗能在普通冰箱内放置一个月]]></title>
-        <id>https://www.solidot.org/story?sid=67836</id>
-        <link href="https://www.solidot.org/story?sid=67836"/>
-        <updated>2021-05-21T11:28:55.000Z</updated>
-        <summary type="html"><![CDATA[美国食品和药品管理局(FDA)宣布，Pfizer-BioNTech 的 COVID-19 疫苗能在普通冰箱内放置一个月而不是之前限制的五天。这一改变有助于缓解疫苗的储存问题，促进疫苗的推广，超低温的储存问题是阻碍这种疫苗推广的一个重要因素。Pfizer-BioNTech 疫苗的长期储存仍然需要放置在  -80°C 到 -60°C 温度下，冻存管能在  -25°C 到 -15°C 温度下运输和临时储存两周，未稀释的冻存管可以解冻和在普通冰箱  2°C 到 8°C 温度下保存一个月。但一旦稀释则需要在 6 小时内使用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sublime Text 4 发布]]></title>
-        <id>https://www.solidot.org/story?sid=67835</id>
-        <link href="https://www.solidot.org/story?sid=67835"/>
-        <updated>2021-05-21T10:47:53.000Z</updated>
-        <summary type="html"><![CDATA[跨平台源码编辑器 Sublime Text 释出了 4 系列的首个稳定版本，Sublime Text 4 的一大改变是许可证不再只绑定一个大版本，而是对购买三年内的所有更新都有效。之后用户仍然可以访问三年内 Sublime Text 释出的每一个版本，但较新的构建版本将需要许可证升级。新版的主要变化包括：文件标签多选；原生支持 Apple Silicon，Linux ARM64 版本支持 Raspberry Pi，更新了 UI，重写了内容感知自动完成，支持 TypeScript、JSX 和 TSX，改进了语法高亮引擎，能利用 GPU 渲染，更新到  Python 3.8，兼容 Sublime Text 3，等等。其它变化可浏览 Changelog。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登和文在寅会晤在即：朝核问题怎么办？]]></title>
-        <id>https://cn.nytimes.com/asia-pacific/20210521/biden-north-korea-nuclear-weapons/dual</id>
-        <link href="https://cn.nytimes.com/asia-pacific/20210521/biden-north-korea-nuclear-weapons/dual"/>
-        <updated>2021-05-21T10:36:02.000Z</updated>
-        <summary type="html"><![CDATA[DAVID E. SANGER, WILLIAM J. BROAD, CHOE SANG-HUN2021年5月21日1月，平壤举行的一场阅兵。过去四年，朝鲜的核武库和核燃料储备大约翻了一番。 Korean Central News Agency/Agence France-Presse, via Getty Images
-WASHINGTON — Just weeks after President Biden took office, North Korea sent a subtle message to the new administration: It switched on key parts of its nuclear fuel production plant in Yongbyon, the aging complex where the country’s nuclear weapons program was born four decades ago.
-华盛顿——就在拜登总统上任几周后，朝鲜向美国新政府发出了一个微妙的信息：它启动了宁边核燃料制造厂的关键部分，40年前，朝鲜的核武器计…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客正在利用最近披露的 4 个 Android 漏洞]]></title>
-        <id>https://www.solidot.org/story?sid=67834</id>
-        <link href="https://www.solidot.org/story?sid=67834"/>
-        <updated>2021-05-21T09:25:34.000Z</updated>
-        <summary type="html"><![CDATA[Google 警告未知黑客正在利用最近披露的 4 个 Android 漏洞执行恶意代码完整控制设备。这四个漏洞是在 5 月 3 日披露的，Google 已经向 Android 厂商释出了安全更新，由后者负责将补丁推送给用户。Google Project Zero 的安全研究员 Maddie Stone 将这四个正利用的漏洞称为 0day。成功利用漏洞允许完整控制受害者的手机。今年至今 Android 系统发现了 4 个 0day，相比下去年只发现 1 个。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“小国机遇”：夹在中俄之间的蒙古为何不缺疫苗]]></title>
-        <id>https://cn.nytimes.com/world/20210521/coronavirus-vaccine-mongolia/dual</id>
-        <link href="https://cn.nytimes.com/world/20210521/coronavirus-vaccine-mongolia/dual"/>
-        <updated>2021-05-21T08:36:01.000Z</updated>
-        <summary type="html"><![CDATA[艾莎2021年5月21日在蒙古首都乌兰巴托的一所学校，一个新冠疫苗接种点。政府为每位接受完整疫苗接种的市民提供5万图格里克（约合113元人民币）。 Khasar Sandag for The New York Times
-Mongolia, a country of grassy hills, vast deserts and endless skies, has a population not much bigger than Chicago’s. The small democratic nation is used to living in the shadow of its powerful neighbors, Russia and China.
-蒙古，一个拥有草原山丘、广袤沙漠和无垠天空的国家，人口并不比芝加哥多多少。这个民主小国习惯于生活在其强大的邻国俄罗斯和中国的阴影下。
-But during a pandemic, being a small nation sandwiched between two vaccine makers with global ambitions can hav…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抖音 360 百度等应用被指过多收集用户信息]]></title>
-        <id>https://www.solidot.org/story?sid=67833</id>
-        <link href="https://www.solidot.org/story?sid=67833"/>
-        <updated>2021-05-21T08:35:24.000Z</updated>
-        <summary type="html"><![CDATA[网信办公布了《关于抖音等105款App违法违规收集使用个人信息情况的通报》，称在调查之后发现这些应用收集了与其服务无关的个人信息或未经用户同意收集使用个人信息。被列入名单中的应用包括抖音、快手、360 浏览器、搜狗浏览器、百度浏览器、360 搜索、欧朋浏览器（Opera）、UC、傲游、领英、猎聘、前程无忧、智联、以及百度等等。网信办要求相关运营者在 15 个工作日内完成整改，逾期未完成整改将面临惩罚。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[胡椒喷雾、报警器和电击枪：亚裔美国人的新现实]]></title>
-        <id>https://cn.nytimes.com/usa/20210521/asian-americans-attacks-nyc/dual</id>
-        <link href="https://cn.nytimes.com/usa/20210521/asian-americans-attacks-nyc/dual"/>
-        <updated>2021-05-21T08:06:02.000Z</updated>
-        <summary type="html"><![CDATA[JESSICA CHIA2021年5月21日
-Last spring Annie Chen, who works in human resources, read about an Asian woman who had been punched in the face and yelled at by a stranger just a few blocks from where she lived in Midtown Manhattan.
-去年春天，供职于人力资源部门的安妮·陈（Annie Chen，音）读到一篇报道，说就在离她住的曼哈顿中城只有几个街区远的地方，一名亚裔女性被陌生人一拳打在脸上，还遭到言语辱骂。
-Five days later, Ms. Chen, 25, bought her first canister of pepper spray.
-五天后，25岁的安妮·陈第一次购买了胡椒喷雾。
-She had been struck by the way the public perception of Asian-Americans had suddenly changed, she sa…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook 称政府断网的事件在增加]]></title>
-        <id>https://www.solidot.org/story?sid=67832</id>
-        <link href="https://www.solidot.org/story?sid=67832"/>
-        <updated>2021-05-21T07:57:13.000Z</updated>
-        <summary type="html"><![CDATA[Facebook 称政府断网的事件在增加：去年下半年它的服务在 19 个国家经历了 84 次中断，而上半年在 8 个国家经历了 52 次中断。越来越多的国家通过限制社交网络和开放互联网来控制信息的流动。Facebook 还表示，去年下半年政府对用户数据的请求次数从 173,592 增加到了 191,013。美国最多，其次是印度、德国、法国、巴西和英国。从去年上半年到下半年，Facebook 按照当地法律限制当地用户访问内容的次数从 22,120 增加到了 42,606。一个原因是疫情流行期间当地执法机构增加了对虚假消息的打击。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港抗议：在街头被“消失”，在艺术中被重现]]></title>
-        <id>https://cn.nytimes.com/china/20210521/hong-kong-protests-art/dual</id>
-        <link href="https://cn.nytimes.com/china/20210521/hong-kong-protests-art/dual"/>
-        <updated>2021-05-21T06:36:02.000Z</updated>
-        <summary type="html"><![CDATA[MIKE IVES2021年5月21日艺术家萧伟恒。上个月，德国政府文化机构歌德学院的香港分院举办了他的一场混合媒体个人展《不合理行为》。 Lam Yik Fei for The New York Times
-HONG KONG — As tear gas and fiery street clashes swirled around her two years ago, the Hong Kong painter Bouie Choi wondered how she would eventually render them on canvas.
-香港——两年前，当催泪瓦斯和激烈的街头冲突萦绕在她身边，香港画家蔡钰娟思考自己最终会如何把它们展现在画布上。
-The answer, exhibited at a local gallery about a year later, was “borrowed space_borrowed time,” her suite of brooding, ethereal landscapes that evoked ancient Chinese scroll pain…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国考虑加强加密货币监管]]></title>
-        <id>https://www.solidot.org/story?sid=67831</id>
-        <link href="https://www.solidot.org/story?sid=67831"/>
-        <updated>2021-05-21T04:30:52.000Z</updated>
-        <summary type="html"><![CDATA[美国联邦储备委员会主席鲍威尔周四向加密货币施压，称它们对金融稳定构成风险，并表示可能需要对越来越受欢迎的电子货币进行更严格的监管。与此同时，美国财政部表示担心富人可能会利用很大程度上不受监管的加密货币来避税，并提议一万美元以上加密货币转账需向国税局报告。美联储和财政部认为加密货币更类似艺术品、黄金或其他具有高度投机性的资产。目前加密货币的市值约达 2 万亿美元。“加密货币已经带来了严重的资产核实难题，助涨了包括逃税在内的诸多违法活动，”财政部表示。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[垄断加强阻碍技术创新]]></title>
-        <id>https://www.solidot.org/story?sid=67830</id>
-        <link href="https://www.solidot.org/story?sid=67830"/>
-        <updated>2021-05-21T04:07:06.000Z</updated>
-        <summary type="html"><![CDATA[全球主要行业排名前三的企业营收在 25 年里增至 2.7 倍，但与此同时它们的研发投入则在大幅减少，垄断的加强正在阻碍技术创新。国际货币基金组织(IMF)的报告警告，“如果领先企业通过并购加强优势地位，其他竞争企业将丧失竞争意愿，导致研究开发被抑制。” 按每 5 年统计世界上市企业的研发费用，比较其增幅，2010 年代以后放缓明显。与 2000 年代相比减少一半。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深圳赛格大厦因未知原因晃动封楼]]></title>
-        <id>https://www.solidot.org/story?sid=67829</id>
-        <link href="https://www.solidot.org/story?sid=67829"/>
-        <updated>2021-05-21T03:11:54.000Z</updated>
-        <summary type="html"><![CDATA[深圳华强北赛格大厦日前出现晃动的原因仍在核查中，赛格集团有限公司发布通知称，为确保赛格大厦检测工作顺利进行，不受外界干扰，5 月 21 日零时起暂停所有业主、商户、租户进出赛格大厦写字楼和电子市场。针对深圳地标性建筑赛格大厦近日出现晃动事件，深圳市政府周三晚间表示，目前，大厦主体结构及周边环境未发现涉及安全异常情况，大厦主体结构安全。产生震动的具体原因正进一步核查中。此前有报告称，赛格大厦存在边施工边修改设计，先施工后设计，设计图没做完就开始施工等问题。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“这一天迟早会来”：台湾新冠疫情大暴发]]></title>
-        <id>https://cn.nytimes.com/asia-pacific/20210521/taiwan-covid-outbreak/dual</id>
-        <link href="https://cn.nytimes.com/asia-pacific/20210521/taiwan-covid-outbreak/dual"/>
-        <updated>2021-05-21T02:36:01.000Z</updated>
-        <summary type="html"><![CDATA[RAYMOND ZHONG, AMY CHANG CHIEN2021年5月21日随着新冠病毒感染病例的突然增加，台湾政府已下令居民尽可能呆在家里，出门要戴口罩，但尚未宣布全面的行动限制。 Ritchie B Tongo/EPA, via Shutterstock
-TAIPEI, Taiwan — Closed schools and restaurants offering takeout only. Lines around the block at testing sites. Politicians on television urging the public to stay calm.
-台湾台北——学校停课，餐馆只供外卖。做病毒检测的人绕街区排起了长队。政客们在电视上敦促公众保持冷静。
-If the scenes around Taiwan this week have a distinctly early pandemic feel, it is because the coronavirus is only now washing up on the island’s shores in for…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国海关因新疆棉问题拦截一批优衣库衬衫]]></title>
-        <id>https://cn.nytimes.com/business/20210521/uniqlo-forced-labor-china/dual</id>
-        <link href="https://cn.nytimes.com/business/20210521/uniqlo-forced-labor-china/dual"/>
-        <updated>2021-05-21T02:36:01.000Z</updated>
-        <summary type="html"><![CDATA[SAPNA MAHESHWARI2021年5月21日位于曼哈顿第五大道的优衣库商店。洛杉矶于1月拦截了一批来自优衣库的棉质服装。 Gabby Jones for The New York Times
-United States customs officials blocked a shipment of men’s cotton shirts from the fast-fashion giant Uniqlo earlier this year because of concerns that the clothes had been produced in part by forced labor in the Xinjiang area of China.
-今年早些时候，美国海关官员拦截了快时尚巨头优衣库(Uniqlo)的一批男士棉质衬衫，因为他们担心这些衣服部分是由中国新疆地区的强迫劳工生产的。
-The issue attracted new attention this week when a ruling on Tuesday was posted on the U.S. Customs and…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台积电等在2D晶体管技术上取得突破]]></title>
-        <id>https://www.solidot.org/story?sid=67828</id>
-        <link href="https://www.solidot.org/story?sid=67828"/>
-        <updated>2021-05-20T15:51:12.000Z</updated>
-        <summary type="html"><![CDATA[MIT、加州伯克利、台积电的研究人员上周在《自然》期刊上发表论文，报告在2D（即单个原子厚度）晶体管技术上取得了突破。研究人员称，他们解决了微型化半导体设备的一大难题：连接金属电极和单层半导体材料之间的接触电阻。他们发现了半金属铋可作为两者之间的接触电极，让2D晶体管成为可能，让芯片的制程能突破 1 纳米甚至更低。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 重新对 RSS 产生兴趣]]></title>
-        <id>https://www.solidot.org/story?sid=67827</id>
-        <link href="https://www.solidot.org/story?sid=67827"/>
-        <updated>2021-05-20T13:11:04.000Z</updated>
-        <summary type="html"><![CDATA[在杀死 Google Reader 八年之后，Google 看起来重新对 RSS 产生了兴趣。它的 Chrome 测试版本再次加入了对 RSS 的支持，引入了名为“关注（Follow）”的功能，在支持 RSS 的网站上用户可以添加对网站的关注。浏览器的新标签页变成了简化版的 Google Reader 阅读器，以时间顺序展示所关注网站的更新。Google Chrome 的产品经理 Janice Wong 说，今天的人有很多方式关注他们喜欢的网站，如订阅邮件列表，订阅通知和 RSS，Google 正在探索如何在 RSS 开放标准基础上简化在浏览器上直接获取所关注网站最新更新的体验。但就像杀死 Google Reader 一样，Google 可能会在任何时候杀死“关注”功能。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
