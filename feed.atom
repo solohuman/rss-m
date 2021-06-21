@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://solohuman.github.io/rss-m/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T00:43:38.892Z</updated>
+    <updated>2021-06-21T00:42:55.071Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://solohuman.github.io/rss-m/index.html"/>
     <link rel="self" href="https://solohuman.github.io/rss-m/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[四川关闭比特币矿场]]></title>
+        <id>https://www.solidot.org/story?sid=68076</id>
+        <link href="https://www.solidot.org/story?sid=68076"/>
+        <updated>2021-06-20T09:11:42.000Z</updated>
+        <summary type="html"><![CDATA[国内媒体报道称，四川关闭了所有比特币矿场：6 月 20 日零点，四川所有矿场被集体断电。这一事件能从比特币全网算力和国内矿池算力的变化反映出来：全网算力过去两天大幅下降，AntPool 和 Huobi Pool 等国内背景的矿池算力下跌了 26.8% 到 31.7%。报道称，四川前几天下发了关停虚拟货币挖矿项目的通知，要求各市（州）于 6 月 20 日前完成省内 26 个疑似虚拟货币挖矿重点项目的甄别、清理和关停工作，同时要求发电企业立即停止向虚拟货币挖矿项目供电，并于 6 月 25 日前上报自查、整改情况。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[八成选择支付赎金的组织会再次遭到勒索软件攻击]]></title>
+        <id>https://www.solidot.org/story?sid=68075</id>
+        <link href="https://www.solidot.org/story?sid=68075"/>
+        <updated>2021-06-19T12:53:58.000Z</updated>
+        <summary type="html"><![CDATA[安全公司 Cybereason 的研究发现，选择支付赎金的绝大部分组织会再次遭到勒索软件攻击，而且很多时候是同一个勒索软件组织。Cybereason 发现，支付赎金的组织有八成会再次遭到攻击，大约半数为相同的攻击者。研究还显示，在遭到勒索软件攻击之后采取的应对方法主要包括安全意识培训和安全操作。预防是确保组织不会成为受害者的最佳策略。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基准测试显示 AMD 在新台式机市场的占有率接近英特尔]]></title>
         <id>https://www.solidot.org/story?sid=68074</id>
@@ -3892,26 +3912,6 @@ He died of multiple organ failure, China’s main state-run newspaper, People’
         <link href="https://www.solidot.org/story?sid=67839"/>
         <updated>2021-05-22T13:06:06.000Z</updated>
         <summary type="html"><![CDATA[在对比了 105 岁和 110 岁以上长寿者和平均年龄 68 岁的健康老年人的基因组之后，一个国际研究团队发现了部分与长寿相关的遗传因素，它们与 DNA 修复相关。这些基因变种继承自他们的父母，在其更为漫长的生命中这些基因的累积突变更少。研究人员不清楚背后的原因，需要未来进一步研究去破译。论文主要作者 Cristina Giuliani 称，DNA 修复是不同物种中间长寿的一个机制，他们的研究显示这一机制也适用于人类。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国宣布将打击比特币挖矿和交易行为]]></title>
-        <id>https://www.solidot.org/story?sid=67838</id>
-        <link href="https://www.solidot.org/story?sid=67838"/>
-        <updated>2021-05-22T09:05:44.000Z</updated>
-        <summary type="html"><![CDATA[国务院金融稳定发展委员会宣布将打击比特币挖矿和交易行为。最近几天比特币的币值出现了剧烈震荡，币值在 3.6 万美元左右波动，比四月份创下的 6.3 万美元下跌超过 40%。金融稳定发展委员会的声明并没有给出具体措施，但本周早些时候有报道称，内蒙古发展与改革委员会宣布将设立一条电话热线，便利群众举报疑似在挖矿的企业，作为“全面清理关停”虚拟货币挖矿项目的努力的一部分。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[袁隆平去世享年 91 岁]]></title>
-        <id>https://www.solidot.org/story?sid=67837</id>
-        <link href="https://www.solidot.org/story?sid=67837"/>
-        <updated>2021-05-22T06:04:32.000Z</updated>
-        <summary type="html"><![CDATA[新华社报道，中国工程院院士袁隆平于 5 月 22 日 13 点 07 分在湖南长沙逝世，享年 91 岁。袁隆平是我国研究与发展杂交水稻的开创者，也是世界上第一个成功利用水稻杂种优势的科学家，被誉为“杂交水稻之父”。袁隆平于 1930 年生于北京，1953 年毕业于西南农学院（现西南大学），1958 到 1961 年的大饥荒促使他开始研究杂交水稻。他因在杂交水稻方面的研究而在 2001 年获国家最高科学技术奖。他在后期开始了转基因水稻的研究。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
