@@ -2,10 +2,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://solohuman.github.io/rss-m/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-23T00:38:36.328Z</updated>
-    <generator>osmosfeed 1.10.2</generator>
+    <updated>2021-06-24T00:32:40.898Z</updated>
+    <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://solohuman.github.io/rss-m/index.html"/>
     <link rel="self" href="https://solohuman.github.io/rss-m/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新冠病毒来自于实验室吗？]]></title>
+        <id>https://cn.nytimes.com/opinion/20210623/lab-leak-covid/dual</id>
+        <link href="https://cn.nytimes.com/opinion/20210623/lab-leak-covid/dual"/>
+        <updated>2021-06-23T10:36:01.000Z</updated>
+        <summary type="html"><![CDATA[SPENCER BOKAT-LINDELL2021年6月23日 Illustration by The New York Times; photographs by FlashMovie, Wladimir Bulgar/Sicence Photo Library, Mantonature via Getty Images
+This article is part of the Debatable newsletter. You can sign up here to receive it on Tuesdays and Thursdays.
+本文属于“争议”(Debatable)栏目新闻电邮。可以在此处订阅，周二及周四收取邮件。
+A year and a half later, we still don’t know for certain: How did the Covid-19 pandemic begin?
+一年半过去了，我们仍然无法确定：新冠大流行是如何开始的？
+From the outbreak’s early days, most scientists assumed that the virus, SARS-CoV-2, had jumped from an animal to a person in late 2019, possibly at a meat market in Wuhan, China, the city of 11 million where the first known Covid cases were identified. But in May, The Times reported that U.S. intelligence agencies were investigating another explanation t…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港《苹果日报》将停止运营]]></title>
+        <id>https://cn.nytimes.com/china/20210623/apple-daily-hong-kong/dual</id>
+        <link href="https://cn.nytimes.com/china/20210623/apple-daily-hong-kong/dual"/>
+        <updated>2021-06-23T09:06:02.000Z</updated>
+        <summary type="html"><![CDATA[王霜舟, TIFFANY MAY2021年6月23日周五，香港《苹果日报》的员工在准备新印刷的报纸。此前一天，警方逮捕了该报的总编辑和四名高管。 Anthony Wallace/Agence France-Presse — Getty Images
+Apple Daily, a defiantly pro-democracy newspaper in Hong Kong that has come under intense pressure from the authorities, said on Wednesday that it would cease operations this week.
+大胆反抗、支持民主的香港报纸《苹果日报》周三表示将于本周停止运营。该报受到了来自当局的巨大压力。
+The police on Wednesday also arrested one of Apple Daily’s opinion writers in an investigation that has drawn concerns over the state of media freedoms in the city.
+周三，警方还在一项调查中逮捕了《苹果日报》的一名观点作者，该调查引发了人们对香港媒体自由状况的担忧。
+The board of directors for Apple Daily’s parent, Next Digital, announced that the paper would stop publishing in print and online by Saturday, after the police last week froze its accounts and arrested top editors and executives.…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拜登外交政策中的空话]]></title>
+        <id>https://cn.nytimes.com/opinion/20210623/biden-foreign-policy/dual</id>
+        <link href="https://cn.nytimes.com/opinion/20210623/biden-foreign-policy/dual"/>
+        <updated>2021-06-23T08:36:02.000Z</updated>
+        <summary type="html"><![CDATA[PETER BEINART2021年6月23日上周在G7首脑会议前，美国空军人员在英格兰苏佛克等候拜登总统的到来。拜登承认国际合法性是一种权力的形式。 Brendan Smialowski/Agence France-Presse — Getty Images
+Anyone who slogs through the diplomatic verbiage generated last week by President Biden’s inaugural overseas trip will notice one phrase again and again: “rules-based.” It appears twice in Mr. Biden’s joint statement with Prime Minister Boris Johnson of Britain, four times each in the communiqués the United States issued with the governments of the Group of 7 and the European Union, and six times in the manifesto produced by NATO.
+任何人只要仔细阅读拜登总统上周的首次海外出访引发的外交辞令，就会注意到一个词语一再出现：“基于规则”。它在拜登与英国首相鲍里斯·约翰逊(Boris Johnson)的联合声明中出现了两次，在美国与七国集团(Group of 7)和欧盟(European Union)政府发布的公报中各自出现了四次，在北约(NATO)发布的宣言中出现了六次。
+That’s no surprise: “Rules-based order” (or sometimes, “rules-b…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从蒙古到塞舌尔：获得中国疫苗后，新冠病毒并未远去]]></title>
+        <id>https://cn.nytimes.com/world/20210623/china-vaccines-covid-outbreak/dual</id>
+        <link href="https://cn.nytimes.com/world/20210623/china-vaccines-covid-outbreak/dual"/>
+        <updated>2021-06-23T07:06:01.000Z</updated>
+        <summary type="html"><![CDATA[黄瑞黎2021年6月23日5月，印度尼西亚古突士的一场葬礼。虽然接种率很高，但许多依赖于中国疫苗的国家正在经历新的新冠病毒暴发。 Antara Foto/via Reuters
+Mongolia promised its people a “Covid-free summer.” Bahrain said there would be a “return to normal life.” The tiny island nation of the Seychelles aimed to jump-start its economy.
+蒙古向人民承诺会有一个“没有新冠的夏天”。巴林表示将“恢复正常生活”。小岛国塞舌尔着眼于重启经济。
+All three put their faith, at least in part, in easily accessible Chinese-made vaccines, which would allow them to roll out ambitious inoculation programs when much of the world was going without.
+这三个国家——至少在一定程度上——都寄希望于易于获得的中国疫苗。在世界大部分地区都没有疫苗的情况下，这将使他们能够推出雄心勃勃的接种计划。
+But instead of freedom from the coronavirus, all three countries are now battling a surge in infections.
+但是，这三个国家非但没有摆脱新冠病毒，反而在与感染激增作斗争。
+China kicked off its vaccine diplomacy campaign last year by pledging to pro…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国加强打击加密货币之际，比特币跌破3万美元]]></title>
+        <id>https://cn.nytimes.com/business/20210623/bitcoin-cryptocurrency-price-decline/dual</id>
+        <link href="https://cn.nytimes.com/business/20210623/bitcoin-cryptocurrency-price-decline/dual"/>
+        <updated>2021-06-23T07:06:01.000Z</updated>
+        <summary type="html"><![CDATA[EPHRAT LIVNI, RAYMOND ZHONG2021年6月23日
+Bitcoin fell below $30,000 on Tuesday for the first time since January after a torrid week of trading in which the cryptocurrency has lost nearly 30 percent of its value. The latest drop leaves the cryptocurrency little changed from where it began the year, erasing a large run-up in recent months.
+周二，比特币自1月以来首次跌破3万美元，经过一周的频繁交易，该加密货币的价值缩水近30%。最新的下跌回吐了最近几个月的大幅上涨，使该加密货币价值回到接近年初的水平。
+The decline comes as China intensifies its crackdown on Bitcoin. The Chinese government has long viewed cryptocurrencies as a threat to its control over capital flows in the country. Recent statements from top policymakers and articles in the official news media have signaled an increased focus on controlling financial risks, likely to ensure smooth sailing for the economy ahea…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港国安法第一案：骑车撞警男子被控“煽动分裂国家”]]></title>
+        <id>https://cn.nytimes.com/china/20210623/hong-kong-security-law-trial/dual</id>
+        <link href="https://cn.nytimes.com/china/20210623/hong-kong-security-law-trial/dual"/>
+        <updated>2021-06-23T03:36:02.000Z</updated>
+        <summary type="html"><![CDATA[王霜舟2021年6月23日一辆囚车周三抵达香港高等法院，这是唐英杰案庭审的第一天。唐英杰的命运可能预示着法院在未来几个月将如何处理其他数十起国家安全案件。 Tyrone Siu/Reuters
+HONG KONG — Nearly a year ago, a 23-year-old ramen cook rode a motorcycle through a Hong Kong neighborhood, flying a large flag emblazoned with a popular anti-government protest slogan. He collided into several riot police officers as they tried to stop him.
+香港——大约一年前，一名23岁的拉面厨师骑着摩托车，打着一面写有流行的反政府抗议口号的巨幅旗帜，行驶在香港的一个街区，撞上了几名试图挡住他的防暴警察。
+In a different era, the rider, Tong Ying-kit, might have been accused of dangerous driving and assaulting a police officer. Instead, the authorities arrested him last July under a draconian national security law Beijing had imposed on Hong Kong, only hours earlier, that took aim at dissent and other political activity challenging China’s rule.
+放在一个不同的时代，骑车人唐英杰可能会被指控…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈勃望远镜关键计算机下线一周]]></title>
+        <id>https://www.solidot.org/story?sid=68102</id>
+        <link href="https://www.solidot.org/story?sid=68102"/>
+        <updated>2021-06-22T15:30:41.000Z</updated>
+        <summary type="html"><![CDATA[哈勃太空望远镜上一台建造于 1980 年代的计算机发生了故障。6 月 13 日控制和监视所有科学仪器的有效载荷计算机停止工作，NASA 工程师还没有查清是什么导致了计算机故障。6 月 14 日 NASA 尝试重启计算机但失败了。初步数据显示问题可能与内存模块有关，因此哈勃团队尝试切换到了三个备用内存模块之一，但故障依然存在。上周四两次切换模块的尝试也都失败了。NASA 上周五表示它正在测试和收集更多信息以隔离问题，望远镜上的科学仪器都处于安全模式。NASA 表示它们的健康状况良好。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔与 SiFive 合作推广 RISC-V]]></title>
+        <id>https://www.solidot.org/story?sid=68101</id>
+        <link href="https://www.solidot.org/story?sid=68101"/>
+        <updated>2021-06-22T14:34:49.000Z</updated>
+        <summary type="html"><![CDATA[芯片巨人与创业公司 SiFive 合作向对 RISC-V 处理器感兴趣的开发者提供开发平台。英特尔代号为 Horse Creek 的 7 纳米芯片组使用了 SiFive 最新设计的 64 位  P550 核心。除此之外，英特尔拒绝透露更多的配置信息。而 SiFive 发言人则表示这是英特尔支持 RISC-V 架构的一部分。在这之前有消息称英特尔报价 20 多亿美元收购 SiFive。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[撒哈拉以南非洲下雨或意味着欧洲更多的蝴蝶]]></title>
+        <id>https://www.solidot.org/story?sid=68100</id>
+        <link href="https://www.solidot.org/story?sid=68100"/>
+        <updated>2021-06-22T13:28:59.000Z</updated>
+        <summary type="html"><![CDATA[蝴蝶效应可能完全错了，蝴蝶扇动翅膀未必是几周后遥远的地方发生龙卷风：一项研究发现撒哈拉以南非洲的降雨可能导致南欧的下一个春天有更多的蝴蝶。小红蛱蝶是世界上分布最广泛的蝴蝶之一，在欧洲的数量多达数千万。它每年会进行往返 12,000 到 14,000 公里的迁徙，从撒哈拉以南非洲到斯堪的纳维亚，是已知的距离最遥远的昆虫迁徙之一。但返回欧洲的蝴蝶数量有时会发生巨大的变动，博物学家为此困惑不已。成年小红蛱蝶的寿命只有大约 2 周，因此迁徙会持续数代。研究人员分析了长达 21 年的蝴蝶观察以及欧洲和非洲的卫星数据，发现欧洲蝴蝶春天的数量受到了撒哈拉以南非洲上一个夏季和秋季降雨的影响。更多的降雨会为冬天出生的蝴蝶幼虫提供更多的食物，增加数量。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO 称 Covax 计划面临疫苗短缺]]></title>
+        <id>https://www.solidot.org/story?sid=68099</id>
+        <link href="https://www.solidot.org/story?sid=68099"/>
+        <updated>2021-06-22T11:24:15.000Z</updated>
+        <summary type="html"><![CDATA[世界卫生组织（WHO）表示，通过“全球新冠肺炎疫苗实施计划”（Covax）接受疫苗的很多较贫穷国家已经没有足够供应来继续开展接种。世卫组织高级顾问 Bruce Aylward 博士说，Covax 计划已向 131 个国家提供了 9000 万剂疫苗。但这仍然远不足以令人们免受病毒全球传播的影响。Covax 计划是去年创建的，目的是确保在全球范围内提供疫苗，让富国为穷国提供补贴。Covax 最初设定了到 2021 年底在全球提供 20 亿剂疫苗的目标。大部分疫苗会被捐赠给贫穷国家，让至少 20% 的人口得到保护。但是，由于生产延误和供应中断，这一计划受到阻碍，导致完全依赖 Covax 疫苗的国家出现短缺。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现代以 8.8 亿美元收购波士顿动力的控股权]]></title>
+        <id>https://www.solidot.org/story?sid=68098</id>
+        <link href="https://www.solidot.org/story?sid=68098"/>
+        <updated>2021-06-22T10:26:47.000Z</updated>
+        <summary type="html"><![CDATA[韩国现代汽车集团公司宣布以 8.8 亿美元从日本软银收购波士顿动力的八成股权。现代汽车、现代 Mobis、现代 Glovis 以及集团会长郑义宣分别持有波士顿动力 30%、20%、10% 和 20% 的股份，软银持有剩余的 20%。此次企业并购中，波士顿动力的市值被估为 11 亿美元左右。现代汽车计划以机器人新项目为起点研发造福于人类的技术，为顾客提供更高层次的体验，加强企业的未来竞争力。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MXLinux为什么是下载量最大的Linux桌面发行版？]]></title>
         <id>https://www.solidot.org/story?sid=68097</id>
@@ -3875,173 +4012,6 @@ OS 的设备也开始迁移到 Fuchsia OS。
         <link href="https://www.solidot.org/story?sid=67861"/>
         <updated>2021-05-25T13:43:19.000Z</updated>
         <summary type="html"><![CDATA[国务院金融委上周表态将打击比特币挖矿和交易行为，称将“强化平台企业金融活动监管，打击比特币挖矿和交易行为，坚决防范个体风险向社会领域传递”。《南华早报》报道认为中国将会很快封杀所有比特币挖矿活动。中国政府不只是担心与比特币投资相关的金融稳定性，新华社的一篇评论还对比特币在洗钱、贩毒和走私中的作用表达了担忧，并提到了挖矿活动导致的能源浪费。比特币挖矿如果要有利可图需要充足的廉价电力，矿场因此涌向了内蒙古等有廉价煤电的地方。内蒙古的一个比特币矿场使用的发电量高达 50 MW。中国对比特币挖矿的打击预计会将迫使矿工们迁往蒙古、哈萨克斯坦和阿富汗等地。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 开始向 Nest Hub 用户推送 Fuchsia 操作系统]]></title>
-        <id>https://www.solidot.org/story?sid=67860</id>
-        <link href="https://www.solidot.org/story?sid=67860"/>
-        <updated>2021-05-25T11:16:19.000Z</updated>
-        <summary type="html"><![CDATA[Google 的 Nest Hub 设备将运行它的新操作系统 Fuchsia OS。Fuchsia 是 Google 正在开发的实验性操作系统，使用名叫 Zircon 的微内核。这个新操作系统引发了很多猜测。现在 Google 宣布它开始向第一代 Nest Hub 设备推送更新。更新没有改变任何功能，但底层的系统用 Fuchsia OS 取代了原来使用的基于 Linux 的 Cast OS。Nest Hub 的使用体验不会有任何变化。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[放射性物质释放的热量维持了地表深处的生命]]></title>
-        <id>https://www.solidot.org/story?sid=67859</id>
-        <link href="https://www.solidot.org/story?sid=67859"/>
-        <updated>2021-05-25T11:04:27.000Z</updated>
-        <summary type="html"><![CDATA[地球深处并非没有生命，事实上生命无处不在：根据多个估计，有生命居住的地下王国范围相当于海洋体积的两倍，细胞数量达到 1030，它是地球上最大的栖息地之一，也是最古老和最多元化的栖息地之一。但这些生活在地底的生命是如何生存的？来自太阳光的光合作用无法抵达如此深的地方，少量的有机碳食物也很快消耗光了。与生活在深海热泉附近或火山活动温暖区域的生物群不同的是，地球深处的生态系统通常不依赖于高温过程，它们必须在黑暗和寒冷中坚持下去。研究人员最近发表的两篇论文解决了部分谜团：有证据表明，放射性衰变释放的热量维持了地球深处的生命。岩石中不稳定原子释放的辐射能将水分子分解为氢和化学活性的过氧化物以及自由基，部分细胞能直接将氢作为燃料。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国的民主何以岌岌可危]]></title>
-        <id>https://cn.nytimes.com/opinion/20210525/republicans-donald-trump-loyalty/dual</id>
-        <link href="https://cn.nytimes.com/opinion/20210525/republicans-donald-trump-loyalty/dual"/>
-        <updated>2021-05-25T10:06:01.000Z</updated>
-        <summary type="html"><![CDATA[保罗·克鲁格曼2021年5月25日
-America’s democratic experiment may well be nearing its end. That’s not hyperbole; it’s obvious to anyone following the political scene. Republicans might take power legitimately; they might win through pervasive voter suppression; G.O.P. legislators might simply refuse to certify Democratic electoral votes and declare Donald Trump or his political heir the winner. However it plays out, the G.O.P. will try to ensure a permanent lock on power and do all it can to suppress dissent.
-美国的民主实验很可能就要结束了。这不是危言耸听，任何关注政治的人都能清楚地看到。共和党人可能合法掌权；他们可能通过普遍的选民压制而获胜；共和党议员可能干脆拒绝确认民主党的选举人票，宣布唐纳德·特朗普(Donald Trump)或他的政治继承人获胜。无论结果如何，共和党都将努力确保永久锁定权力，并尽其所能压制异议。
-But how did we get here? We read every day about the rage of the Republican base, which overwhelmingly believes, based on nothing, that the…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光遗传学疗法首次让失明者重见光明]]></title>
-        <id>https://www.solidot.org/story?sid=67858</id>
-        <link href="https://www.solidot.org/story?sid=67858"/>
-        <updated>2021-05-25T08:58:54.000Z</updated>
-        <summary type="html"><![CDATA[一名男子戴着类似 VR 头显的设备，伸出右手将手指放在一个黑色笔记本上。虽然动作简单，但却具有非常重要的意义，因为他已经失明近四十年了。科学家在《Nature Medicine》期刊上报告了光遗传学疗法首次让失明者重见光明。作为临床试验的一部分，这名男子的眼睛植入了基因，使视网膜神经元产生常见于绿藻的光感蛋白。他所佩戴的设备将周围的图像作为脉冲光束投射到光感细胞上，神经元会将光信号传入大脑视觉处理中心。基因改造过的神经元替代了他因为视网膜色素变性这一遗传疾病而失去的感光受体。这名男子还无法看到颜色或更多细节，但展现了光遗传学疗法成功恢复了部分视力。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[炸弹骗局、出动战机：白俄罗斯迫降客机引发外交对决]]></title>
-        <id>https://cn.nytimes.com/world/20210525/belarus-flight-ban/dual</id>
-        <link href="https://cn.nytimes.com/world/20210525/belarus-flight-ban/dual"/>
-        <updated>2021-05-25T08:36:01.000Z</updated>
-        <summary type="html"><![CDATA[ANTON TROIANOVSKI2021年5月25日周一，在华沙举行的一次抗议活动中，被拘留的白俄罗斯记者罗曼·普罗塔塞维奇的支持者手持纸飞机。 Omar Marques/Getty Images
-MOSCOW — The tray tables were being raised and the seat backs returned to their upright positions as passengers on Ryanair Flight 4978 prepared for the scheduled landing in the Lithuanian capital, Vilnius. Then the plane made an abrupt U-turn.
-莫斯科——瑞安航空(Ryanair)4978航班正准备按计划在立陶宛首都维尔纽斯降落，乘客收起了小桌板，将座椅调回原位。这时飞机突然开始掉头。
-For many passengers, it initially seemed like one of those unexpected delays in airline travel. But after the pilot announced the plane had been diverted to Minsk, the capital of Belarus, one passenger — Roman Protasevich, a prominent Belarusian opposition journalist who had been living in exile since 2019 — grew terrified, certain that he faced arrest.
-对于许多乘客来说，这起初看上去像是民航典型的那种意外延误…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为海思发布首款 RISC-V 开发板]]></title>
-        <id>https://www.solidot.org/story?sid=67857</id>
-        <link href="https://www.solidot.org/story?sid=67857"/>
-        <updated>2021-05-25T07:03:42.000Z</updated>
-        <summary type="html"><![CDATA[为了克服美国对使用最新 ARM 设计的限制，华为海思转向了开源指令集架构 RISC-V，针对鸿蒙操作系统的开发者发布了首款 RISC-V 开发板 Hi3861。美国在 2019 年将华为加入到了黑名单，禁止向华为出售美国技术，而 ARM 设计包含了美国技术。Hi3861 针对的是物联网市场，而海思传统上其开发面向的是利润更高的智能手机、平板、PC 和嵌入式系统。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉因通过软件更新限制充电速度被勒令向受影响车主赔偿 1.6 万美元]]></title>
-        <id>https://www.solidot.org/story?sid=67856</id>
-        <link href="https://www.solidot.org/story?sid=67856"/>
-        <updated>2021-05-25T06:24:39.000Z</updated>
-        <summary type="html"><![CDATA[在挪威，特斯拉因通过一次软件更新限制充电速度和电池容量被判有罪，被勒令向受影响车主每人赔偿 1.6 万美元。受影响车主可能多达上万。2019 年，配备  85 kWh 电池组的 Model S 和 Model X 车主报告在软件更新之后他们的电池行驶距离减少了 10% 以上，同时充电速度也下降了。对于车主的报告，特斯拉回应称此举是为了保护电池和改进电池寿命。不同国家的特斯拉车主随后提起了一系列诉讼。挪威法庭证实特斯拉通过软件更新限制了充电速度和电池容量，特斯拉没有回应诉讼，法庭判决它向每位受影响车主赔偿 136,000 挪威克朗（约 1.6 万美元），除非特斯拉在数周内上诉。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inkscape 1.1 发布]]></title>
-        <id>https://www.solidot.org/story?sid=67855</id>
-        <link href="https://www.solidot.org/story?sid=67855"/>
-        <updated>2021-05-25T06:07:29.000Z</updated>
-        <summary type="html"><![CDATA[自由软件向量图形编辑器 Inkscape 项目释出了 1.1 版本。Inkscape 1.1 的主要变化包括：欢迎对话框和全新的欢迎界面，命令面板，重新设计了对话框对接系统，可搜索偏好选择，新的导出格式，新的轮廓叠加模式，更多 Live Path Effects 变化，等等。Inkscape 项目诞生于 2003 年，2020 年发布了 1.0 版本。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为将在 6 月 2 日发布鸿蒙系列产品]]></title>
-        <id>https://www.solidot.org/story?sid=67854</id>
-        <link href="https://www.solidot.org/story?sid=67854"/>
-        <updated>2021-05-25T05:59:36.000Z</updated>
-        <summary type="html"><![CDATA[华为宣布它计划在 6 月 2 日正式举办鸿蒙产品发布会，预计此前只用于智慧屏、可穿戴设备等产品的鸿蒙操作系统将在更多产品品类上使用。华为预计 2021 年底搭载鸿蒙操作系统的设备数量将达 3 亿台，其中华为设备超过 2 亿台，面向第三方合作伙伴的各类终端设备数量超过 1 亿台。美国的制裁措施禁止 Google 为新的华为手机型号提供技术支持，华为使用自己的操作系统，意味着将不再依赖于 Android 系统。此前对鸿蒙V2 的分析表明，它事实上是 Android 的拷贝，只是改了 UI。而华为高管声称鸿蒙V3 将不再基于 Android。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台湾未获邀参加世界卫生大会，批北京从中阻挠]]></title>
-        <id>https://cn.nytimes.com/asia-pacific/20210525/taiwan-excluded-from-a-world-health-forum-blames-chinese-interference/dual</id>
-        <link href="https://cn.nytimes.com/asia-pacific/20210525/taiwan-excluded-from-a-world-health-forum-blames-chinese-interference/dual"/>
-        <updated>2021-05-25T03:36:01.000Z</updated>
-        <summary type="html"><![CDATA[AMY QIN2021年5月25日台湾台北，周日，近期新冠感染病例激增后，一处空荡荡的夜市。 Ann Wang/Reuters
-Taiwan’s government on Monday criticized the World Health Organization for capitulating to China after it failed to secure an invite to an annual health meeting convened by the international agency.
-台湾政府在未能获邀参加世界卫生组织(World Health Organization)召开的年度卫生会议后，于周一批评该机构向中国大陆投降。
-For months, Taiwan and a coalition of supporters, including the United States, had been intensely lobbying for the self-governed island to be granted observer status at the meeting of the World Health Assembly, or W.H.A., which began today and will be held virtually through June 1.
-几个月来，台湾和包括美国在内的支持者联盟一直在积极游说，希望这个自治岛屿在世界卫生大会(World Health Assembly，简称WHA)获得观察员身份，该会议从今天开始，将于线上进行，持续到6月1日。
-China, which claims Taiwan as its own territory, has blocked the island from …]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[甘肃越野跑比赛幸存者回忆惊魂时刻]]></title>
-        <id>https://cn.nytimes.com/china/20210525/china-ultramarathon-survivor/dual</id>
-        <link href="https://cn.nytimes.com/china/20210525/china-ultramarathon-survivor/dual"/>
-        <updated>2021-05-25T03:36:01.000Z</updated>
-        <summary type="html"><![CDATA[艾莎, 曹莉2021年5月25日周日在中国白银市附近，用于搜救选手的紧急救援车。 Agence France-Presse — Getty Images
-The day began in jittery anticipation as 172 Lycra-clad runners jumped up and down at the starting line of the 62-mile mountain race in Gansu Province, China. Zhang Xiaotao noticed the wind as it blew the hats off some of his competitors. It was an early sign of the challenge ahead.
-这一天在充满紧张不安的期待中开始了，172名穿着莱卡运动服的跑者在中国甘肃百公里越野赛的起跑线位置上下跳跃。张小涛发现起风了，风刮掉了一些选手的帽子。这预示着他们即将面临的挑战。
-A few hours later, Mr. Zhang, 30, would be lying unconscious on the rugged mountain, according to a written account that he shared on Chinese social media.
-根据他在中国社交媒体上分享的文字记录，几个小时后，30岁的张小涛躺在崎岖的山上，失去了知觉。
-Mr. Zhang, a sports blogger, was among the group of survivors who were rescued when whipping rain turned to hail and temperatures plummeted hours …]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界面临人口停滞和生育危机]]></title>
-        <id>https://www.solidot.org/story?sid=67853</id>
-        <link href="https://www.solidot.org/story?sid=67853"/>
-        <updated>2021-05-24T14:59:59.000Z</updated>
-        <summary type="html"><![CDATA[世界各国都在面对人口增长停滞、出生率暴跌的问题，这场有历史记载以来最令人目眩的反转，将导致新生儿生日派对比葬礼罕见许多，碍眼的空房子也会随处可见。这种如雪崩一般的人口趋势——死亡多于出生——正在扩大和加剧。有一些国家的人口在增长，尤其在非洲，不过其他地方出生率几乎都呈下降趋势。人口学家预测到本世纪进入后 50 年或更早的时候，全球人口将首次进入持续下降的趋势。人口的减少可以缓解这个星球的资源压力，减轻气候变化的毁灭性冲击，并减轻女性的家务负担。寿命延长和低生育率会导致工作者数量减少，退休人员增加，可能会颠覆社会的组织方式——其核心观念是年轻人的过剩可以推动经济发展，负担老人的成本。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DarkSide 加盟者指控管理员没付钱就跑路]]></title>
-        <id>https://www.solidot.org/story?sid=67852</id>
-        <link href="https://www.solidot.org/story?sid=67852"/>
-        <updated>2021-05-24T14:22:19.000Z</updated>
-        <summary type="html"><![CDATA[化名 darksupp 的黑客去年 11 月在俄语黑客论坛 XSS.is 发帖为勒索软件即服务 DarkSide 招募加盟成员。根据 DarkSide 的加盟分成比例：如果赎金低于 50 万美元加盟者可以分到 75% 的赎金，如果赎金高于 500 万美元，分成比例将提高到 90%。根据加密货币跟踪公司 Chainalysis 的统计，在过去 7 个月内，DarkSide 至少赚到了 6000 万美元，其中 4600 万美元来自于今年前 3 个月。在从美国最大燃油管道公司 Colonial Pipeline 勒索到 500 万美元和从化学品公司优信邦泰勒索到 440 万美元之后，引发广泛关注的 DarkSide 上周突然宣布终止运营，声称失去了对其网络基础设施和部分比特币钱包的控制。之后 DarkSide 成员就销声匿迹了。而在 XSS.is 论坛上，部分 DarkSide 加盟成员投诉 DarkSide 管理者没付钱就跑路了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国石油公司与矿场合作挖比特币]]></title>
-        <id>https://www.solidot.org/story?sid=67851</id>
-        <link href="https://www.solidot.org/story?sid=67851"/>
-        <updated>2021-05-24T13:27:35.000Z</updated>
-        <summary type="html"><![CDATA[美国石油公司正与矿场合作将不想要的杂散天然气用于挖掘比特币。矿机被放置在移动拖车之中，运行温度高达摄氏 71 度，在北达科他州西部的寒冷地区，人们只要坐在计算机旁边就可以保持温暖。石油公司面临来自投资者和政府官员的压力，要求其减少导致全球变暖的排放。他们有时把天然气免费送给矿商；有时候卖掉。全球比特币行业的总体二氧化碳排放已增至 6,000 万吨，相当于大约 900 万辆汽车的排放量。根据美国银行分析师 3 月的一份报告，两年前比特币行业的排放量仅为 2,000 万吨。支持者称，北美新的石油-加密货币联盟令挖矿活动离开亚洲。原本超过 60% 的挖矿活动在亚洲进行，而且基本上依赖煤电进行。燃煤的二氧化碳排放量大约是天然气的两倍。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加州将要求 Uber 和 Lyft 切换到电动汽车]]></title>
-        <id>https://www.solidot.org/story?sid=67850</id>
-        <link href="https://www.solidot.org/story?sid=67850"/>
-        <updated>2021-05-24T13:08:49.000Z</updated>
-        <summary type="html"><![CDATA[加州将要求 Uber 和 Lyft 等打车软件公司到这个十年结束前从燃油汽车过渡到电动汽车。加州监管机构 California Air Resources Board (CARB)批准了 Clean Miles Standard，要求到 2030 年电动汽车行驶里程必须占到打车软件公司汽车总里程的九成，从 2023 年开始这些公司必须开始电动化。这项计划是加州计划到 2045 年实现碳平衡努力的一部分。Uber 和 Lyft 已经承诺到 2030 年全部实现电动化，要求加州政府提供更多的资金帮助司机能负担得起电动汽车。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
