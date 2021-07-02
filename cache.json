@@ -6,6 +6,42 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/china/20210701/china-communists-100th-anniversary/dual",
+          "author": null,
+          "description": "STEVEN LEE MYERS2021年7月1日1949年，庆祝共产党革命胜利的活动上，人们举着毛泽东的画像。 Associated Press\nIn the summer of 1921, there was nothing inevitable about the Communist Party of China, even its survival. Especially its survival.\n1921年夏，中国共产党前途未卜，生存都成了问题。尤其是生存成问题。\nThe country, then the Republic of China, was still struggling with civil strife and crushing poverty a decade after the fall of the Qing dynasty in 1911 ended thousands of years of imperial rule.\n在1911年清王朝覆灭、千年帝制结束的十年后，当时还是中华民国的中国仍在内乱和极度贫困中挣扎。\nIn a brick schoolhouse in Shanghai’s French Concession, a neighborhood carved out by humiliating colonial occupation in the 19th century, 12 men (maybe more) gathered to forge a new political force. They were inspired less by Karl Marx than by the Bolshevik Revolution, which was then consolidating control over the…",
+          "link": "https://cn.nytimes.com/china/20210701/china-communists-100th-anniversary/dual",
+          "publishedOn": "2021-07-01T09:06:01.000Z",
+          "wordCount": 1456,
+          "title": "革命、动荡与控制：图片中的中共百年历史"
+        },
+        {
+          "id": "https://cn.nytimes.com/science/20210701/cryonics-freezing-bodies/dual",
+          "author": null,
+          "description": "PETER WILSON2021年7月1日迈克尔·佩里在亚利桑那州阿尔科生命延续基金的设施检查接受冷冻处理的遗体。 Jesse Rieser for The New York Times\nWhen an 87-year-old Californian man was wheeled into an operating room just outside Phoenix last year, the pandemic was at its height and medical protocols were being upended across the country.\n去年，一名87岁的加州男子被推进凤凰城郊外的手术室时，正是新冠病毒大流行进入高峰、美国各地的医疗方案都被打乱的时候。\nA case like his would normally have required 14 or more bags of fluids to be pumped into him, but now that posed a problem.\n像他这样的情况，以前需要注入14袋或更多的液体，但那对当时来说是个问题。\nHad he been infected with the coronavirus, tiny aerosol droplets could have escaped and infected staff, so the operating team had adopted new procedures that reduced the effectiveness of the treatment but used fewer liquids.\n如果他已被新冠病毒感染，空气中可能会有逃逸的微小气溶胶，导致工作人员感染，所以手术团队采用了新方案，虽然减弱了治疗效果，但减少了需要…",
+          "link": "https://cn.nytimes.com/science/20210701/cryonics-freezing-bodies/dual",
+          "publishedOn": "2021-07-01T08:36:02.000Z",
+          "wordCount": 2065,
+          "title": "想活得更久？你可以考虑冷冻自己"
+        },
+        {
+          "id": "https://cn.nytimes.com/technology/20210701/didi-wall-street-initial-public-offering/dual",
+          "author": null,
+          "description": "KATE CONGER, RAYMOND ZHONG2021年7月1日北京，一名滴滴司机在接乘客的途中。 Jason Lee/Reuters\nDidi, the leading Chinese ride-hailing platform, made its Wall Street debut on Wednesday, capping a year in which ride-hailing and travel companies have struggled to overcome intermittent pandemic lockdowns.\n中国领先的网约车平台滴滴周三在华尔街上市，为网约车和旅游公司因疫情断断续续遭受封锁困扰的一年画上了句号。\nDidi began trading at $16.82 a share on the New York Stock Exchange, up 20 percent from a $14-a-share offering price. But investor interest cooled throughout the day, and Didi closed at $14.20, pegging the company’s value at more than $69 billion.\n滴滴在纽约证券交易所的开盘价为每股16.82美元，较每股14美元的发行价上涨20%。但投资者兴趣在一天内降温，滴滴收盘报14.20美元，公司市值超过690亿美元。\nThe company made its debut, trading under the ticker DIDI, as Wall Street continues to embrace fast-growing tech companies regardless of t…",
+          "link": "https://cn.nytimes.com/technology/20210701/didi-wall-street-initial-public-offering/dual",
+          "publishedOn": "2021-07-01T03:36:02.000Z",
+          "wordCount": 992,
+          "title": "滴滴赴美上市，增长和监管隐忧犹存"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20210701/china-malaria/dual",
+          "author": null,
+          "description": "黄瑞黎2021年7月1日去年在中国种植的黄花蒿苗。2015年，一名中国科学家因发现青蒿素被授予诺贝尔奖。青蒿素是黄花蒿的衍生物，是当今最有效的抗疟疾药物的核心化合物。 Costfoto/Barcroft Media, via Getty Images\nThe World Health Organization declared China free of malaria on Wednesday after a seven-decade campaign against the disease, which has killed hundreds of thousands of people in the country.\n世界卫生组织(The World Health Organization)周三宣布，经过70年的抗击疟疾努力之后，中国获得了世卫组织给予的无疟疾认证。疟疾曾在中国导致数十万人死亡。\nThe achievement is a major milestone for the world’s most populous nation — China is the first country in the W.H.O. Western Pacific region to be awarded a malaria-free certification in more than three decades. The only other countries in the region that have eradicated malaria are Australia, Brunei and Singapore, according to the global health agency.\n该成就是这个世界上人口最多国家的一个重要里程碑——中国是世卫组织西太平洋区域…",
+          "link": "https://cn.nytimes.com/china/20210701/china-malaria/dual",
+          "publishedOn": "2021-07-01T02:06:02.000Z",
+          "wordCount": 761,
+          "title": "中国被世卫组织认证为无疟疾国家"
+        },
+        {
           "id": "https://cn.nytimes.com/china/20210701/china-communist-party-anniversary/dual",
           "author": null,
           "description": "《纽约时报》2021年7月1日周一，在中国共产党成立 100 周年之前，表演者在北京的一场盛大演出中聚集在共产党旗帜周围。 Ng Han Guan/Associated Press\nChina links its ascendant future to a revolutionary past as it celebrates the Communist Party’s centenary.\n\n在庆祝共产党成立百年之际，中国将其未来的崛起与过去的革命联系在一起。\nChina’s Communist Party on Thursday is celebrating the 100th anniversary of its founding, an event at which it is expected to argue that the country can keep ascending only if the party remains firmly in power.\n中国共产党于周四庆祝其建党一百周年，在这场活动中，预计将会强调只有党继续牢牢掌权，国家才能继续前进。\nThe organizers have disclosed little about how the day’s pomp will unfold, but the official highlight will be a speech by Xi Jinping, China’s leader. Major policy announcements are unlikely, but the centenary is symbolically important for Mr. Xi, who is almost certain to claim a third five-year term as …",
@@ -859,60 +895,6 @@
           "publishedOn": "2021-06-03T02:36:01.000Z",
           "wordCount": 1195,
           "title": "亚裔美国人，一个美丽但充满缺陷的虚构故事"
-        },
-        {
-          "id": "https://cn.nytimes.com/opinion/20210602/media-lab-leak-theory/dual",
-          "author": null,
-          "description": "BRET STEPHENS2021年6月2日 Ng Han Guan/Associated Press\nIf it turns out that the Covid pandemic was caused by a leak from a lab in Wuhan, China, it will rank among the greatest scientific scandals in history: dangerous research, possibly involving ethically dubious techniques that make viruses more dangerous, carried out in a poorly safeguarded facility, thuggishly covered up by a regime more interested in propaganda than human life, catastrophic for the entire world.\n如果新冠疫情最终被证实是由中国武汉一家实验室的泄漏引起的，这将成为历史上最大的科学丑闻之一：危险的研究，可能涉及道德上存疑的技术使病毒更加危险，在保障不足的设施中进行，被一个更关心宣传而不是人命的政权残暴地掩盖，给整个世界造成了灾难。\nBut this possible scandal, which is as yet unproved, obscures an actual scandal, which remains to be digested.\n但是这个尚未证实的可能丑闻掩盖了一个依然有待消化的真正丑闻。\nI mean the long refusal by too many media gatekeepers (social as well a…",
-          "link": "https://cn.nytimes.com/opinion/20210602/media-lab-leak-theory/dual",
-          "publishedOn": "2021-06-02T10:06:01.000Z",
-          "wordCount": 885,
-          "title": "新冠病毒“实验室泄露说”背后真正的丑闻"
-        },
-        {
-          "id": "https://cn.nytimes.com/technology/20210602/china-tencent-monopoly/dual",
-          "author": null,
-          "description": "袁莉2021年6月2日\nA few months after Wang Xing founded a Groupon-like e-commerce service called Meituan, he learned that China’s biggest internet company, Tencent, had started a similar venture.\n在创办了名为“美团”的Groupon式电商服务几个月后，王兴发现中国最大的互联网公司腾讯也开始做类似的业务。\n“Is there any business that Tencent wouldn’t do?” he asked.\n“有什么业务是腾讯不做的吗？”他问道。\nMr. Wang’s quote led a 2010 magazine article about Tencent with a headline so famously profane — think the rough Chinese equivalent of an F-bomb — that two top editors were fired shortly after it was published. The cover depicted Tencent’s mascot, a chubby penguin wearing a red scarf, stabbed with knives, blood dripping to the floor.\n王兴的这句话被放在2010年一篇关于腾讯的杂志文章篇首，文章带脏字的标题也出了名，以至于刊出后不久两名高级编辑被解雇。杂志封面上是腾讯的吉祥物——一只胖乎乎的企鹅，戴着红围巾，身上插着几把刀子，血流如注。\nDramatic, perhaps, but back then the …",
-          "link": "https://cn.nytimes.com/technology/20210602/china-tencent-monopoly/dual",
-          "publishedOn": "2021-06-02T09:06:01.000Z",
-          "wordCount": 1412,
-          "title": "从中国互联网业头号公敌到“腾讯爸爸”"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20210602/china-parks-green-space/dual",
-          "author": null,
-          "description": "KEITH BRADSHER2021年6月2日北京一个新修复的公园。自2001年以来，中国城市的公共绿地面积增加了近五倍，同时也对老公园进行翻修。 Keith Bradsher for The New York Times\nSHANGHAI — Suzhou Creek was little more than an open sewer for decades as its murky waters coursed through the heart of Shanghai. Now, it teems with life along verdant banks that stretch for 26 miles.\n上海——几十年来，苏州河只是一个臭水浜，浑浊的河水流经上海的中心地带。如今，绵延42公里的翠绿河岸已是生机盎然。\nJoggers wind along burgundy paths lined with azaleas, wisteria and osmanthus. Fishermen catch carp weighing up to 11 pounds. Children skip rope, while elderly couples rest on waterfront benches.\n慢跑者沿着布满杜鹃花、紫藤和桂花的酒红色小径蜿蜒而行。渔民捞起五公斤重的鲤鱼。孩子们在跳绳，老年夫妇在水边的长椅上休息。\n“In the past, we couldn’t even come near Suzhou Creek because the water reeked and was black,” said Zhang Guanghe, a 79-year-old retired fertilizer factory foreman, as constr…",
-          "link": "https://cn.nytimes.com/china/20210602/china-parks-green-space/dual",
-          "publishedOn": "2021-06-02T06:36:01.000Z",
-          "wordCount": 1216,
-          "title": "中国迎来公园修建热潮，混凝土丛林为绿地让路"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20210602/china-three-child/dual",
-          "author": null,
-          "description": "王月眉2021年6月2日周二，北京的一个公园。周一，中国政府宣布将允许夫妇可以生育的孩子数量从两个上升到三个。 Gilles Sabrié for The New York Times\nAfter China said it would allow couples to have three children, the state news media trumpeted the move as a major change that would help stimulate growth. But across much of the country, the announcement was met with indignation.\n在中国宣布将允许夫妇生育三个孩子后，官方新闻媒体大肆宣传此举是有助于刺激经济增长的重大变化。但在大多数地方，这个宣布引发了人们的愤慨。\n\nWomen worried that the move would only exacerbate discrimination from employers reluctant to pay maternity leave. Young people fumed that they were already hard-pressed to find jobs and take care of themselves, let alone a child (or three). Working-class parents said the financial burden of more children would be unbearable.\n女性担心此举只会加剧雇主不愿支付产假的歧视。年轻人感到愤怒，他们已经很难找到工作和照顾自己，更不用说照顾一个孩子（或三个孩子）了。工薪阶层的父母表示难以承受生育…",
-          "link": "https://cn.nytimes.com/china/20210602/china-three-child/dual",
-          "publishedOn": "2021-06-02T04:06:02.000Z",
-          "wordCount": 1110,
-          "title": "国家鼓励生“三胎”？许多中国人说不"
-        },
-        {
-          "id": "https://cn.nytimes.com/asia-pacific/20210602/belgian-ambassador-seoul/dual",
-          "author": null,
-          "description": "YOUMI KIM, MIKE IVES2021年6月2日比利时驻韩国大使因妻子与首尔一家商店的两名雇员发生争执而引起公愤，比利时将召回这名大使。 Lee Jin-Man/Associated Press\nSEOUL — The shop assistant followed the ambassador’s wife out of a Seoul clothing store, stopped her in the street and checked the label of her jacket to make sure it had not been shoplifted.\n首尔——一名店员跟着大使夫人走出首尔一家服装店，在街上拦住她，查看她外套上的标签，以确保它不是被偷的。\nThe customer, Xiang Xueqiu, returned to the store in a rage, slapping the assistant on the back of the head and another in the face. She had not stolen anything, but the attack was captured by surveillance footage and led to a police investigation.\n这名名叫相雪秋（Xiang Xueqiu，音）的顾客怒气冲冲地回到店里，击打了这名店员的后脑勺，并掌掴另一名店员。她没有偷东西，但监控录像捕捉到了这次袭击，警方对此展开了调查。\nThe incident turned into a slow-burning diplomatic flap with weeks of embarrassing headlines. Now the Belgian embas…",
-          "link": "https://cn.nytimes.com/asia-pacific/20210602/belgian-ambassador-seoul/dual",
-          "publishedOn": "2021-06-02T03:06:02.000Z",
-          "wordCount": 585,
-          "title": "比利时驻韩国大使妻子掌掴服装店员，引发外交风波"
-        },
-        {
-          "id": "https://cn.nytimes.com/china/20210602/china-vasectomies/dual",
-          "author": null,
-          "description": "黄瑞黎, ELSIE CHEN2021年6月2日黄玉龙26岁时做了输精管结扎手术。他不打算要孩子，正在努力追求一种被称为“丁克”(DINK)的生活方式，这个概念直到最近才进入中国主流社会。 Qilai Shen for The New York Times\nHuang Yulong never wanted a baby. As a child, he resented his parents, who left him in the care of relatives while they worked in faraway factories, visiting roughly once a year. He never felt a need to reproduce or pass on the family name.\n黄玉龙从来都不想要孩子。小时候，他怨恨父母，他们到遥远的工厂打工，把他留给亲戚照顾，大约每年回来看他一次。他从来都不觉得有传宗接代的需要。\nSo, at the age of 26, he had a vasectomy.\n26岁的时候，他做了输精管结扎手术。\n“For our generation, children aren’t a necessity,” said Mr. Huang, a bachelor in the southern Chinese city of Guangzhou. “Now we can live without any burdens. So why not invest our spiritual and economic resources on our own lives?”\n“对我们这一代来说，其实小孩不是必需品，”住在南方城市广州、仍然单身的黄先生说。“而且我们现在又是可有可无的，所以还不如把那些经济精…",
-          "link": "https://cn.nytimes.com/china/20210602/china-vasectomies/dual",
-          "publishedOn": "2021-06-02T02:36:01.000Z",
-          "wordCount": 1416,
-          "title": "那些选择做结扎手术的中国“丁克”男性"
         }
       ]
     },
@@ -921,6 +903,60 @@
       "feedUrl": "http://feeds.feedburner.com/solidot",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=68172",
+          "author": null,
+          "description": "滴滴周三在纽约股市 IPO 首日略微上涨，它的开盘价报每股 16.65 美元，使公司市值达到804亿美元，相比之下其发行价为每股 14 美元。该股票开盘上涨，但后来跌破每股 15 美元，收盘价为每股 14.14 美元。此次上市使滴滴跻身顶级美国上市中国企业的行列，是自 2014 年阿里巴巴 IPO 以来，在 IPO 中筹集最多资金的美国上市中国企业。此次上市将为滴滴的投资者——包括软银的愿景基金、优步和腾讯——收获巨额回报铺平了道路。以开盘价计算，软银愿景基金一期持有的滴滴股份将达约 160 亿美元，滴滴是该基金的最大一笔投资。优步持有的股份将达约 96 亿美元，这些股份是优步通过一份在 2016 年签署的退出中国业务的协议获得的。",
+          "link": "https://www.solidot.org/story?sid=68172",
+          "publishedOn": "2021-07-01T07:10:10.000Z",
+          "wordCount": 99,
+          "title": "滴滴美国 IPO 首日上涨 0.14 美元"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=68171",
+          "author": null,
+          "description": "根据发表在《Cell Reports》上的研究报告，科学家发现了至今最早的鼠疫感染者。5300 年前死于拉脱维亚的一名男子感染了已知的最早鼠疫。这名男子与其他三人被埋葬在拉脱维亚的萨拉克河边的一个新石器时代风格的墓穴中。这条河最后汇入波罗的海。研究人员对这四人的骨头和牙齿 DNA 进行测序，并对其进行细菌和病毒测试。研究人员惊讶地发现，其中一名 20 多岁的狩猎采集者感染了一种古老的鼠疫，这种鼠疫源自一种名为鼠疫杆菌（Yersinia pestis）的细菌。研究人员认为，这种古老的鼠疫大约出现在 7000 年前，当时欧洲中部开始出现了农业种植。",
+          "link": "https://www.solidot.org/story?sid=68171",
+          "publishedOn": "2021-07-01T06:44:21.000Z",
+          "wordCount": 81,
+          "title": "科学家发现最早的鼠疫感染者"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=68169",
+          "author": null,
+          "description": "苹果操作系统 macOS 已经释出了 v11 版本，v12 即将在今年晚些时候正式发布。但还有部分苹果用户仍然在使用旧的操作系统如  OS X 10.7 Lion 和 OS X 10.8 Mountain Lion。在这之前，用户需要支付 20 美元才能下载 OS X Lion 和 Mountain Lion。现在苹果解除了这一限制，免费放出了这两款旧操作系统的下载。2009 年发布的 OS X 10. 6 Snow Leopard 已经不再提供下载。",
+          "link": "https://www.solidot.org/story?sid=68169",
+          "publishedOn": "2021-07-01T05:58:05.000Z",
+          "wordCount": 114,
+          "title": "苹果免费提供 OS X Lion 和 Mountain Lion 下载"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=68168",
+          "author": null,
+          "description": "上个月美国总统拜登(Joe Biden)任命知名反垄断活动人士 Lina Khan 担任 FTC 主席，此举可能意味着拜登政府将对科技巨头如亚马逊采取更为强硬的立场。现在亚马逊向 FTC 递交文件，要求 Lina Khan 回避对该公司的反垄断调查。“鉴于她以往有关亚马逊声明的详细记录，以及她一再宣称亚马逊违反反垄断法规，一个理性的观察者可以得出结论，她无法再以开放的心态考虑公司的反垄断辩护，”亚马逊提交的文件表示，“事实上，这样做将要求她与其多年来的着述和声明切割，这些着述与声明是她职业生涯的根基。”",
+          "link": "https://www.solidot.org/story?sid=68168",
+          "publishedOn": "2021-07-01T05:44:37.000Z",
+          "wordCount": 84,
+          "title": "亚马逊要求 FTC 主席回避对该公司的反垄断调查"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=68167",
+          "author": null,
+          "description": "2021 年 5 月，黑客入侵了一家在拉美有子公司的西班牙企业 Everis，访问了多个数据集，包括北约的云计算平台，以及相关源代码和文档。除了获得数据拷贝，黑客还声称删除了公司的拷贝，并有机会修改了项目或植入了后门。黑客还试图勒索 Everis，开玩笑的说向俄罗斯情报机构发送数据。被称为北约 Service-Oriented Architecture and Identity Access Management (SOA & IdM) 的平台是北约 IT 现代化的 4 个核心项目之一。黑客自称有政治动机，他们最初只对 Everis 的拉美子公司数据感兴趣。",
+          "link": "https://www.solidot.org/story?sid=68167",
+          "publishedOn": "2021-06-30T15:20:57.000Z",
+          "wordCount": 90,
+          "title": "北约机密云平台遭到入侵"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=68166",
+          "author": null,
+          "description": "类似维基百科的开放地图项目 OpenStreetMap 考虑搬到欧盟。OpenStreetMap 项目是由英国企业家 Steve Coast 在 2004 年发起的，OpenStreetMap 基金会于 2006 年在英格兰和威尔士注册为有限公司。在英国退出欧盟之后基金会表示由于英国和欧盟之间缺乏协议使其无法继续在英国运营。一个重要原因是英国和欧盟之间未能就相互承认数据库权利达成协议。双方承认的版权保护只覆盖创意作品，而地图没有以相同的方式受到版权的保护。",
+          "link": "https://www.solidot.org/story?sid=68166",
+          "publishedOn": "2021-06-30T15:10:01.000Z",
+          "wordCount": 83,
+          "title": "OpenStreetMap 考虑从英国迁到欧盟"
+        },
         {
           "id": "https://www.solidot.org/story?sid=68165",
           "author": null,
@@ -2927,123 +2963,6 @@
           "publishedOn": "2021-06-02T13:21:29.000Z",
           "wordCount": 110,
           "title": "中国迎来公园修建热潮"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=67935",
-          "author": null,
-          "description": "世界最大的肉加工企业 JBS 遭到勒索软件攻击，公司临时关闭了位于澳大利亚、加拿大和美国的部分运营，有数千工人受到影响。勒索软件组织被认为来自俄罗斯。美国白宫表示 FBI 正对此展开调查。俄罗斯副外长 Sergei Ryabkov 告诉当地媒体拜登当局已联络莫斯科讨论网络攻击。JBS 于 1953 年在巴西创办，在 15 个国家拥有超过 150 家工厂，雇佣了超过 15 万员工。该公司表示其备份系统没有受到影响。",
-          "link": "https://www.solidot.org/story?sid=67935",
-          "publishedOn": "2021-06-02T12:38:08.000Z",
-          "wordCount": 86,
-          "title": "世界最大肉类供应商遭勒索软件攻击"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=67934",
-          "author": null,
-          "description": "在许多地方，随着疫苗接种的普及，企业逐渐恢复到原来的工作模式。虽然 Google 等公司承诺给予员工工作的灵活性，但很多企业的高管开始称赞办公室工作的优越性，认为远程工作削弱了合作和企业文化。员工们并不认同这一观点。过去一年的经历证明，很多工作可以在任何地方完成，无需漫长的通勤。有员工认为，一部分企业老板是在试图重新控制他们的“小黄人”。上个月对 1000 名美国成年人的调查显示，如果雇主在远程工作上没有灵活性，有 39% 的人考虑辞职。在千禧年和 Z 世代人群中，这个比例达到了 49%。FlexJobs 对 2100 人的调查显示，无需通勤和节约费用是远程工作最主要益处。超过三分之一的回应者称，远程工作至少每年能节省 5000 美元。",
-          "link": "https://www.solidot.org/story?sid=67934",
-          "publishedOn": "2021-06-02T11:28:31.000Z",
-          "wordCount": 84,
-          "title": "员工宁愿辞职不愿放弃远程工作"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=67933",
-          "author": null,
-          "description": "十几年前，腾讯被广泛视为中国科技企业的公敌。它会毫不犹豫地剽窃他人的创意，让初创公司活不下去。但今天它变成了某种“开明君主”。中国互联网产业有相当一部分属于所谓的腾讯生态系统。这其中包括成百上千家腾讯投资的公司。“当腾讯抄袭的时候”，中国的科技公司没有倒下来，一篇被热转的博客写道。“当腾讯把支票递过来后，他们便失去了抵抗的意志，纷纷投诚。”腾讯在世界上是独一无二的。在许多层面上，它是真正的垄断者。腾讯是一个大型娱乐平台；是风险投资者，根据它自己的说法，它已投资了 800 多家公司；最重要的是，腾讯是一个平台运营商。它运行微信，一款具有社交媒体和金融服务功能的移动消息应用程序。是微信业务让这个公司注重与其他公司交好。",
-          "link": "https://www.solidot.org/story?sid=67933",
-          "publishedOn": "2021-06-02T11:06:51.000Z",
-          "wordCount": 88,
-          "title": "腾讯如何从公敌变为“开明君主”"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=67932",
-          "author": null,
-          "description": "GCC 编译器项目和很多 GNU 项目一样，需要贡献者完成文书工作将版权转让给自由软件基金会（FSF）。现在 GCC 的指导委员会决定放宽这一要求，GCC 项目将会继续采用 GNU GPLv3 许可证，但不再要求版权转让给 FSF。这一变动与其它大型自由软件项目如 Linux 内核采取的做法保持一致。",
-          "link": "https://www.solidot.org/story?sid=67932",
-          "publishedOn": "2021-06-02T09:34:17.000Z",
-          "wordCount": 84,
-          "title": "GCC 放弃版权转让政策"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=67931",
-          "author": null,
-          "description": "白俄罗斯临时限制绝大部分公民出境，包括持有居留许可的外籍居民。允许出境的主要是商务旅行的公务员和国家交通运输部门的工作人员。在劫持一架 Ryanair 航空公司航班逮捕机上持不同政见的记者及其女友引发国际社会的愤怒之后，国家边境委员会收紧了出入境限制，它在一份声明中称，只有在外国拥有永久居留许可的人才被允许离开白俄罗斯。边境委员会对于采取这一措施给出的理由是新冠疫情。卢卡申科（Alexander Lukashenko）在去年 8 月 9 日宣布赢得受争议的大选后严厉镇压了反对者，迫使很多人流亡。他的最主要竞争对手 Svetlana Tikhanovskaya 坚称她赢得了大选，她及其团队流亡到了邻国立陶宛。外国人只有在 10 天的自我隔离之后才允许离境。",
-          "link": "https://www.solidot.org/story?sid=67931",
-          "publishedOn": "2021-06-02T09:24:42.000Z",
-          "wordCount": 82,
-          "title": "白俄禁止绝大部分居民出国"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=67930",
-          "author": null,
-          "description": "佛罗里达州州长 Ron DeSantis 5 月 24 日签署了一项法案，禁止社交媒体因言论封杀政治候选人，他抨击了  Twitter 和 Facebook 对保守派的“审查”，法案对封杀候选人的社交媒体公司每日罚款最高 25 万美元。代表科技巨头如  Facebook、Twitter、亚马逊和 Google 等的贸易组织 Netchoice 和计算机与通信行业协会对佛罗里达州提起诉讼，试图阻止该法律的生效，认为它构成了对宪法第一修正案的违反。诉讼请求法官授予初步和永久性禁令。阻止佛罗里达执行这项法律。",
-          "link": "https://www.solidot.org/story?sid=67930",
-          "publishedOn": "2021-06-02T07:38:50.000Z",
-          "wordCount": 87,
-          "title": "科技巨头起诉佛罗里达认为社交媒体禁令违宪"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=67929",
-          "author": null,
-          "description": "土壤是地球上最复杂生物多样性最丰富的生态系统之一，但广泛使用的杀虫剂正在杀死地球的土壤。发表在《Frontiers in Environmental Science》期刊上的一项研究全面调查了杀虫剂对土壤健康的影响。研究人员调查了近 400 项已发表的杀虫剂影响研究，共涉及 2800 多次实验，在七成的实验中，杀虫剂被发现伤害了对维持土壤健康重要的生物体。杀虫剂密集使用的农业和污染是土壤生物急剧减少的主要驱动因素，也是过去十年土壤生物多样性丧失的最主要驱动因素。要保护土壤必须减少杀虫剂等农药的使用。",
-          "link": "https://www.solidot.org/story?sid=67929",
-          "publishedOn": "2021-06-02T06:48:37.000Z",
-          "wordCount": 78,
-          "title": "杀虫剂正在杀死地球的土壤"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=67928",
-          "author": null,
-          "description": "James Webb 太空望远镜将不会在原计划的 10 月 31 日发射，三个因素让发射日期推迟到 11 月甚至 12 月初。Webb 望远镜原计划在完成最后检测之后安放在一个大型集装箱内，用船从加州运送到法属圭亚那，欧洲航天局将使用 Ariane-5 火箭在 10 月 31 日将望远镜发射到太空。但望远镜的运输、火箭和发射场的准备情况这三个因素使发射日期难以确定，发射日期需要到夏末或秋初才能确定。Ariane-5 火箭从去年 8 月起因为整流罩问题而停止发射，而法属圭亚那因为新冠疫情的问题而限制运作，当地还没有广泛接种疫苗。",
-          "link": "https://www.solidot.org/story?sid=67928",
-          "publishedOn": "2021-06-02T05:59:20.000Z",
-          "wordCount": 92,
-          "title": "Webb 望远镜发射日期再次延期"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=67927",
-          "author": null,
-          "description": "根据 eBay 最新生效的使用条款，它将直接向卖家的银行账户而不是 PayPal 账户付款。PayPal 和 eBay 在很长时间内都是合作伙伴，eBay 在 2002 年以 15 亿美元收购了 PayPal，2015 年将其剥离，但两家公司继续合作直到现在。新的使用条款意味着双方的关系发生了巨大变化。eBay 买家仍然可以使用 PayPal，但卖家将不再允许使用。eBay 表示新系统更方便简单，提供了更多付款选项。部分卖家表示不愿意使用新的系统。",
-          "link": "https://www.solidot.org/story?sid=67927",
-          "publishedOn": "2021-06-02T05:42:30.000Z",
-          "wordCount": 91,
-          "title": "eBay 卖家不再允许使用 PayPal"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=67926",
-          "author": null,
-          "description": "世界卫生组织(WHO)批准将科兴生物生产的新冠疫苗列入紧急使用清单，为中国第二只疫苗可在贫困国家使用铺平了道路。列入清单的疫苗将被纳入新冠疫苗全球获取机制(COVAX)--一项主要为贫穷国家提供疫苗的全球计划，由于印度暂停疫苗出口，该计划正面临严重的供应问题。WHO 独立专家小组在一份声明中表示，他们建议18岁以上的成年人接种两剂科兴疫苗，接种间隔为两到四周。接种该疫苗并无年龄上限，因数据表明，疫苗可能会对老年人产生保护作用。这是中国第二款、全球第八款获得世卫组织批准紧急使用的新冠疫苗。此前，世卫组织于 5 月 7 日将中国国药集团新冠疫苗列入紧急使用清单。",
-          "link": "https://www.solidot.org/story?sid=67926",
-          "publishedOn": "2021-06-02T02:12:59.000Z",
-          "wordCount": 77,
-          "title": "WHO 批准科兴生物新冠疫苗的紧急使用"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=67925",
-          "author": null,
-          "description": "Mozilla 释出了 Firefox 89.0。在新版中，Mozilla 简化了浏览器 chrome 和工具栏，移除了不常用的项目，重点突出导航项目；根据使用量重新组织和优化了菜单选项；更新了提示；减少了警告和消息的数量；通过  Total Cookie Protection 增强了隐私浏览模式下的隐私保护功能；等等。Mozilla 对浏览器 UI 的改变通常会引发用户不满。",
-          "link": "https://www.solidot.org/story?sid=67925",
-          "publishedOn": "2021-06-01T15:17:12.000Z",
-          "wordCount": 115,
-          "title": "Firefox 89.0 发布"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=67924",
-          "author": null,
-          "description": "因为最近流行的话题躺平，百度封锁了包括卧龙吧在内的多个子论坛。以卧龙吧为例，最后的留言都是 5 月 31 日，最新的一则留言是抱怨“\r\n辛苦一辈子供一个房子”。在这之前，包括新华社在内的官方媒体对“躺平主义”对“躺平”现象进行批判。",
-          "link": "https://www.solidot.org/story?sid=67924",
-          "publishedOn": "2021-06-01T15:06:17.000Z",
-          "wordCount": 91,
-          "title": "百度封锁了卧龙吧等子论坛"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=67923",
-          "author": null,
-          "description": "源自阿里巴巴/蚂蚁集团的企业分布式数据库 Oceanbase 在木兰公共许可证第 2 版下开源，源代码托管在 GitHub 上。Oceanbase 去年以公司模式独立运营。木兰公共许可证是政府组建的开源组织中国开源云联盟发布的开源许可证。Oceanbase 有三个版本，社区版、云服务版和企业版，后两个版本都需要付费。对于公开的源代码，有 PingCAP 软件工程师发现发现部分代码似乎拷贝自 PingCAP。PingCAP 是一家数据库开发商。",
-          "link": "https://www.solidot.org/story?sid=67923",
-          "publishedOn": "2021-06-01T14:09:03.000Z",
-          "wordCount": 84,
-          "title": "Oceanbase 在木兰许可证下开源"
         }
       ]
     }
