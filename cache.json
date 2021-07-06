@@ -6,6 +6,60 @@
       "siteUrl": "http://nytimes.com",
       "articles": [
         {
+          "id": "https://cn.nytimes.com/opinion/20210705/china-us-competition/dual",
+          "author": null,
+          "description": "FARAH STOCKMAN2021年7月5日 Lintao Zhang/Getty Images\nWhen the Soviet Union crumbled in the 1990s, Americans did a victory lap that lasted for decades. We saw it as the triumph of capitalism over communism, freedom over authoritarianism, democracy over one-party rule. We assumed that the game was over and that we had won. We had reached “the end of history.” We thought that it was only a matter of time before China, which had already embraced some free-market reforms, transitioned to a system just like ours. Americans normalized trade with China and waited patiently for the “Chinese Gorbachev.” If you’re still out there waiting, don’t hold your breath.\n1990年代苏联解体后，美国人的绕场庆祝持续了几十年。我们将其视为资本主义对共产主义、自由对威权、民主对一党统治的胜利。我们以为游戏已经结束，我们已经赢了。我们已经到了“历史的终结”。我们认为中国已经进行了一些自由市场改革，向我们这样的体制过渡只是时间问题。美国人将对华贸易正常化，耐心…",
+          "link": "https://cn.nytimes.com/opinion/20210705/china-us-competition/dual",
+          "publishedOn": "2021-07-05T10:06:01.000Z",
+          "wordCount": 1427,
+          "title": "中国已经崛起，与它竞争也许是件好事"
+        },
+        {
+          "id": "https://cn.nytimes.com/technology/20210705/tech-cold-war-chips/dual",
+          "author": null,
+          "description": "DON CLARK2021年7月5日荷兰公司ASML制造的机器可以在电脑芯片上实现小得多的电路。图中这一台位于纽约州奥尔巴尼的一座IBM设施。 Bryan Derballa for The New York Times\nSAN FRANCISCO — President Biden and many lawmakers in Washington are worried these days about computer chips and China’s ambitions with the foundational technology.\n旧金山——电脑芯片和中国在基础技术上的野心如今是让拜登总统和多位华盛顿立法者倍感忧心的事。\nBut a massive machine sold by a Dutch company has emerged as a key lever for policymakers — and illustrates how any country’s hopes of building a completely self-sufficient supply chain in semiconductor technology are unrealistic.\n然而，一家荷兰公司出售的一种巨型机器已经成为政策制定者们的有力手段——由此也能看到，任何国家要想建起一套完全自足的半导体技术供应链都是天方夜谭。\nThe machine is made by ASML Holding, based in Veldhoven. Its system uses a different kind of light to define ultrasmall circuitry on chips, packing more performance into the s…",
+          "link": "https://cn.nytimes.com/technology/20210705/tech-cold-war-chips/dual",
+          "publishedOn": "2021-07-05T08:06:01.000Z",
+          "wordCount": 1342,
+          "title": "技术冷战中，中国得不到的“最复杂机器”"
+        },
+        {
+          "id": "https://cn.nytimes.com/technology/20210705/china-didi-app-removed/dual",
+          "author": null,
+          "description": "RAYMOND ZHONG2021年7月5日北京的一位司机打开滴滴应用程序。 Jade Gao/Agence France-Presse — Getty Images\nChina’s government ordered the country’s leading ride-hailing platform, Didi, removed from app stores for “serious” problems related to the collection and use of customer data, the latest blow by Beijing to the company, which went public on the New York Stock Exchange just this past week.\n 中国政府下令将该国主要叫车平台滴滴从应用商店下架，称其存在“严重”违法违规收集使用个人信息问题。这是北京对该公司的最新打击，滴滴上周刚刚在纽约证券交易所上市。\nIn its brief late-evening announcement on Sunday, China’s internet regulator, the Cyberspace Administration of China, did not explain what problems it had found, only that its decision had been based on information that was reported to it, then tested and verified. The regulator ordered Didi to correct the problems and to “earnestly safeguard …",
+          "link": "https://cn.nytimes.com/technology/20210705/china-didi-app-removed/dual",
+          "publishedOn": "2021-07-05T05:36:01.000Z",
+          "wordCount": 563,
+          "title": "滴滴被勒令下架整改，中国互联网监管力度升级"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20210705/china-slackers-tangping/dual",
+          "author": null,
+          "description": "ELSIE CHEN2021年7月5日中国建德，骆华忠在小憩。他选择“躺平”生活的想法在中国流行开来。 Qilai Shen for The New York Times\nFive years ago, Luo Huazhong discovered that he enjoyed doing nothing. He quit his job as a factory worker in China, biked 1,300 miles from Sichuan Province to Tibet and decided he could get by on odd jobs and $60 a month from his savings. He called his new lifestyle “lying flat.”\n五年前，骆华忠发现自己很享受无所事事。他辞去了工厂工人的工作，从四川省骑行2000多公里到西藏，并决定靠打零工和每月从积蓄中拿出约400元过活。他管自己的新生活方式叫“躺平”。\n“I have been chilling,” Mr. Luo, 31, wrote in a blog post in April, describing his way of life. “I don’t feel like there’s anything wrong.”\n“两年多没有工作了，都在玩，”31岁的骆华忠在4月的一篇博客文章中描述了自己的生活方式。“没觉得哪里不对。”\nHe titled his post “Lying Flat Is Justice,” attaching a photo of himself lying on his bed in a dark room with the curtains drawn. Before long, the p…",
+          "link": "https://cn.nytimes.com/china/20210705/china-slackers-tangping/dual",
+          "publishedOn": "2021-07-05T04:06:01.000Z",
+          "wordCount": 1253,
+          "title": "这些中国年轻人选择“躺平”，北京不喜欢这个想法"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20210705/china-missile-silos/dual",
+          "author": null,
+          "description": "STEVEN LEE MYERS2021年7月5日中国西北部戈壁沙漠边缘，一个洲际弹道导弹发射井的建设工地。 Planet Labs Inc./James Martin Center for Nonproliferation Studies\nResearchers in the United States have identified the construction of 119 new intercontinental ballistic missile silos in a desert in northwestern China, indicating that the country is carrying out plans to strengthen its strategic nuclear capability.\n美国研究人员在中国西北部的沙漠中发现了119个新的洲际弹道导弹发射井，表明该国正在实施加强战略核能力的计划。\nThe researchers spotted the construction in commercial satellite images of remote areas west and southwest of the city of Yumen, on the edge of the Gobi Desert in Gansu Province.\n研究人员在商业卫星图像中发现了这些发射井，它们位于甘肃省戈壁沙漠边缘的玉门市西部和西南部的偏远地区。\nThe images show circular excavations, long trenches for communications and surface structures consistent with control centers and silos at othe…",
+          "link": "https://cn.nytimes.com/china/20210705/china-missile-silos/dual",
+          "publishedOn": "2021-07-05T03:06:01.000Z",
+          "wordCount": 803,
+          "title": "中国被指在西北设导弹发射井，加强战略核能力"
+        },
+        {
+          "id": "https://cn.nytimes.com/china/20210705/xi-china-communist-party-school/dual",
+          "author": null,
+          "description": "储百亮, KEITH BRADSHER2021年7月5日今年4月，在黄羊界参加培训的中国井冈山干部学院的干部们。官员的培训课程包括参观革命遗址。 Roman Pilipey/EPA, via Shutterstock\nOn a leafy campus in northwest Beijing, dotted with statues of Marx, Mao and other Communist saints, the Chinese leader Xi Jinping is training his “loyal successors,” the next generation of officials who will drive the resurgence of one-party rule.\n北京西北郊一个绿树成荫的校园里，马克思、毛泽东和其他共产主义圣贤的雕像星罗棋布，这里是中国领导人习近平培养“忠诚接班人”的地方，这些下一代的官员们将推进中共的一党专政。\nThe Communist Party of China just celebrated 100 years since its founding, and for much of that time the Central Party School and similar academies have been “red cradles.” In these schools, cadres are immersed in the party’s beliefs, which trace back to its early decades as a revolutionary movement. Mr. Xi has preached that re-energized party rule is ess…",
+          "link": "https://cn.nytimes.com/china/20210705/xi-china-communist-party-school/dual",
+          "publishedOn": "2021-07-05T02:36:01.000Z",
+          "wordCount": 1479,
+          "title": "“红色摇篮”：中共如何培养“忠诚接班人”"
+        },
+        {
           "id": "https://cn.nytimes.com/usa/20210702/trump-organization-indictment-explained/dual",
           "author": null,
           "description": "BEN PROTESS, KATE CHRISTOBEK, WILLIAM K. RASHBAUM2021年7月2日虽然前总统未被指控，但曼哈顿地区检察官的调查现在似乎完全集中在特朗普和其他公司高管身上。 Erin Schaff/The New York Times\nThe Manhattan district attorney’s office on Thursday announced criminal charges against Donald J. Trump’s family business, the Trump Organization, as well as its chief financial officer, Allen H. Weisselberg.\n周四，曼哈顿地区检察官办公室宣布对唐纳德·J·特朗普(Donald J. Trump)的家族企业特朗普集团及其首席财务官艾伦·H·魏塞尔伯格(Allen H. Weisselberg)提出刑事指控。\nThe indictment, which marked a major turning point in the long-running investigation by the district attorney, Cyrus R. Vance Jr., centered on the failure to pay taxes on a variety of valuable perks that Mr. Weisselberg and other executives received from the Trump Organization.\n这一起诉书标志着地方检察官小赛勒斯·R·万斯(Cyrus R. Vance Jr.)长期调查的一个重大转折点，起诉书的重点是魏塞尔伯格和其他高管没有为他们从…",
@@ -858,6 +912,60 @@
       "feedUrl": "http://feeds.feedburner.com/solidot",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=68198",
+          "author": null,
+          "description": "Alexandra Elbakyan 创办的科学海盗湾 Sci-Hub 为了遵守印度法庭的命令而同意停止接收新的论文。Sci-Hub 多年来一直被期刊出版商起诉，它被勒令赔偿，多个域名被扣押，但身处俄罗斯的 Elbakyan 基本上并不特别在意或遵守法庭判决。印度的诉讼是一个例外，期刊出版商寻求在印度屏蔽 Sci-Hub，诉讼还在进行之中，Elbakyan 之所以决定遵守命令是因为她有可能赢得诉讼，遵守命令或许能增加赢得诉讼的几率，她希望印度法庭能支持对科学的自由访问。如果成真，这将是 Sci-Hub 的一大胜利。Sci-Hub 基本上是 Elbakyan 一个人的项目，资金主要来自捐赠，早期通过 PayPal 接受捐赠，后来 PayPal 账户被封了，她现在依赖于比特币捐赠，每个月花在服务器上的开支大约数千美元。",
+          "link": "https://www.solidot.org/story?sid=68198",
+          "publishedOn": "2021-07-05T06:53:19.000Z",
+          "wordCount": 91,
+          "title": "Alexandra Elbakyan 是否遇到真的麻烦了？"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=68197",
+          "author": null,
+          "description": "快手正式取消了其周末加班政策，而其竞争对手字节跳动也在围绕要不要这么做展开内部辩论。今年 1 月，电商巨头拼多多两名员工死亡的消息，进一步激起了全国对名声不佳的“996”工作制——即从早上9点工作至晚上9点，每周工作6天——的辩论。快手的举动激起了其竞争对手字节跳动的员工的期望，他们希望公司能很快效仿。据媒体报道，字节跳动正在内部讨论在7月结束周末加班。字节跳动表示不对市场传言置评。",
+          "link": "https://www.solidot.org/story?sid=68197",
+          "publishedOn": "2021-07-05T04:20:31.000Z",
+          "wordCount": 71,
+          "title": "快手取消大小周工作制"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=68196",
+          "author": null,
+          "description": "网络安全审查办公室周一公告称：为防范国家数据安全风险，维护国家安全，保障公共利益，依据《中华人民共和国国家安全法》《中华人民共和国网络安全法》，网络安全审查办公室按照《网络安全审查办法》，对“运满满”“货车帮”“BOSS直聘”实施网络安全审查。为配合网络安全审查工作，防范风险扩大，审查期间“运满满”“货车帮”“BOSS直聘”停止新用户注册。“运满满”与“货车帮”隶属于最近在美国上市的满帮集团。",
+          "link": "https://www.solidot.org/story?sid=68196",
+          "publishedOn": "2021-07-05T04:14:56.000Z",
+          "wordCount": 69,
+          "title": "“运满满”“货车帮”“BOSS直聘”面临网络安全审查"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=68195",
+          "author": null,
+          "description": "除了上汽的股东，应该很少有人会关注上汽董事长陈虹在股东大会上讲了什么。除非，他突然提到了华为。\r\n\r\n\r\n陈虹的原话是这样的：“与华为这样的第三方公司合作自动驾驶，上汽是不能接受的。这就好比有一家公司为我们提供整体的解决方案，如此一来，它就成了灵魂，而上汽就成了躯体。对于这样的结果，上汽是不能接受的，要把灵魂掌握在自己手中。”\r\n\r\n\r\n我想陈董事长讲这番话，从内心来说是不突然的，他应该是在回应外界对上汽的灵魂三问。",
+          "link": "https://www.solidot.org/story?sid=68195",
+          "publishedOn": "2021-07-05T03:14:08.000Z",
+          "wordCount": 103,
+          "title": "王者，不要过于纠结过去的荣耀"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=68194",
+          "author": null,
+          "description": "读者  写道 \"非盈利性免费软件推荐网站 Gizmo’s Freeware 暂定于本月15日关闭。声明感谢用户的一路陪伴。多年来，Gizmo 依靠站长自掏腰包，读者捐赠和广告收入艰难维持。网站编辑均为无偿的志愿者。随着世界从台式机转向移动设备，站点流量和广告收入下降，以致无法再支付运营网站的成本。Gizmo’s Freeware 的运行 始于 2008 年 5 月。\"",
+          "link": "https://www.solidot.org/story?sid=68194",
+          "publishedOn": "2021-07-04T14:11:02.000Z",
+          "wordCount": 86,
+          "title": "Gizmo’s Freeware 走向终点"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=68193",
+          "author": null,
+          "description": "网信办发表声明，下令下架滴滴出行APP。声明称，“根据举报，经检测核实，“滴滴出行”App存在严重违法违规收集使用个人信息问题。国家互联网信息办公室依据《中华人民共和国网络安全法》相关规定，通知应用商店下架“滴滴出行”App，要求滴滴出行科技有限公司严格按照法律要求，参照国家有关标准，认真整改存在的问题，切实保障广大用户个人信息安全。”",
+          "link": "https://www.solidot.org/story?sid=68193",
+          "publishedOn": "2021-07-04T13:47:00.000Z",
+          "wordCount": 69,
+          "title": "网信办下架滴滴出行APP"
+        },
         {
           "id": "https://www.solidot.org/story?sid=68192",
           "author": null,
@@ -2828,51 +2936,6 @@
           "publishedOn": "2021-06-06T13:12:40.000Z",
           "wordCount": 79,
           "title": "部分苹果员工希望能更灵活的办公"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=67966",
-          "author": null,
-          "description": "在以违反平台规定删除尼日利亚总统 Muhammadu Buhari 的帖子之后，Twitter 在尼日利亚遭到封杀。不过受影响用户仍然可以通过 VPN 访问 Twitter。78 岁的 Buhari 是一位前将军， 他在其帖子中对最近东南地区暴力冲突的参与者发出警告，提及了 40 年前的内战，表示将用他们理解的语言去对待他们。Twitter 在周三删除了这则帖子。尼日利亚的电信运营商周六遵守信息和文化部的指令无限期的屏蔽了 Twitter。总统周六晚些时候否认对 Twitter 的行动是对删帖的回应。总统发言人表示社交媒体上扩散的假消息诱发了现实世界的暴力。",
-          "link": "https://www.solidot.org/story?sid=67966",
-          "publishedOn": "2021-06-06T07:43:54.000Z",
-          "wordCount": 89,
-          "title": "Twitter 删除尼日利亚总统的帖子之后遭该国屏蔽"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=67965",
-          "author": null,
-          "description": "萨尔瓦多有望成为第一个将比特币视为法币的主权国家。在美国迈阿密举行的 Bitcoin 2021 会议上，萨尔瓦多总统 Nayib Bukele 宣布该国与数字钱包公司 Strike 合作使用比特币技术去构建现代金融基础设施。他说，下周将向议会寄去法案将比特币视为法币。萨尔瓦多主要使用现金，70% 的居民没有银行账号或信用卡，来自国外工作的人的汇款占到了 GDP 的五分之一以上。国际转账收取的手续费可能高达 10% 以上。",
-          "link": "https://www.solidot.org/story?sid=67965",
-          "publishedOn": "2021-06-06T07:32:18.000Z",
-          "wordCount": 83,
-          "title": "萨尔瓦多考虑将比特币视为法币"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=67964",
-          "author": null,
-          "description": "以太坊项目原计划在未来几个月完成从工作量证明（proof-of-work）过渡到权益证明（proof-of-stake）。但根据最新公布的路线图，合并的计划推迟到了 2022 年。以太坊联合创始人 Vitalik Buterin \r\n在最近举行的会议上称，推迟升级的主要原因不是技术问题，而是人的问题。今年早些时候以太坊矿工组建了一个联盟威胁发动 51% 攻击。所谓 51% 攻击是指控制了整个网络 51% 以上算力之后可以对区块链网络进行重组，决定网络拒绝或接受哪个区块链版本。",
-          "link": "https://www.solidot.org/story?sid=67964",
-          "publishedOn": "2021-06-06T06:41:09.000Z",
-          "wordCount": 89,
-          "title": "基于权益证明的以太坊 2.0 升级推迟到 2022 年"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=67963",
-          "author": null,
-          "description": "孟加拉国技术工程大学和 UCLA 的研究人员开发出一种框架，能从文本描述创造 Android 应用。研究报告（PDF）发表在预印本网站 arXiv 上。这项研究在人类语言和编程语言之间架起桥梁，让编程变得更容易。大部分此类的技术是基于端对端的神经网络机器翻译，类似 Google 翻译使用的技术。但绝大部分它们都无法生成包含数百行代码的应用。为了克服这一限制，研究人员创造了一种形式语言，能抓住应用代码中的复杂性。他们开发的框架被称为 Text2App，其演示发布在 GitHub 上。",
-          "link": "https://www.solidot.org/story?sid=67963",
-          "publishedOn": "2021-06-05T15:11:39.000Z",
-          "wordCount": 85,
-          "title": "用文本描述创造 Android 应用"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=67962",
-          "author": null,
-          "description": "当 20 年前人类基因组项目和 Celera Genomics 公司测序人类基因组时，他们没有完整测序。有 15% 的基因组因为技术限制研究人员无法弄明白某些 DNA 片段是如何组合在一起的。科学家之后解决了部分问题，但仍然有 8% 的基因组缺失。现在，Telomere-to-Telomere (T2T) 联盟的研究人员宣布完成了对人类基因组完整测序。研究报告发表在预印本网站 bioRxiv 上。研究人员报告发现了编码蛋白质的 115 个新基因，基因总数达到 19,969 个。来自  Pacific Biosciences 公司的新测序技术帮助研究人员完成了这一成就，新技术使用激光扫描从细胞里隔离的 DNA 长链，一次最高 2 万碱基对。",
-          "link": "https://www.solidot.org/story?sid=67962",
-          "publishedOn": "2021-06-05T13:02:38.000Z",
-          "wordCount": 113,
-          "title": "完整测序人类基因组"
         }
       ]
     }
