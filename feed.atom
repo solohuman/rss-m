@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://solohuman.github.io/rss-m/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T00:43:51.989Z</updated>
+    <updated>2021-07-08T00:40:23.182Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://solohuman.github.io/rss-m/index.html"/>
     <link rel="self" href="https://solohuman.github.io/rss-m/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[当“战狼”主导中国的外交声音（上）：赵立坚“一帖成名”]]></title>
+        <id>https://cn.nytimes.com/china/20210707/china-diplomacy-twitter/dual</id>
+        <link href="https://cn.nytimes.com/china/20210707/china-diplomacy-twitter/dual"/>
+        <updated>2021-07-07T10:06:01.000Z</updated>
+        <summary type="html"><![CDATA[ALEX W. PALMER2021年7月7日
+On the morning of Monday, Nov. 30, 2020, the Australian prime minister Scott Morrison was working from his official residence when an aide alerted him to a tweet by a Chinese foreign-ministry spokesman. Morrison was about to finish a two-week quarantine after returning from a brief diplomatic visit to Japan, and he had spent most of the morning on the phone with Australian wine exporters, discussing Chinese tariffs that had just taken effect — some as high as 212 percent — the latest in an escalating string of punitive economic measures imposed on Australia by Beijing. 
+2020年11月30日，周一上午，澳大利亚总理斯科特·莫里森(Scott Morrison)正在官邸工作，一名助手提醒他注意中国外交部发言人的一条推文。在对日本进行短暂外交访问后，莫里森即将结束为期两周的隔离，他上午的大部分时间都在与澳大利亚葡萄酒出口商通电话，讨论刚刚生效的中国关税，有些高达212%，这是北京对澳大利亚实施的一系列不断升级的惩罚性经济措施中的最新进展。
+But the twee…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五角大楼取消授予微软的云计算合同]]></title>
+        <id>https://www.solidot.org/story?sid=68217</id>
+        <link href="https://www.solidot.org/story?sid=68217"/>
+        <updated>2021-07-07T07:24:33.000Z</updated>
+        <summary type="html"><![CDATA[五角大楼取消了此前授予微软的价值一百亿美元的云计算合同。被称为 Jedi（Joint Enterprise Defense Infrastructure）的云计算合同的招标程序被指受到了对亚马逊创始人 Jeff Bezos 不满的前总统 Donald Trump 的干涉。美国国防部将重启采购程序，寻求由微软和亚马逊来提供新云计算合同的提案。微软表示尊重和接受国防部的决定，亚马逊 AWS 发言人表示理解和同意国防部的决定。在 2019 年授予微软合同之后，亚马逊就提起了上诉。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多达 1500 家企业感染 REvil 勒索软件]]></title>
+        <id>https://www.solidot.org/story?sid=68216</id>
+        <link href="https://www.solidot.org/story?sid=68216"/>
+        <updated>2021-07-07T04:27:53.000Z</updated>
+        <summary type="html"><![CDATA[在上周五发生的供应链攻击中，有多达 1500 家企业感染 REvil 勒索软件。REvil 组织利用了 Kaseya VSA 远程管理服务中的一个 0day 漏洞，而 VSA 服务有多达 3.5 万企业客户。Kaseya 表示有 800 到 1,500 家企业感染了勒索软件。REvil 在其暗网网站中称攻击中有超过一百万个目标感染，它要求 7000 万美元赎金提供通用解密密钥。REvil 此前最为成功的攻击是从肉类供应商  JBS 勒索到了 1100 万美元赎金。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对中国商界精英来说，远离政治不再是可能选项]]></title>
+        <id>https://cn.nytimes.com/technology/20210707/china-business-politics-didi/dual</id>
+        <link href="https://cn.nytimes.com/technology/20210707/china-business-politics-didi/dual"/>
+        <updated>2021-07-07T04:06:01.000Z</updated>
+        <summary type="html"><![CDATA[袁莉2021年7月7日联想创始人、中国民营部门的杰出人物柳传志长期以来一直认为，商人应该远离政治。 You Sixing/Visual China Group, via Getty Images
+Liu Chuanzhi, the founder of the tech company Lenovo and a towering figure in China’s private sector, has long held the view that businesspeople should steer clear of politics. Yet he recently found out firsthand that in President Xi Jinping’s China, which is engaged in a tech cold war with the United States, business cannot just be business.
+科技公司联想的创始人、中国民营部门的杰出人物柳传志长期以来一直认为，商人应该远离政治。然而，他最近亲身体会到，在与美国进行科技冷战的习近平主席领导下的中国，是没法“在商言商”的。
+Over the past week, Mr. Liu became collateral damage when the ride-hailing giant Didi, where his daughter, Jean Liu, is president, came under fire after its blockbuster initial public offering in New York.
+过去一周，网约车巨头滴滴（柳传志的女儿柳青担任总裁）在纽约进行的首次公开募股大获成功后受到攻击，柳传志成为了附带损害的牺牲…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[警察被刺、炸弹疑云：暴力事件频发分裂香港]]></title>
+        <id>https://cn.nytimes.com/china/20210707/hong-kong-bomb-violence/dual</id>
+        <link href="https://cn.nytimes.com/china/20210707/hong-kong-bomb-violence/dual"/>
+        <updated>2021-07-07T02:36:02.000Z</updated>
+        <summary type="html"><![CDATA[王月眉2021年7月7日上周，香港铜锣湾，这里刚发生了一名男子持刀刺警、然后自杀身亡的事情。政府将这次事件定性为恐怖袭击。 Anthony Wallace/Agence France-Presse — Getty Images
+HONG KONG — Last week in Hong Kong, on the politically sensitive anniversary of the city’s return to China, a man stabbed a police officer on a busy commercial street, then killed himself.
+香港——上周，在具有政治敏感性的香港回归中国纪念日，一名男子在一条繁华的商业街上用刀刺伤了一名警察，然后自杀身亡。
+Then, on Tuesday, the police said they had arrested nine people — including six teenagers — and accused them of plotting to make bombs and plant them in courtrooms, railways and other public areas.
+警方后来在周二说已逮捕了九名男女，其中六人是中学生，警方指控他们涉嫌制造炸弹，并打算把炸弹放置在法院、铁路和其他公共场所。
+In a city besieged by political turmoil, the authorities cast the incidents as terrorism and proof of the threat posed by some parts of the opposition. They said the episodes unde…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[报道称新浪微博探讨私有化]]></title>
+        <id>https://www.solidot.org/story?sid=68215</id>
+        <link href="https://www.solidot.org/story?sid=68215"/>
+        <updated>2021-07-07T02:11:03.000Z</updated>
+        <summary type="html"><![CDATA[微博董事长曹国伟和一家国有投资者计划将微博私有化。消息人士说，该交易对公司的估值至少达到 200 亿美元，并为大股东阿里巴巴的退出提供方便，并让微博最终在中国重新上市以达到更高的估值。为了实现私有化，董事长蓸国伟的控股公司New Wave--微博的最大股东，正与一家上海国有企业组成一个财团。该财团希望以每股 90-100 美元的价格将微博私有化，这比该股过去一个月 50 美元的平均价高出 80%-100%。微博发布声明称消息不实。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[冰岛四天工作制试验显示幸福感提高生产力未下降]]></title>
         <id>https://www.solidot.org/story?sid=68214</id>
@@ -3691,180 +3763,6 @@ The World Health Organization has cleared both Sinovac’s vaccine and one ma
         <link href="https://www.solidot.org/story?sid=67987"/>
         <updated>2021-06-08T14:27:12.000Z</updated>
         <summary type="html"><![CDATA[CDN 服务商 Fastly 周二发生了宕机事故，有大量网站受到影响，其中之一是编程问答社区 Stackoverflow。根据事故报告，问题始于 09:58 UTC，持续了约一个多小时，10:36 UTC 打上修复问题的补丁，到 12:41 UTC 基本解决。受到影响的知名网站包括英国政府网站，纽约时报等媒体，Paypal、Github 的 pages 服务，甚至亚马逊的部分服务也出现问题。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PGP 发布三十周年]]></title>
-        <id>https://www.solidot.org/story?sid=67986</id>
-        <link href="https://www.solidot.org/story?sid=67986"/>
-        <updated>2021-06-08T11:26:57.000Z</updated>
-        <summary type="html"><![CDATA[6 月 6 日是 PGP 1.0 发布三十周年。PGP 作者 Philip Zimmermann 回忆说，当年他将 Pretty Good Privacy 上传到了互联网上，开启了结束美国对强加密软件出口管制的十年之路。PGP 1.0 发布之后，很多志愿者帮助改进了软件，1992 年 9 月发布了支持 10 种语言和多个平台的 PGP 2.0。因为允许 PGP 扩散到世界各地违反美国的武器出口管制法他成为了刑事调查的对象。但这反而推动了 PGP 的流行。美国政府在 1996 年初放弃了调查，相关的政策争论仍然在激烈进行，最终在 2000 年结束了美国对强加密软件的出口管制。PGP 点燃了十年的加密战争，最终导致所有西方民主国家放弃了对使用强加密软件的限制。Philip Zimmermann 说他希望 PGP 用于人权应用，传播到世界各地，尤其是那些人民需要保护自己抵御政府的地方。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[警方让有组织犯罪集团使用它设计的加密消息应用]]></title>
-        <id>https://www.solidot.org/story?sid=67985</id>
-        <link href="https://www.solidot.org/story?sid=67985"/>
-        <updated>2021-06-08T11:06:19.000Z</updated>
-        <summary type="html"><![CDATA[澳大利亚、美国和欧洲的执法机构发起了联合行动 Operation Ironside，逮捕了数百名有组织犯罪成员。原因是世界各地的黑帮成员被诱骗使用了警方设计的加密消息应用 AN0M。黑帮利用该应用策划谋杀、贩毒和洗钱，而相关信息被警方实时看在眼里。警方称他们曝光了 21 起谋杀阴谋、扣押了超过 3 吨毒品和 4500 万美元的现金等资产。执法部门的逮捕行动遍及 18 个国家。澳大利亚警方称他们是在 2018 年与 FBI 制定了使用加密消息应用的计划。澳联邦警察开发了后门，能访问定制手机之间的加密消息。卧底特工将手机送给了逃亡的澳毒枭 Hakan Ayik，Ayik 之后向其他犯罪成员推荐购买了预装 AN0M 的手机。全世界有 1.1 万人使用了 AN0M 设备，其中有  1,650 人位于澳大利亚。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[耶鲁“虎妈”蔡美儿身陷“晚宴门”]]></title>
-        <id>https://cn.nytimes.com/usa/20210608/amy-chua-yale-law/dual</id>
-        <link href="https://cn.nytimes.com/usa/20210608/amy-chua-yale-law/dual"/>
-        <updated>2021-06-08T10:36:02.000Z</updated>
-        <summary type="html"><![CDATA[SARAH LYALL, STEPHANIE SAUL2021年6月8日康涅狄格州纽黑文市中心的耶鲁法学院。 Christopher Capozziello for The New York Times
-NEW HAVEN, Conn. — On March 26, a group of students at Yale Law School approached the dean’s office with an unusual accusation: Amy Chua, one of the school’s most popular but polarizing professors, had been hosting drunken dinner parties with students, and possibly federal judges, during the pandemic.
-康涅狄格州纽黑文——3月26日，耶鲁大学法学院(Yale Law School)的一群学生来到院长办公室，提出了一项不同寻常的指控：该校最受欢迎但也最有争议的教授之一蔡美儿(Amy Chua)疫情期间一直在举行有学生——可能还有联邦法官——参加的纵酒晚宴。
-Ms. Chua, who rose to fame when she wrote “Battle Hymn of the Tiger Mother,” is known for mentoring students from marginalized communities and helping would-be lawyers get coveted judicial clerkships. But she also has a reputation for unfiltered, boundary-pushing be…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[习近平的舆论斗争“药方”能塑造“可爱”中国吗？]]></title>
-        <id>https://cn.nytimes.com/china/20210608/china-diplomacy/dual</id>
-        <link href="https://cn.nytimes.com/china/20210608/china-diplomacy/dual"/>
-        <updated>2021-06-08T09:36:01.000Z</updated>
-        <summary type="html"><![CDATA[STEVEN LEE MYERS, KEITH BRADSHER2021年6月8日中国领导人习近平在3月的全国人民代表大会上。他上周表示，中国需要一个更加“可爱、可敬”的形象。 Kevin Frayer/Getty Images
-China’s top diplomats have castigated their American counterparts for hypocrisy and condescension. They icily reminded Europeans of the continent’s experience with genocide. They just accused New Zealand, a country that had been careful not to cause offense, of “gross interference” in China’s affairs.
-中国的高级外交官斥责美国同行的虚伪和傲慢。他们冷冷地提醒欧洲人注意该大陆的种族灭绝经历。他们指责一直小心翼翼，不愿冒犯中国的新西兰“粗暴干涉”中国事务。
-So when China’s top leader, Xi Jinping, told senior Communist Party officials early last week that they should improve their communications with the rest of the world, some analysts and news reports suggested he was acknowledging that China’s increasingly pugnacious approach to diplomacy in recent months…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FDA 批准了治疗痴呆症的新药物]]></title>
-        <id>https://www.solidot.org/story?sid=67984</id>
-        <link href="https://www.solidot.org/story?sid=67984"/>
-        <updated>2021-06-08T08:20:35.000Z</updated>
-        <summary type="html"><![CDATA[FDA 批准阿尔茨海默症新药阿杜卡奴单抗（aducanumab）投入使用，是自 2003 年以来首次。由 Biogen 研发的阿杜卡奴单抗声称能直接对付阿尔茨海默症的根源，做到“治本”。FDA 批出许可将为其他国家采用此药提供条件。按照联合国世界卫生组织（WHO）定义，阿尔茨海默症是最常见的一种痴呆症。目前全球有 5000 万名痴呆症患者，其中阿尔茨海默症患者超过 3000 万，大多数年龄在 65 岁以上。医学界与科研界对阿杜卡奴单抗的看法仍然南辕北辙，一些研究人员对这款药物的临床研究数据有所怀疑。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数百艘远洋渔船在阿根廷沿海水域关闭自动识别系统]]></title>
-        <id>https://www.solidot.org/story?sid=67983</id>
-        <link href="https://www.solidot.org/story?sid=67983"/>
-        <updated>2021-06-08T07:51:59.000Z</updated>
-        <summary type="html"><![CDATA[海洋环保组织 Oceana 的分析发现，数百艘远洋渔船过去几年曾在阿根廷沿海水域关闭自动识别系统。Oceana 使用了来自 Global Fishing Watch (GFW)在 2018 年 1 月 1 日到 2021 年 4 月 25 日之间的自动识别系统(AIS) 数据。AIS 会自动传输船舶名字、船旗国和位置等数据。GFW 记录到了 800 多艘外国渔船超过 90 万小时的捕鱼活动，而阿根廷本国的渔船在此期间只有 145 艘，捕鱼时间 9,269 小时，不到总捕鱼时间的 1%。分析还显示，外国渔船一度禁用了自动识别系统，因此没有 AIS 数据传出。这些渔船的隐身时间超过 60 万小时。大部分外国渔船来自中国。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FaceTime 将通过 Web 支持  Android 和 Windows]]></title>
-        <id>https://www.solidot.org/story?sid=67982</id>
-        <link href="https://www.solidot.org/story?sid=67982"/>
-        <updated>2021-06-08T06:22:01.000Z</updated>
-        <summary type="html"><![CDATA[在 WWDC 大会上，苹果宣布它的视频通话服务 FaceTime 将通过 Web 支持 Android 设备和 Windows PC。苹果将 FaceTime 变成某种类似 Zoom 的视频呼叫服务，用户可以分享预定日期的视频通话的链接，然后到时间加入。苹果没有宣布这一功能的上线日期，该功能可能将随 iOS 15 一同提供给用户。苹果还宣布了 SharePlay、安全共享和健康分析、 watchOS 8、iOS 15、iPadOS 15、以及新的隐私保护功能，等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeff Bezos 计划搭乘 Blue Origin 火箭飞往太空]]></title>
-        <id>https://www.solidot.org/story?sid=67981</id>
-        <link href="https://www.solidot.org/story?sid=67981"/>
-        <updated>2021-06-08T05:37:47.000Z</updated>
-        <summary type="html"><![CDATA[亚马逊创始人贝佐斯（Jeff Bezos）表示将和他的兄弟 Mark 下个月搭乘他创办的 Blue Origin 公司制造的火箭飞往太空，这将是 Blue Origin 的首次载人飞行。“从五岁开始，我就梦想着去太空旅行。7月20日，我将和我的兄弟一起踏上这段旅程，”贝佐斯在 Instagram 的一个帖子中说。将于 7 月 5 日卸任亚马逊执行长职位的贝佐斯将与 Blue Origin 首次太空飞行一个座位拍卖的赢家一起飞往太空。贝佐斯以及另外两名亿万富翁马斯克和 Richard Branson 向各自的火箭初创公司投资了数以十亿美元计的资金，但贝佐斯将是三人中第一个真正乘坐自己公司研发的火箭进入太空的人。Blue Origin 已经进行了 15 次试飞，但没有一次是载人的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[复旦大学发生遭解聘教师杀死书记案件]]></title>
-        <id>https://www.solidot.org/story?sid=67980</id>
-        <link href="https://www.solidot.org/story?sid=67980"/>
-        <updated>2021-06-08T04:57:53.000Z</updated>
-        <summary type="html"><![CDATA[复旦大学 6 月 7 日下午发生了一起遭解聘数学教师杀死数学学院党委书记的案件。行凶者罕见的得到了人们的同情，认为部分原因与目前中国高校推行的 tenure-track（非升即走）制度有关。tenure-track 来自美国，但美国的制度远没有中国竞争激烈。美国的 tenure-track 候选人通常就 1 到 2 人，而中国的 tenure-track 却常常有双数位的候选人，评判标准还经常有变动，导致青年教师在耗费许多年的时间后却一无所获。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国查获 Colonial Pipeline 支付给黑客的价值230万美元比特币]]></title>
-        <id>https://www.solidot.org/story?sid=67979</id>
-        <link href="https://www.solidot.org/story?sid=67979"/>
-        <updated>2021-06-08T04:31:46.000Z</updated>
-        <summary type="html"><![CDATA[美国司法部周一追回了 Colonial Pipeline 支付的约 230 万美元加密货币赎金，打击发起此次史上最具破坏性的美国网络攻击的黑客。美国司法部副部长 Lisa Monaco 表示，调查人员查获了63.7个比特币，现在价值约为230万美元。Monaco 说，司法部已经“找到并夺回了”Colonial 支付的大部分赎金。周一提交的一份宣誓书说，联邦调查局(FBI)掌握了一把私人密钥，可以解锁一个收到了大部分赎金的比特币钱包。目前还不清楚 FBI 是如何获得该密钥的。旧金山的一名法官批准扣押这个“加密货币地址”中的资金，文件中说该地址位于加州北区。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国实施“三孩”政策的真正原因]]></title>
-        <id>https://cn.nytimes.com/opinion/20210608/china-three-child-policy/dual</id>
-        <link href="https://cn.nytimes.com/opinion/20210608/china-three-child-policy/dual"/>
-        <updated>2021-06-08T03:06:01.000Z</updated>
-        <summary type="html"><![CDATA[WANG FENG, YONG CAI2021年6月8日 Noel Celis/Agence France-Presse — Getty Images
-More than five years after the Chinese government abandoned its one-child policy, allowing married couples to have two children, it has now announced that they could have up to three.
-五年多前，中国政府放弃了独生子女政策，允许已婚夫妇生育两个孩子，现在又宣布他们最多可以生育三个。
-The move came suddenly after results last month of a once-in-a-decade census. China reported only 12 million births in 2020, the fourth consecutive annual decline. The fertility rate for the year, 1.3 children per woman, was far below the level needed to just maintain the population, 2.1.
-此举是在上个月十年一次的人口普查结果公布后突然出现的。中国在2020年报告的出生人口仅为1200万，连续第四年下降。当年的生育率——每名女性生育1.3个孩子——远低于维持人口增长所需的2.1个。
-However swiftly the new three-child policy followed those results, it is timid and unimaginative, and i…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美参院将通过史上最全面产业政策法案，与中国竞争]]></title>
-        <id>https://cn.nytimes.com/usa/20210608/senate-china-semiconductors/dual</id>
-        <link href="https://cn.nytimes.com/usa/20210608/senate-china-semiconductors/dual"/>
-        <updated>2021-06-08T02:36:01.000Z</updated>
-        <summary type="html"><![CDATA[DAVID E. SANGER, CATIE EDMONDSON, DAVID McCABE, THOMAS KAPLAN2021年6月8日北京的一家半导体工厂。美国国会准备为半导体制造业投资提供资金，担心如果不采取行动，将让美国依赖自己最大的地缘政治对手。 Nicolas Asfouri/Agence France-Presse — Getty Images
-WASHINGTON — Faced with an urgent competitive threat from China, the Senate is poised to pass the most expansive industrial policy legislation in U.S. history, blowing past partisan divisions over government support for private industry to embrace a nearly quarter-trillion-dollar investment in building up America’s manufacturing and technological edge.
-华盛顿——在来自中国的紧迫竞争威胁面前，参议院正准备通过美国历史上最全面的产业政策法案，打破了在政府支持私营企业问题上的党派分歧，为增强美国的制造业和技术优势，欣然接受近2500亿美元的财政开支。
-The legislation, which could be voted on as early as Tuesday, is expected to pass by a large margin. That alone is a testament to how commercial and military compet…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无人机首次给战斗机空中加油]]></title>
-        <id>https://www.solidot.org/story?sid=67978</id>
-        <link href="https://www.solidot.org/story?sid=67978"/>
-        <updated>2021-06-07T15:24:04.000Z</updated>
-        <summary type="html"><![CDATA[美国海军完成了无人机首次给战斗机空中加油的测试。波音公司的 MQ-25 Stingray 无人机是专门设计为海军提供加油能力，扩大 F/A-18 超级大黄蜂战斗机、EA-18G 以及 F-35C 的飞行半径，其外形具有隐形能力，具体规格没有公开披露，首次试飞是在 2019 年 9 月 19 日。在 6 月 4 日进行的测试中，MQ-25 T1 成功的为 F/A-18 对接输油。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notepad++ v8 发布]]></title>
-        <id>https://www.solidot.org/story?sid=67977</id>
-        <link href="https://www.solidot.org/story?sid=67977"/>
-        <updated>2021-06-07T14:55:06.000Z</updated>
-        <summary type="html"><![CDATA[文本编辑器 Notepad++ 释出了 v8。主要新特性包括：深色模式（Dark Mode）、ARM64 构建版本，工具栏 Fluent UI 图标，免干扰模式，深色模式 API NPPM_ADDTOOLBARICON_FORDARKMODE，一次点击操作关闭所有标签，移除 Microsoft Bing 搜索，多个 bug 修正等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[素食有利于儿童心脏健康但不利于生长发育]]></title>
-        <id>https://www.solidot.org/story?sid=67976</id>
-        <link href="https://www.solidot.org/story?sid=67976"/>
-        <updated>2021-06-07T13:46:16.000Z</updated>
-        <summary type="html"><![CDATA[对波兰儿童的研究发现，严格素食的儿童相比杂食的儿童，心血管更健康，体脂更少。但只吃素食可能会影响到生长、骨矿物质含量和微量营养状况。研究人员在 2014-2016 年之间招募了 187 名年龄在 5 到 10 岁身体健康的儿童，其中 63 人是素食者，52 人是严格素食者，72 人是杂食者，收集了他们生长、身体构成、心血管风险和微量营养状况的数据。严格素食者接触无肉饮食的平均时间为 5.3 年，素食者为 5.9 年。研究发现，相比杂食儿童，纯素食儿童的平均身高低 3 厘米，骨矿物质含量低 4-6%，维生素 B-12 缺乏的可能性高 3 倍。但他们低密度脂蛋白 (LDL)——一种不健康的胆固醇——也低 25%，体脂更少。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法国监管机构罚款 Google 2.2 亿欧元]]></title>
-        <id>https://www.solidot.org/story?sid=67975</id>
-        <link href="https://www.solidot.org/story?sid=67975"/>
-        <updated>2021-06-07T13:43:11.000Z</updated>
-        <summary type="html"><![CDATA[Google 因在线广告偏向自家服务而被法国竞争监管机构罚款 2.2 亿欧元。Google 没有争论这一结论，作为和解的一部分它同意支付罚款，并将采取一系列方案改进它的在线广告市场。Google 称这些变动将在未来几个月内完成，将推广到全球。在线广告市场 Google 占据主导地位，它在多个国家面临反垄断诉讼。法国的诉讼是由三家媒体机构提起的，它们是：新闻集团、费加罗报集团和 Rossel La Voix 集团。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
