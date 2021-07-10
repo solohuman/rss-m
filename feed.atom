@@ -2,10 +2,225 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://solohuman.github.io/rss-m/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T00:43:33.179Z</updated>
+    <updated>2021-07-10T00:41:20.992Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://solohuman.github.io/rss-m/index.html"/>
     <link rel="self" href="https://solohuman.github.io/rss-m/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[如果你的梦想与父母的期望背道而驰]]></title>
+        <id>https://cn.nytimes.com/opinion/20210709/parents-expectations-writing-art/dual</id>
+        <link href="https://cn.nytimes.com/opinion/20210709/parents-expectations-writing-art/dual"/>
+        <updated>2021-07-09T10:36:04.000Z</updated>
+        <summary type="html"><![CDATA[VIET THANH NGUYEN2021年7月9日 María Medem
+When I give lectures on college campuses, the most difficult question I am asked is this: “I want to pursue my dream, but my parents want me to do something different. What should I do?”
+在大学里讲课时，我被问到的最难回答的问题就是：“我想追逐我的梦想，但我的父母想要我做别的。我该怎么办？”
+I can relate. What would have made me happy as a young person was to be a writer and study literature. What would have made my parents happy was for me to become a doctor like my brother, who went to Harvard and Stanford. How could I come home to my refugee parents, who worked seven days a week in their grocery store, and tell them that I wanted to read Jane Austen and the Romantic poets, and major in English, a language they didn’t speak in their own home?
+我感同身受。我年轻的时候，成为一名作家并学习文学会让我感到快乐。而能让我父母开心的是我要像哥哥一样成为一名医生，他去了…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据是魔戒，我们或许需要一个WDTO]]></title>
+        <id>https://www.solidot.org/story?sid=68241</id>
+        <link href="https://www.solidot.org/story?sid=68241"/>
+        <updated>2021-07-09T08:27:44.000Z</updated>
+        <summary type="html"><![CDATA[因为滴滴的IPO，运行了20年的VIE架构大概要走到尽头了。原因在坊间已经有诸多猜测，但是无论如何都绕不过一个词，那就是「数据」。
+
+
+我们没有必要为滴滴IPO事件的背后原因再增加一个猜测，不过对于数据问题的重要性，怎么分析都不为过。
+
+
+过去的20年，是互联网产业繁荣的20年。消费者数据的井喷，也直接推动了人工智能革命的诞生，我们对数据的崇拜也达到了顶峰。最具代表性的一句话就是——“数据是石油”。
+
+
+然而，认为数据等同于新时代的石油，却是一个相当残缺的认知。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[清洁耳朵最好的办法：用耳勺]]></title>
+        <id>https://cn.nytimes.com/style/20210709/ear-wax-removal-ear-pick/dual</id>
+        <link href="https://cn.nytimes.com/style/20210709/ear-wax-removal-ear-pick/dual"/>
+        <updated>2021-07-09T08:06:01.000Z</updated>
+        <summary type="html"><![CDATA[VANESSA HUA2021年7月9日 Kyoko Hamada for The New York Times
+When I was growing up in the suburbs east of San Francisco, our teachers used to say, “Don’t put anything in your ear except for your elbow.” No matter how much our ears itched, we were told, we shouldn’t poke in a pen cap, the pink eraser on a No. 2 pencil or a cotton swab; doing so risked puncturing our eardrums.
+小时候在旧金山东郊，老师们常说：“不要往你的耳朵里放任何东西（除非是你的手肘）。”不管耳朵有多痒，我们都被告知不可以用钢笔帽、2号铅笔上的粉色橡皮擦或是棉签去捅；这样做可能会刺破我们的耳膜。
+True enough — and yet what our teachers said didn’t reflect the practices of my Chinese grandmother, who had immigrated to the United States and moved into our house to help care for me and my siblings while my parents worked. Waipo, as we called her, would cozily tuck our heads into her capacious lap to clean our ears. Her groo…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新冠疫苗的真实世界研究]]></title>
+        <id>https://www.solidot.org/story?sid=68240</id>
+        <link href="https://www.solidot.org/story?sid=68240"/>
+        <updated>2021-07-09T07:55:42.000Z</updated>
+        <summary type="html"><![CDATA[匿名读者 写道 "2020 年 12 月 14 日至 2021 年 4 月 10 日 3975 名一线人员每周提供中鼻甲拭子样本用于 RT-PCR 分析 ，两种 mRNA 疫苗 BNT162b2 (Pfizer–BioNTech) 和 mRNA-1273 (Moderna)的完全接种有效率为 91% ，部分接种的有效率为 81% 。 
+
+智利则报告科兴疫苗的真实世界预防有症状感染的有效率为 65.9% 和预防收入 ICU（重症监护病房）的有效率为 90.3% ，研究于 2021 年 2 月 2 日至 5 月 1 日进行，研究群体为 1020 万人。智利是接种率最高的国家之一。"]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI 出售给犯罪分子的 Anom 手机]]></title>
+        <id>https://www.solidot.org/story?sid=68239</id>
+        <link href="https://www.solidot.org/story?sid=68239"/>
+        <updated>2021-07-09T07:14:27.000Z</updated>
+        <summary type="html"><![CDATA[Motherboard 获得了一部 FBI 出售给犯罪分子的手机，对它进行了一番分析。FBI 和其它国家的执法人员秘密监视了使用这款手机进行加密通信的犯罪分子。手机看起来是一部 Google Pixel 4a，用 PIN 码解锁之后可以看到上面有很多流行应用，如 Tinder、Instagram、Facebook、Netflix，甚至 Candy Crush，但这些应用都是无效的，只是摆设。重置手机用另一个 PIN 码解锁则会展示完全不同的部分，有新的背景和新的应用，其中包括时钟、计算器和设置，点击计算器并不会打开计算器，而是显示一个登陆页面，要求输入 Anom ID 和密码。它是一个隐藏的聊天应用 Anom，看起来真的很机密，让人能误以为很安全，以至于全世界有上万犯罪分子利用它进行通信，但它实际上是一个 FBI 设立的蜜罐。它运行的系统叫 ArcaneOS，Android 手机通常有设置可以关闭位置跟踪，但这款手机没有这个设置。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“萌”化人心：巨型3D猫咪亮相日本街头]]></title>
+        <id>https://cn.nytimes.com/asia-pacific/20210709/japan-cat-billboard/dual</id>
+        <link href="https://cn.nytimes.com/asia-pacific/20210709/japan-cat-billboard/dual"/>
+        <updated>2021-07-09T06:06:02.000Z</updated>
+        <summary type="html"><![CDATA[HIKARI HIDA, MIKE IVES2021年7月9日
+
+
+Ryoko Kikuchi was strolling home from a Tokyo movie theater when she saw a cat the size of a yacht strutting high above the sidewalk, coyly licking its paws.
+菊地凉子（Ryoko Kikuchi，音）从东京一家电影院散步回家时，发现一只游艇大小的猫在人行道上方昂首阔步，羞怯地舔着自己的爪子。
+“The way it was meowing was too cute to bear,” she said.
+“它喵喵叫的样子实在是可爱到不行，”她说。
+A lot of people in Tokyo feel the same way, no matter that the cat is just a bunch of pixels on a billboard. The 4K display does not officially “open” until Monday, but it has already drawn socially distanced crowds — and inspired many social media posts — since its installation last month.
+很多东京人都有同样的感觉，尽管这只猫不过是广告牌上的一堆像素。4K展示要到周一才正式“开放”，但自上个月开始播放以来，它已经吸引了大批保持着社交距离的人们——并引发了社交媒体的热议。
+The digital calico behaves a bit like an actual cat, in the sense that it doe…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯启用人脸识别限制未成年玩家，引发隐私争议]]></title>
+        <id>https://cn.nytimes.com/business/20210709/video-game-facial-recognition-tencent/dual</id>
+        <link href="https://cn.nytimes.com/business/20210709/video-game-facial-recognition-tencent/dual"/>
+        <updated>2021-07-09T05:36:01.000Z</updated>
+        <summary type="html"><![CDATA[TIFFANY MAY, AMY CHANG CHIEN2021年7月9日在中国邯郸的一个商场举办的活动上，孩子们在玩腾讯制作的一个游戏。 China Stringer Network/Reuters
+For almost every video game restriction, children and teenagers will find a way around it.
+对于几乎所有的电子游戏限制，儿童和青少年都会找到解决方法。
+But the room to maneuver is shrinking in China, where underage players are required to log on using their real names and identification numbers as part of countrywide regulations aimed at limiting screen time and keeping internet addiction in check. In 2019, the country imposed a cybercurfew banning those under 18 from playing games between 10 p.m. and 8 a.m.
+但在中国，可操作的空间越来越小，未成年玩家必须使用身份证号码实名登录，这是全国性法规的一部分，旨在限制屏幕时间和控制网络成瘾。2019年，该国实施了网络禁玩时段，禁止未成年人在晚上10点和早上8点之间玩游戏。
+Recognizing that wily teenagers might try to use their parents’ devices or identities to circumvent the restric…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[东京奥运会八成场馆将无观众空场]]></title>
+        <id>https://www.solidot.org/story?sid=68238</id>
+        <link href="https://www.solidot.org/story?sid=68238"/>
+        <updated>2021-07-09T03:46:44.000Z</updated>
+        <summary type="html"><![CDATA[由于东京第四次发布紧急事态宣言，东京奥组委、东京都、日本政府、国际奥委会（IOC）和国际残奥委会（IPC）决定东京、神奈川、千叶和埼玉 1 都 3 县首都圈的比赛场馆均采用无观众的“空场”方式。宫城、福岛、静冈3县的场馆则维持“场馆容纳人数 50% 以内且最多 1 万人”的观众上限。判断残奥会观众应对措施的日期从原计划的 16 日延后至 8 月 8 日奥运会闭幕后。空场意味着门票收入将减少，奥组委计划收缩志愿者和医疗态势的规模。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 将开始对加拿大用户默认启用 DoH]]></title>
+        <id>https://www.solidot.org/story?sid=68237</id>
+        <link href="https://www.solidot.org/story?sid=68237"/>
+        <updated>2021-07-09T03:44:25.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla 与加拿大 DoH 提供商 CIRA（Canadian Internet Registration Authority）合作，将开始对部分加拿大用户默认启用 DoH。DoH 代表 DNS-over-HTTPS，将加密用户的 DNS 请求，保护用户隐私和网络安全。Mozilla 将从 7 月 20 日开始对 1% 的 Firefox 加拿大用户默认启用 DoH，到 9 月下月覆盖到 100% 的用户。此前 Mozilla 在 2020 年 2 月对美国的 Firefox 用户启用了 DoH。CIRA 加入了 Mozilla 的 Trusted Recursive Resolver (TRR)项目，成为加拿大第一家全球第四家提供加密 DNS 服务的提供商，其它三家是 Cloudflare、Comcast 和 NextDNS。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下药、刀砍、肢解：伊朗年迈夫妇接连杀害子女震惊全国]]></title>
+        <id>https://cn.nytimes.com/world/20210709/iran-parents-murders/dual</id>
+        <link href="https://cn.nytimes.com/world/20210709/iran-parents-murders/dual"/>
+        <updated>2021-07-09T03:06:02.000Z</updated>
+        <summary type="html"><![CDATA[FARNAZ FASSIHI2021年7月9日巴巴克·霍拉姆丁之墓，他死时47岁，他的父母承认在德黑兰将他杀死。 The New York Times
+The older couple first came to the public eye on a winter night in Tehran, when their film director son invited them to the stage after a screening. They were frail, and seemingly shy, and the younger man helped his mother up the stairs, then draped his arm around his father’s shoulder.
+这对老夫妇第一次进入公众视野是在德黑兰一个冬天的晚上，他们当电影导演的儿子在一次放映结束后邀请他们上台来。他们步履蹒跚，看上去有些腼腆，儿子在母亲上台阶时帮了她一下，然后把胳膊搭在了父亲肩上。
+That was five years ago.
+那是五年前的事了。
+Now their son is dead, and Akbar Khorramdin, 81, and his wife, Iran Mousavi, 74, are back on the public stage, accused of his murder and, in a twist that has shocked and riveted Iranians, the killings of a daughter and a son-in-law over the course of a decade. The victims were drugged, suffocated, stabb…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当“战狼”主导中国的外交声音（下）：赵立坚代表了怎样的中国愿景]]></title>
+        <id>https://cn.nytimes.com/china/20210709/china-diplomacy-twitter/dual</id>
+        <link href="https://cn.nytimes.com/china/20210709/china-diplomacy-twitter/dual"/>
+        <updated>2021-07-09T03:06:02.000Z</updated>
+        <summary type="html"><![CDATA[ALEX W. PALMER2021年7月9日 Illustration by Olivier Bonhomme
+Read: 
+点击阅读：
+Part 1.
+
+当“战狼”主导中国的外交声音（上）：赵立坚“一帖成名”
+Part 2.
+当“战狼”主导中国的外交声音（中）：赵立坚如何在巴基斯坦成为Twitter“网红”
+The goal of “national rejuvenation” has been a mainstay in modern Chinese history, dating back at least to the early years of the 20th century. Under Xi, however, it has become the defining narrative of Chinese politics, the summation of all the country’s — and the party’s — efforts to return China to its past greatness. In Xi’s telling, the so-called “century of national humiliation,” from the First Opium War in 1839 until the victory of the Communist Party and the proclamation of the People’s Republic in 1949, was a shameful aberration caused by malicious foreigners and unforgivable Chinese weakness. The goal of national rejuvenation…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新冠死亡人数超过 400 万]]></title>
+        <id>https://www.solidot.org/story?sid=68236</id>
+        <link href="https://www.solidot.org/story?sid=68236"/>
+        <updated>2021-07-09T02:14:44.000Z</updated>
+        <summary type="html"><![CDATA[根据约翰霍普金斯大学的数据，全球新冠死亡人数超过了 400 万。第一个 100 万花了九个月时间，第二个 100 万仅用了三个半月，第三个 100 万用了三个月，第四个 100 万人只用了两个半月。而这些仅是来自官方的数据。随着疫苗的出现，一些国家的疫情出现好转，但由于病毒变异和疫苗分发的不平等，死亡人数仍在继续上升。数据显示，全球的确诊病例超过 1.85 亿，疫苗接种人数超过了 33 亿。印度目前的疫情最严重，超过 40 万人死亡，但实际数据可能更高。美国的死亡人数突破了 60 万。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REvil 勒索软件黑帮的幕后]]></title>
+        <id>https://www.solidot.org/story?sid=68235</id>
+        <link href="https://www.solidot.org/story?sid=68235"/>
+        <updated>2021-07-09T00:48:16.000Z</updated>
+        <summary type="html"><![CDATA[在对  Kaseya VSA 的客户发动规模惊人的供应链攻击之后，REvil 成为最为人瞩目的勒索软件犯罪团伙。安全公司 Palo Alto Networks 分析了 REvil 发动攻击所采用的策略。REvil 通常采用的策略包括利用钓鱼攻击在受害者网络建立立足之地，当受害者打开恶意邮件附件之后它会安装 QakBot；或者利用嵌入宏的 Excel 文件安装银行木马 Ursnif；利用漏洞通过远程桌面协议访问联网的系统。一旦进入内部网络之后它会利用 Cobalt Strike BEACON，创建本地和域账号将账号添加到远程桌面用户组。在攻击的侦察阶段，它会使用开源工具收集情报，包括 Advanced Port Scanner、TCP View 和 KPort Scanner 等网络侦察工具，用 Bloodhound 和 AdFind 测绘网络，收集活动目录信息，甚至使用 ProcessHacker 和 PCHunter 收集主机进程和服务的情报。最后开始部署勒索软件加密文件和窃取数据。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[牛津大学测试 HIV 疫苗]]></title>
+        <id>https://www.solidot.org/story?sid=68234</id>
+        <link href="https://www.solidot.org/story?sid=68234"/>
+        <updated>2021-07-08T15:11:40.000Z</updated>
+        <summary type="html"><![CDATA[牛津大学本周开始了一种 HIV 候选疫苗的 I 期临床试验。试验旨在评估疫苗 HIVconsvX 的安全性、耐受性和免疫原性。13 名健康、HIV 阴性、年龄在 18-65 岁之间、无高感染风险的成年人将首先注射一剂疫苗，然后四周之后注射一剂加强针。HIVconsvX 针对的是广泛流行的变种 HIV-1，能诱导免疫系统的 T 细胞攻击 HIV 一个高度保守易受攻击的区域。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工信部整治APP开屏弹窗]]></title>
+        <id>https://www.solidot.org/story?sid=68233</id>
+        <link href="https://www.solidot.org/story?sid=68233"/>
+        <updated>2021-07-08T15:09:19.000Z</updated>
+        <summary type="html"><![CDATA[工信部发表声明，称近期对用户反映强烈投诉较多的“弹窗信息标识近于无形、关闭按钮小如蝼蚁、页面伪装瞒天过海、诱导点击暗度陈仓”等违规行为进行了集中整治，督促企业重视用户诉求，解决好在开屏信息页面中存在利用文字、图片、视屏等方式欺骗误导用户跳转等问题。截至目前，百度、阿里、腾讯、字节跳动、新浪微博、爱奇艺等 68 家头部互联网企业已按要求完成整改。2021年第二季度，开屏弹窗信息用户投诉举报数量环比下降 50%，误导用户点击跳转第三方页面问题同比下降 80%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok 测试视频简历]]></title>
+        <id>https://www.solidot.org/story?sid=68232</id>
+        <link href="https://www.solidot.org/story?sid=68232"/>
+        <updated>2021-07-08T14:34:39.000Z</updated>
+        <summary type="html"><![CDATA[短视频应用 TikTok 在美国测试视频简历功能，允许美国用户通过 #TikTokResumes 标签上传视频申请入门级、助理级和高级职位。TikTok 还设立了一个专门的网站 tiktokresumes.com，展示参与测试的企业名单以及招聘的工作岗位。参与的知名企业包括了 Shopify、Target 和底特律活塞队，活塞队主要招实习生、业务经理之类的入门级和中级职位。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国多州起诉 Google 涉嫌垄断]]></title>
+        <id>https://www.solidot.org/story?sid=68231</id>
+        <link href="https://www.solidot.org/story?sid=68231"/>
+        <updated>2021-07-08T13:53:42.000Z</updated>
+        <summary type="html"><![CDATA[美国 36 个州和哥伦比亚特区的总检察长周三在旧金山联邦法院对 Google 提起了反垄断诉讼，指控与 Google 的应用商店 Play Store 有光。相比苹果的 iOS 系统，Google 的 Android 生态系统存在大量的第三方应用商店，但这并不意味着 Google 没有反竞争行为。Google 被控向最大的 Android 手机制造商三星公司支付费用确保它不开发自己的应用商店；在 Epic Games 在 Play Store 之外发行其热门游戏《堡垒之夜》后，Google 收买开发商确保他们不采取类似的行动。诉讼还涉及到了 Play Store 的三成提成比例。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[滴滴出行可能面临集体诉讼]]></title>
         <id>https://www.solidot.org/story?sid=68230</id>
@@ -3585,194 +3800,6 @@ In the immediate aftermath of the deadly shootings in the Atlanta area, the face
         <link href="https://www.solidot.org/story?sid=68007"/>
         <updated>2021-06-10T12:51:26.000Z</updated>
         <summary type="html"><![CDATA[中国、加拿大和英国的研究人员在《Scientific Reports》期刊上发表论文，报告武汉生鲜市场在疫情爆发前贩卖过大量野生动物。新冠被认为来自蝙蝠，经过中间宿主传播给人类，但目前中间宿主还无法确认，其中穿山甲被认为是最可能的中间宿主。研究人员总共记录了 2017 年 5 月至 2019 年 11 月期间武汉市场上 38 种动物超 4.7 万只的销售情况。其中 33 种动物之前曾感染过可影响人类的疾病或致病寄生虫。中国因疫情已经暂停了野生动物的售卖和食用。在武汉出售的野生动物包括貂、果子狸、貉、獾、刺猬、黄鼠狼、豪猪、土拨鼠、赤狐、鼯鼠、八哥、蛇、毒蛇、眼镜蛇和暹罗鳄鱼。几乎所有的动物都是“活体出售、关在堆叠的笼子里、状况不佳”，并且经常是现场宰杀。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国家地理学会承认南大洋为世界第五大洋]]></title>
-        <id>https://www.solidot.org/story?sid=68006</id>
-        <link href="https://www.solidot.org/story?sid=68006"/>
-        <updated>2021-06-10T10:58:21.000Z</updated>
-        <summary type="html"><![CDATA[美国国家地理学会宣布，南极洲周围海域将被称为南大洋，并正式承认南大洋为地球第五大洋。美国国家地理学会表示，自从 1915 年美国国家地理学会开始绘制地图以来，已经确认了世界上有四大洋——大西洋、太平洋、印度洋和北冰洋。从6月8日世界海洋日开始，南大洋将被认定为世界第五大洋。南大洋是海洋生态系统的重要家园，也是南半球的焦点。它直接包围着南极洲，从大陆的海岸线一直延伸到南纬 60 度。海洋的边界与其他四个大洋中的三个相连——大西洋、印度洋和太平洋。但南大洋与其它大洋的不同之处在于，它在很大程度上不是由周围的陆地决定的，而是由于内部有一股洋流，这片水域很独特。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[恶意程序窃取了 2600 万密码]]></title>
-        <id>https://www.solidot.org/story?sid=68005</id>
-        <link href="https://www.solidot.org/story?sid=68005"/>
-        <updated>2021-06-10T09:19:04.000Z</updated>
-        <summary type="html"><![CDATA[NordLocker 公司的安全研究人员发现了一个包含敏感数据容量高达 1.2TB 的数据库，这些数据被认为是未知恶意程序从被感染的设备上窃取的。数据库包含了 2600 万登陆凭证，超过 20 亿浏览器 cookies，660 万文件，部分文本文件储存了密码。此外还有 100 多万图像，65 万 Word 和 PDF 文件，以及屏幕截图和设备摄像头拍摄的图像。恶意程序还收集了消息、邮件、游戏和文件共享应用相关的数据。这些数据来自了 300 万台被感染的 PC，时间是从 2018 年到 2020 年。安全分析师认为恶意程序的目的很可能是为了窃取加密货币。窃取的密码已经上传到了 Have I Been Pwned。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登任内首访欧洲，能否重振美欧联盟？]]></title>
-        <id>https://cn.nytimes.com/usa/20210610/biden-europe-g7/dual</id>
-        <link href="https://cn.nytimes.com/usa/20210610/biden-europe-g7/dual"/>
-        <updated>2021-06-10T09:06:02.000Z</updated>
-        <summary type="html"><![CDATA[MICHAEL D. SHEAR, DAVID E. SANGER2021年6月10日拜登总统在周三飞往欧洲与北约、欧盟和七国集团领导人进行一系列会晤之前对记者讲话。 Doug Mills/The New York Times
-WASHINGTON — It should not be that hard to be an American leader visiting Europe for the first time after President Donald J. Trump.
-华盛顿——作为唐纳德·J·特朗普(Donald J. Trump)总统之后访问欧洲的第一位美国领导人，应该不算什么难事。
-But President Biden will face his own challenges when he departs on Wednesday, especially as the United States confronts a disruptive Russia and a rising China while trying to reassemble and rally the shaken Western alliance as it emerges from the coronavirus pandemic.
-但是拜登总统在周三启程时也将面临他自己的挑战，尤其考虑到美国需要面对一个破坏性的俄罗斯和崛起的中国，同时要在西方联盟刚刚走出冠状病毒大流行之际试图重新召集和团结这个动摇的联盟。
-Mr. Biden, who will arrive for a series of summit meetings buoyed by a successful vaccination program and a rebounding economy, will …]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蒙古新冠病例激增，国药疫苗有效性再受质疑]]></title>
-        <id>https://cn.nytimes.com/asia-pacific/20210610/mongolia-covid-sinopharm-vaccine/dual</id>
-        <link href="https://cn.nytimes.com/asia-pacific/20210610/mongolia-covid-sinopharm-vaccine/dual"/>
-        <updated>2021-06-10T08:06:02.000Z</updated>
-        <summary type="html"><![CDATA[艾莎2021年6月10日5月，蒙古乌兰巴托，一名护士正在查看刚刚接种疫苗的人。 Khasar Sandag for The New York Times
-Coronavirus cases are surging in Mongolia, where more than half the population is fully vaccinated, prompting a new focus on the effectiveness of its main vaccine, developed by China’s Sinopharm.
-在已经有半数以上人口完全接种疫苗的情况下，蒙古的新冠病例正在剧增。这令人们再一次关注该国主要使用的中国国药疫苗的有效性。
-Mongolia reported 1,312 new cases of the coronavirus on Wednesday as the country’s total infections neared 70,000, almost all recorded since January. New daily infections have risen more than 70 percent in the past two weeks, according to a New York Times database.
-蒙古周三报告了1312例新冠新增病例，而该国总感染人数已接近7万，几乎都是1月以后记录的。根据《纽约时报》的数据，在过去的两周内，蒙古每日新增感染人数已经上升了超过70%。
-The landlocked nation has emerged as an outlier in the global scramble for vaccines among developing nations, sec…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook 延长在家远程办公政策]]></title>
-        <id>https://www.solidot.org/story?sid=68004</id>
-        <link href="https://www.solidot.org/story?sid=68004"/>
-        <updated>2021-06-10T07:49:38.000Z</updated>
-        <summary type="html"><![CDATA[Facebook CEO Mark Zuckerberg 宣布将允许所有全职员工在家远程办公，如果他们的工作能远程完成的话。Zuckerberg 在给员工的备忘录中表示，过去一年我们了解到好的工作可以在任何地方完成，他对大规模远程工作的可能性非常乐观，尤其是远程视频系统和虚拟现实在持续的改进。不能远程工作的主要是硬件部门和数据中心部门。Facebook 将允许员工跨国境远程工作，如美国的员工可以请求在加拿大远程工作，而欧洲的员工可以请求在英国远程工作。从 2022 年 1 月开始，Facebook 将允许员工在欧洲七国之间永久流动。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国将捐赠五亿剂辉瑞疫苗]]></title>
-        <id>https://www.solidot.org/story?sid=68003</id>
-        <link href="https://www.solidot.org/story?sid=68003"/>
-        <updated>2021-06-10T07:45:15.000Z</updated>
-        <summary type="html"><![CDATA[白宫表示，美国总统拜登周四将宣布，计划采购 5 亿剂辉瑞新冠疫苗并捐赠给 92 个中低收入国家和非洲联盟，同时呼吁世界各国尽自己努力帮助结束疫情。拜登将在英国康沃尔召开的七国集团(G7)会议前宣布疫苗捐赠计划，这将是单个国家的最大捐赠规模。白宫称，该计划意在“支持全球抗击新冠的行动”。华盛顿还将采取行动支持其他国家当地的新冠疫苗生产，包括通过与日本、印度和澳洲的“四国机制”来实现。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“三孩”政策来了，中国女性的身体仍然不属于自己]]></title>
-        <id>https://cn.nytimes.com/opinion/20210610/china-children-policy/dual</id>
-        <link href="https://cn.nytimes.com/opinion/20210610/china-children-policy/dual"/>
-        <updated>2021-06-10T07:06:01.000Z</updated>
-        <summary type="html"><![CDATA[YASHU ZHANG2021年6月10日 Kevin Frayer/Getty Images
-SHANGHAI — I’m 28, I have no children and I want to have more than one. I say this as a single child myself.
-上海——我今年28岁，还没有孩子，我想要一个以上的孩子。我是以一个独生子女的身份这么说的。
-I lament the absence of the younger sibling I could have had if my parents had not aborted it. But there was no way they wouldn’t have. “Having a second child was like running the red light.” my mother has said. “It was against the law.”
-我感叹，如果父母没有堕胎，我本可以有个弟弟或者妹妹。但他们别无选择。“生二胎就像闯红灯。”我母亲说。“是犯法的。”
-I felt lonely growing up. After the Chinese government announced last week that married couples could now have up to three children, I asked my parents, both born well before the one-child policy and with siblings themselves, if they had wanted more children. My mother said: “Yes. In case we die — no…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登撤销特朗普TikTok、微信行政令，签署新审查令]]></title>
-        <id>https://cn.nytimes.com/usa/20210610/biden-tiktok-ban-trump/dual</id>
-        <link href="https://cn.nytimes.com/usa/20210610/biden-tiktok-ban-trump/dual"/>
-        <updated>2021-06-10T05:36:01.000Z</updated>
-        <summary type="html"><![CDATA[KATIE ROGERS, CECILIA KANG2021年6月10日TikTok在加州卡尔弗城的办公室。新的行政命令制定了更为精确的标准，权衡TikTok和中国等外国对手拥有的公司所带来的风险。 Mike Blake/Reuters
-WASHINGTON — President Biden on Wednesday revoked a Trump-era executive order that sought to ban the popular apps TikTok and WeChat and replaced it with one that calls for a broader review of a number of foreign-controlled applications that could pose a security risk to Americans and their data.
-华盛顿——拜登总统周三撤销了特朗普时期试图禁止流行应用程序TikTok和微信的行政命令，取而代之的是要求对一些可能对美国人及其数据构成安全风险、由外国控制的应用程序进行更广泛的审查。
-The Trump order had not been carried out “in the soundest fashion,” Biden administration officials said in a call with reporters, adding that the new directive would establish “clear intelligible criteria” to evaluate national security risks posed by software applications connected to foreig…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国逮捕 1100 名涉嫌利用加密货币洗钱的嫌疑人]]></title>
-        <id>https://www.solidot.org/story?sid=68002</id>
-        <link href="https://www.solidot.org/story?sid=68002"/>
-        <updated>2021-06-10T05:24:33.000Z</updated>
-        <summary type="html"><![CDATA[中国警方逮捕了 1100 多名涉嫌利用加密货币洗钱的嫌疑人，公安部称这一行动为“断卡行动”，破获了 170 多个涉嫌利用加密货币洗钱的犯罪团伙。洗钱者收取 1.5% 到 5% 的手续费，将非法所得转换成加密货币。因为加密货币具有匿名、便利和全球化的属性，日益成为跨境洗钱的重要渠道。中国上个月宣布打击比特币挖矿和交易行为。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[青海要求全面关停加密货币挖矿项目]]></title>
-        <id>https://www.solidot.org/story?sid=68001</id>
-        <link href="https://www.solidot.org/story?sid=68001"/>
-        <updated>2021-06-10T05:07:29.000Z</updated>
-        <summary type="html"><![CDATA[在内蒙古之后，青海省工业和信息化厅下发通知，严禁各地区立项批复各类虚拟货币“挖矿”项目，对现有的各类虚拟货币“挖矿”项目全面关停；并要求坚决查处纠正以大数据、超算中心等名义立项但从事虚拟货币“挖矿”的项目主体。中国是在 5 月底宣布将打击比特币挖矿和交易行为。比特币挖矿需要消耗大量电力，因此专门的矿场主要建在电力非常便宜的地方，如四川、内蒙古和青海等地。中国对加密货币挖矿的打击预计将会推动矿工们迁往蒙古、哈萨克斯坦和阿富汗等地。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新研究：武汉市场贩售动物可能携带传染人类病原体]]></title>
-        <id>https://cn.nytimes.com/china/20210610/wuhan-animal-markets-covid/dual</id>
-        <link href="https://cn.nytimes.com/china/20210610/wuhan-animal-markets-covid/dual"/>
-        <updated>2021-06-10T03:36:01.000Z</updated>
-        <summary type="html"><![CDATA[RAYMOND ZHONG2021年6月10日2020年3月，武汉一家批发市场附近的工作人员。 Hector Retamal/Agence France-Presse — Getty Images
-In the two years before the pandemic began, markets in the Chinese city of Wuhan were selling nearly three dozen animal species that can harbor pathogens that jump to humans, researchers have found, shedding new light on the possible role of the wildlife trade in the coronavirus’s origins.
-研究人员发现，在疫情开始前的两年里，中国城市武汉的市场上出售的三十多种动物可能携带着传染给人类的病原体。这为野生动物贸易在新冠病毒起源可能起到的作用提供了新的线索。
-The researchers found sales in Wuhan of mink, palm civets and raccoon dogs, but they did not find sales of pangolins or bats, which have been suspected as possible sources of the coronavirus.
-研究人员在武汉发现貂、果子狸和貉的销售，但没有发现穿山甲或蝙蝠——它们被怀疑是新冠病毒的可能来源。
-In all, the researchers documented sales of more than 47,000 animals across 38 specie…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国准备发射神舟十二号]]></title>
-        <id>https://www.solidot.org/story?sid=68000</id>
-        <link href="https://www.solidot.org/story?sid=68000"/>
-        <updated>2021-06-10T03:27:23.000Z</updated>
-        <summary type="html"><![CDATA[据中国载人航天工程办公室消息，6 月 9 日，神舟十二号载人飞船与长征二号F遥十二运载火箭组合体已转运至发射区。目前，发射场设施设备状态良好，后续将按计划开展发射前的各项功能检查、联合测试等工作。神舟十二号载人飞船计划送 3 名航天员上太空，这 3 名航天员将成为空间站天和核心舱的首批“入住人员”。3 名航天员将在轨驻留 3 个月，开展舱外维修维护、设备更换、科学应用载荷等一系列操作。按照空间站建造任务规划，今明两年中国将接续实施 11 次飞行任务，包括 3 次空间站舱段发射、4 次货运飞船以及 4 次载人飞船发射，于 2022 年前后完成空间站在轨建造。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国重新收紧限制措施应对新一轮疫情]]></title>
-        <id>https://cn.nytimes.com/china/20210610/china-covid-lockdown/dual</id>
-        <link href="https://cn.nytimes.com/china/20210610/china-covid-lockdown/dual"/>
-        <updated>2021-06-10T02:36:02.000Z</updated>
-        <summary type="html"><![CDATA[KEITH BRADSHER2021年6月10日本周四，中国广州新建的核酸检测实验室。该市在从周日到周二的时间里，给全市几乎所有1870万人口做了病毒检测。 cnsphoto, via Reuters
-BEIJING — Neighborhoods under strict lockdown. Thousands quarantined. Millions tested in mere days. Overseas arrivals locked up for weeks and sometimes months.
-北京——严格封锁社区。对成千上万的人进行隔离。在短短几天内给数百万人做病毒检测。对从海外入境者进行几周、有时是几个月的隔离检疫。
-China has followed variations of that formula for dealing with the coronavirus for more than a year — and a new outbreak suggests that they could be part of Chinese life for some time to come.
-一年多来，中国一直在使用这些措施的不同版本来应对新冠病毒。新一轮疫情暗示，这些措施可能会在未来一段时间里继续是中国生活的一部分。
-China appeared to get the coronavirus under control nearly a year ago. But hundreds of millions of Chinese people remain unvaccinated. New variants of the coronavirus have appeared, and questions remain about whether…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登撤销对微信、TikTok 和支付宝等的禁令]]></title>
-        <id>https://www.solidot.org/story?sid=67999</id>
-        <link href="https://www.solidot.org/story?sid=67999"/>
-        <updated>2021-06-10T02:28:43.000Z</updated>
-        <summary type="html"><![CDATA[美国总统拜登周三撤销了特朗普时代试图禁止新用户下载微信（WeChat）和 TikTok 的一系列行政令，并下令商务部审查这些应用和其他应用带来的安全担忧。拜登的新行政令撤销了特朗普去年 8 月发布的针对 WeChat 和 TikTok 的行政令，以及今年 1 月针对其他八款通信和金融技术软件应用的禁令。今年 1 月特朗普的行政令要求官员禁止美国公民与八款中国应用的交易，包括蚂蚁集团的支付宝和腾讯控股的 QQ 钱包和微信支付。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[萨尔瓦多批准比特币为法币]]></title>
-        <id>https://www.solidot.org/story?sid=67998</id>
-        <link href="https://www.solidot.org/story?sid=67998"/>
-        <updated>2021-06-09T14:08:47.000Z</updated>
-        <summary type="html"><![CDATA[萨尔瓦多成为第一个将比特币归类为法币的国家。国会以 62/84 票批准了总统 Nayib Bukele 的提议。总统称政府创造了历史，此举将让该国的海外侨民更容易向国内寄钱。比特币将在 90 天内正式成为法币。新的法律意味着每一家企业都必须将比特币接受为购买商品或服务的法币，除非它无法提供用于完成交易所需的技术。萨尔瓦多严重依赖于海外侨民的汇款，这些汇款占到了 GDP 的20%。比特币的币值在 3.5 万美元左右，出于数个月来的低点。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vivaldi 4.0 发布]]></title>
-        <id>https://www.solidot.org/story?sid=67997</id>
-        <link href="https://www.solidot.org/story?sid=67997"/>
-        <updated>2021-06-09T13:29:18.000Z</updated>
-        <summary type="html"><![CDATA[基于 Chromium 的浏览器 Vivaldi 释出了 4.0 版本。Vivaldi 由 Opera 联合创始人谭咏文（Jon von Tetzchner）创办。Vivaldi 4.0 的特性包括：桌面和 Android 版本内置翻译功能 Vivaldi Translate，该功能由 Lingvanex 提供，但翻译引擎托管在 Vivaldi 的服务器上，因此不涉及到第三方服务器，不会分享数据；邮件 Vivaldi Mail、阅读器 Vivaldi Feed Reader 以及日历  Vivaldi Calendar 发布了 beta 版本，邮件支持多个账号，支持 IMAP 和 POP3；等等。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
