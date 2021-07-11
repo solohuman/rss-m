@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://solohuman.github.io/rss-m/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-10T00:41:20.992Z</updated>
+    <updated>2021-07-11T00:46:57.909Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://solohuman.github.io/rss-m/index.html"/>
     <link rel="self" href="https://solohuman.github.io/rss-m/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[市场监管总局禁止虎牙与斗鱼合并]]></title>
+        <id>https://www.solidot.org/story?sid=68251</id>
+        <link href="https://www.solidot.org/story?sid=68251"/>
+        <updated>2021-07-10T13:36:40.000Z</updated>
+        <summary type="html"><![CDATA[市场监管总局发表声明，以垄断为由禁止腾讯控股的游戏直播服务虎牙与竞争对手斗鱼合并。声明称：“审查表明，本案相关市场为中国境内网络游戏运营服务市场和游戏直播市场。腾讯在上游网络游戏运营服务市场份额超过 40%，排名第一；虎牙和斗鱼在下游游戏直播市场份额分别超过 40% 和 30%，排名第一、第二，合计超过 70%。目前，腾讯已具有对虎牙的单独控制权和对斗鱼的共同控制权。如虎牙与斗鱼合并，将使腾讯单独控制合并后实体，进一步强化腾讯在游戏直播市场的支配地位，同时使腾讯有能力和动机在上下游市场实施闭环管理和双向纵向封锁，具有或者可能具有排除、限制竞争效果，不利于市场公平竞争、可能减损消费者利益，也不利于网络游戏和游戏直播市场规范健康持续发展。经评估，腾讯提出的附加限制性条件承诺方案不能有效解决前述竞争关注。根据《反垄断法》第二十八条和《经营者集中审查暂行规定》第三十五条规定，市场监管总局决定依法禁止此项经营者集中。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[居民称比特币矿场排放的热水把冰湖变成热浴池]]></title>
+        <id>https://www.solidot.org/story?sid=68250</id>
+        <link href="https://www.solidot.org/story?sid=68250"/>
+        <updated>2021-07-10T13:03:00.000Z</updated>
+        <summary type="html"><![CDATA[一家私募公司前不久收购了闲置的纽约火电站 Greenidge，恢复运营，为比特币矿场提供电力。当地居民称比特币矿场排放的热水把附近的冰湖 Seneca 变成热浴池了。Greenidge 否认了这一说法，并提供了温度数据，证明它排放出的水的温度实际上低于平均水温。购买  Greenidge 的公司 Atlas 安装了数千台矿机，截至 2021 年 2 月生产了 1100 多个比特币，该公司计划再安装数千台矿机，最终能利用火电站 108 MW 装机容量的 85 MW。在 2020 年 12 月  Atlas 的矿场释放出了 243,103 吨二氧化碳，是 2020 年 1 月的 10 倍。氮氧化物的排放量也增加了 10 倍。火电站目前允许的年排放量为 641,000 吨二氧化碳，如果它能利用全部的装机容量，那么年度排放量将达到 106 万吨。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网信办要求平台运营商海外上市前必须申报网络安全审查]]></title>
+        <id>https://www.solidot.org/story?sid=68249</id>
+        <link href="https://www.solidot.org/story?sid=68249"/>
+        <updated>2021-07-10T09:26:50.000Z</updated>
+        <summary type="html"><![CDATA[网信办发布了《网络安全审查办法（修订草案征求意见稿）》，意见反馈截止日期为 2021 年 7 月 25 日。《草案》要求平台运营商海外上市前必须接受网络安全审查：第六条，掌握超过100万用户个人信息的运营者赴国外上市，必须向网络安全审查办公室申报网络安全审查。第二十一条，本办法中关键信息基础设施运营者是指经关键信息基础设施保护工作部门认定的运营者。本办法所称网络产品和服务主要指核心网络设备、重要通信产品、高性能计算机和服务器、大容量存储设备、大型数据库和应用软件、网络安全设备、云计算服务，以及其他对关键信息基础设施安全有重要影响的网络产品和服务。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 被发现会预连接 Google 搜索]]></title>
+        <id>https://www.solidot.org/story?sid=68248</id>
+        <link href="https://www.solidot.org/story?sid=68248"/>
+        <updated>2021-07-10T05:54:25.000Z</updated>
+        <summary type="html"><![CDATA[Chrome 是基于开源的 Chromium 项目，该项目由 Google 等公司合作开发，但主要由 Google 控制和管理。对 Chromium 源代码的分析发现了 PreconnectToSearch 功能，当该功能启用之后浏览器会预先打开和维护一个默认搜索引擎的连接。预连接会预先解析域名、与服务器协商和建立安全连接。所有这些都需要时间，预连接意味着可以节省时间更快的返回用户的查询结果。在比较慢的网络中，预连接能节省十几秒；在比较快的网络中能节省半秒。如果用户不执行搜索，预连接也可能会略微影响页面加载速度。但有一个问题是，Chromium 会检查默认搜索引擎设置，只在默认设置为 Google 时启用该功能。这使得其它搜索引擎在 Chrome 浏览器的搜索速度上相比 Google 处于竞争劣势。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[紫光集团被债权人申请破产重整]]></title>
+        <id>https://www.solidot.org/story?sid=68247</id>
+        <link href="https://www.solidot.org/story?sid=68247"/>
+        <updated>2021-07-10T00:25:08.000Z</updated>
+        <summary type="html"><![CDATA[紫光集团周五发布消息称，于当日收到北京市第一中级人民法院送达的《通知书》，相关债权人以该集团不能清偿到期债务，资产不足以清偿全部债务且明显缺乏清偿能力，具备重整价值和重整可行性为由，向法院申请对紫光集团进行破产重整。向法院申请紫光集团破产重整的是徽商银行。紫光集团旗下拥有多家上市公司，主要涉及芯片、云计算等领域。芯片业务方面，旗下紫光展锐、紫光国微、长江存储、立联信等均为芯片细分领域领跑者。它的债券过去一年已经多次发生违约。分析认为它的债务问题不太会直接影响旗下公司的运营。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网信办下架 25 款滴滴旗下应用]]></title>
+        <id>https://www.solidot.org/story?sid=68246</id>
+        <link href="https://www.solidot.org/story?sid=68246"/>
+        <updated>2021-07-09T15:44:35.000Z</updated>
+        <summary type="html"><![CDATA[网信办发表声明，下令下架 25 款滴滴出行（北京小桔科技有限公司）旗下应用。声明称：根据举报，经检测核实，“滴滴企业版”等25款App存在严重违法违规收集使用个人信息问题。国家互联网信息办公室依据《中华人民共和国网络安全法》相关规定，通知应用商店下架上述25款App，要求相关运营者严格按照法律要求，参照国家有关标准，认真整改存在的问题，切实保障广大用户个人信息安全。各网站、平台不得为“滴滴出行”和“滴滴企业版”等上述25款已在应用商店下架的App提供访问和下载服务。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联合发射联盟与 Blue Origin 关系可能恶化]]></title>
+        <id>https://www.solidot.org/story?sid=68245</id>
+        <link href="https://www.solidot.org/story?sid=68245"/>
+        <updated>2021-07-09T15:06:19.000Z</updated>
+        <summary type="html"><![CDATA[联合发射联盟（ULA）与 Jeff Bezos 的 Blue Origin 公司在 2014 年宣布建立合作关系，ULA 的新火箭 Vulcan 将使用 Blue Origin 的 BE-4 引擎，BE-4 使用甲烷和液氧燃料，能产生 55 万磅的推力。但 7 年以来，引擎的交付不断延期，而 BE-4 的开发也出现了很多问题，主管人员不断变动。ULA 原计划今年首次试射 Vulcan 火箭，但因为交付等方面的问题火箭首次发射推迟到了 2022 年。ULA 没有在公开场合批评 Blue Origin，但消息人士称双方的关系出现了问题。除此之外，Blue Origin 的 New Glenn 火箭还将与 Vulcan 火箭竞争军方的合同，对 ULA 高管和工程师来说这是一种背叛。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[挪威电信公司 Telenor 退出缅甸]]></title>
+        <id>https://www.solidot.org/story?sid=68244</id>
+        <link href="https://www.solidot.org/story?sid=68244"/>
+        <updated>2021-07-09T14:27:51.000Z</updated>
+        <summary type="html"><![CDATA[因为军事政变带来的影响挪威电信公司 Telenor 退出了缅甸市场。Telenor 已经将缅甸的资产减记为零，而在这之前它将缅甸资产的估值为 7.8 亿美元，曾表示要为缅甸人民提供负担得起的移动服务。公司总裁兼 CEO Sigve Brekke 称因为人员安全、监管和合规方面的原因，Telenor 在缅甸面临的挑战性日益增加。该公司以 1.05 亿美元将缅甸业务出售给 M1 Group。M1 Group 总部位于黎巴嫩贝鲁特，是一家控股集团，持有移动运营商 MTN 的股份。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[share微博客户端宣布关停下架]]></title>
+        <id>https://www.solidot.org/story?sid=68243</id>
+        <link href="https://www.solidot.org/story?sid=68243"/>
+        <updated>2021-07-09T13:53:15.000Z</updated>
+        <summary type="html"><![CDATA[匿名读者 写道 "7 月 9 日下午，Share 微博客户端开发者发表微博宣布，将关停并下架 Share 微博客户端：「因为一些不可抗拒因素，Share 从今天开始将不再维护和支持使用，应用市场也做了下线处理。」。"]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沃兹支持维修权运动]]></title>
+        <id>https://www.solidot.org/story?sid=68242</id>
+        <link href="https://www.solidot.org/story?sid=68242"/>
+        <updated>2021-07-09T12:10:52.000Z</updated>
+        <summary type="html"><![CDATA[苹果联合创始人沃兹（Steve Wozniak）支持维修权运动，苹果的产品以用户难以自己维修著称，它也是维修权利的最激烈反对者之一，要求消费者必须将产品交给它的授权维修人员去维修，很少提供零部件或维修信息。沃兹与乔布斯在 1970 年代创办了苹果公司，他说如果不是生长在一个非常开放的科技世界中，苹果是不会诞生的。目前美国和欧洲的维修权仅限于维修家用电器和汽车。沃兹表示现在是开始做正确的事情的时候了。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果你的梦想与父母的期望背道而驰]]></title>
         <id>https://cn.nytimes.com/opinion/20210709/parents-expectations-writing-art/dual</id>
@@ -3604,202 +3704,6 @@ It was the first time the world’s richest nations had discussed organizing a d
         <link href="https://www.solidot.org/story?sid=68020"/>
         <updated>2021-06-11T15:53:04.000Z</updated>
         <summary type="html"><![CDATA[剑桥大学的研究人员创造出一种一次性塑料的植物替代。它是一种聚合物膜，模仿了蜘丝的特性。蜘丝是自然界最牢固的材料之一。新材料的强度与今天使用的许多一次性塑料类似，它能够工业化制造，可以添加颜色，也能用于制造防水涂料。该材料在家中就能降解，而其它生物塑料需要工业设施才能降解。新材料将由 Xampla 公司商业化，用于替代一次性塑料和微塑料。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日头条等应用被指过度收集使用用户个人信息]]></title>
-        <id>https://www.solidot.org/story?sid=68019</id>
-        <link href="https://www.solidot.org/story?sid=68019"/>
-        <updated>2021-06-11T11:02:57.000Z</updated>
-        <summary type="html"><![CDATA[网信办公布了最新一批“违法违规收集使用个人信息情况”的应用名单，其中包括非常受欢迎的应用今日头条。被列入最新名单的新闻类应用包括：今日头条，腾讯新闻，一点资讯，新浪新闻，搜狐新闻，中关村在线，华尔街见闻，财联社；直播类应用包括：虎牙直播，腾讯 Now 直播，购物类应用耐克，等等。这些应用的问题基本都是违反必要原则，收集与其提供的服务无关的个人信息。网信办要求在 15 个工作日内完成整改，逾期未完成整改的将依法予以处置。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 将建造连接拉美的海底光缆]]></title>
-        <id>https://www.solidot.org/story?sid=68018</id>
-        <link href="https://www.solidot.org/story?sid=68018"/>
-        <updated>2021-06-11T10:25:18.000Z</updated>
-        <summary type="html"><![CDATA[Google 宣布它正在建造一条连接美国、巴西、阿根廷和乌拉圭的海底光缆。这条光缆被称为  Firmina，将是世界上最长的海底光缆，连接美国东海岸和阿根廷的 Las Toninas，以及巴西的 Praia Grande 和乌拉圭的 Punta del Este。Google 表示这条光缆将改善南美用户对其服务的访问质量，南美用户将能更快、延迟更低的访问 搜索、Gmail、YouTube 以及 Google 云服务。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普政府曾强迫苹果交出至少两名民主党议员的数据]]></title>
-        <id>https://www.solidot.org/story?sid=68017</id>
-        <link href="https://www.solidot.org/story?sid=68017"/>
-        <updated>2021-06-11T09:39:13.000Z</updated>
-        <summary type="html"><![CDATA[纽约时报报道，特朗普的司法部在 2017 年和 2018 年曾强迫苹果交出至少两名众议院情报委员会至少两名民主党议员的元数据。其中一位是现任主席 Adam Schiff，以及十几名与委员会相关的人，包括家庭成员和至少一名儿童。苹果受制于封口令，直到封口令在今年过期它才能披露相关信息。现在是民主党执政，新政府的司法部决定向媒体披露传票和封口令。消息来源坚称苹果只提供了元数据，没有提供照片或邮件内容。但元数据也能暴露一个人的很多信息。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[男性主导的世界中，那些“不健康的女人”]]></title>
-        <id>https://cn.nytimes.com/culture/20210611/unwell-women-elinor-cleghorn/dual</id>
-        <link href="https://cn.nytimes.com/culture/20210611/unwell-women-elinor-cleghorn/dual"/>
-        <updated>2021-06-11T09:36:02.000Z</updated>
-        <summary type="html"><![CDATA[JANICE P. NIMURA2021年6月11日描绘歇斯底里的女人的素描，出自法国医生保罗·雷格纳1884年的一本书。几个世纪以来，正如埃莉诺·克莱格霍恩在《不健康的女人》中所写的那样，许多女性的痛苦都被简化为“歇斯底里症”，该词源自希腊语中的子宫。 .
-UNWELL WOMEN
-《不健康的女人》(Unwell Women)
-Misdiagnosis and Myth in a Man-Made World
-男性主导的世界中的误诊和谬论
-By Elinor Cleghorn
-作者：埃莉诺·克莱格霍恩(Elinor Cleghorn)
-In order to recognize illness, you have to know what health looks like — what’s normal, and what’s not. Until recently, medical research generally calibrated “normal” on a trim white male. Such a patient, arriving in an emergency room clutching his chest as they do in the movies — and in the textbooks — would be immediately evaluated for a heart attack. But heart disease in women, inconveniently, doesn’t always come with chest pain. A woman reporting dizziness, nausea and heart-pounding breathlessness in that same E.R. mig…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多个中文输入法从中国应用商店下架]]></title>
-        <id>https://www.solidot.org/story?sid=68016</id>
-        <link href="https://www.solidot.org/story?sid=68016"/>
-        <updated>2021-06-11T09:12:32.000Z</updated>
-        <summary type="html"><![CDATA[讯飞输入法、QQ输入法和搜狗输入法等多个流行的输入法从中国主要应用商店下架。4 月 30 日，搜狗、讯飞、百度、QQ 等输入法被网信办通报违法违规收集使用个人信息，网信办要求在 10 个工作日内完成整改，逾期未完成整改的将依法予以处置。科大讯飞回复称，公司各项经营正常，截至 6 月 11 日，讯飞输入法App已完成整改，正在配合相关部门检测，确保合规后重新上架。在后续工作中，讯飞输入法App将从管理机制、技术手段、自纠自查等多个方面竭力保障用户个人信息安全。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TED演讲治不好你的抑郁症]]></title>
-        <id>https://cn.nytimes.com/opinion/20210611/psychology-ted-talk/dual</id>
-        <link href="https://cn.nytimes.com/opinion/20210611/psychology-ted-talk/dual"/>
-        <updated>2021-06-11T09:06:01.000Z</updated>
-        <summary type="html"><![CDATA[JESSE SINGAL2021年6月11日 Sam Island
-Maybe chicken soup can treat depression.
-也许鸡汤可以治疗抑郁症。
-That provocative claim was made not by a quack in a late-night infomercial but by John Bargh, a Yale social psychologist. He is an expert on “social primes,” the subtle cues that supposedly exert a major unconscious influence on our behavior. He has published research suggesting that, for example, exposure to words with geriatric associations like “wrinkles” primes people to walk slower.
-这个争议性的说法，不只是来自深夜电视导购节目里的江湖郎中，耶鲁大学社会心理学家约翰·巴什(John Bargh)也是这么说的。他是研究“社会启动”的专家，也就是被认为对我们的行为构成巨大的无意识影响的微妙提示。例如，他发表的论文曾提出，接触到一些与年老相关的词语，比如“皱纹”，会启发人们放慢行走的速度。
-In his 2017 book, “Before You Know It: The Unconscious Reasons We Do What We Do,” Dr. Bargh mentions a clinical trial in which severely depressed patients in a mental h…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 用 AI 帮助加速芯片设计]]></title>
-        <id>https://www.solidot.org/story?sid=68015</id>
-        <link href="https://www.solidot.org/story?sid=68015"/>
-        <updated>2021-06-11T08:33:33.000Z</updated>
-        <summary type="html"><![CDATA[Google 研究人员在《自然》期刊上报告利用 AI 减少设计芯片所需的时间。这一成就被认为有助于加速芯片供应链。芯片的制造已经基本上自动化，但设计仍然依赖于人工过程。工程师和设计师使用计算机辅助设计软件，但这仍然需要几周甚至几个月的时间在可用空间内填满所有的元件。Google 研究人员展示了一个可能性：这个设计过程在 AI 的帮助下可以在不到一天时间内完成。研究人员使用了 1 万张芯片设计图去训练他们的软件，AI 随后学习如何在有限空间、布线和功耗下完成设计图。它完成设计不到 6 个小时，Google 已经将这一方法应用于自己的芯片 TPU（tensor processing uni）。这一方法还需要更多团队的测试，如果有更多的团队能复现成功，那么 AI 设计将成为芯片设计工具箱的重要组成部分。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解决「高考焦虑」不能靠「中考焦虑」]]></title>
-        <id>https://www.solidot.org/story?sid=68014</id>
-        <link href="https://www.solidot.org/story?sid=68014"/>
-        <updated>2021-06-11T07:53:29.000Z</updated>
-        <summary type="html"><![CDATA[教育焦虑已经成了全民话题。去年以来，从舆论导向到配套政策，似乎也在回应这个问题。其中一个手段是「分流」，也就是在社会关注度最高的高考之前，把学生分流到不同的教育层次。
-
-
-这种措施已经实打实地在进行了，比如高考虽然关注度高，但它不是难度最大的考试，因为它的录取率有75%，而高中的录取率在未来会保持或迈向50%。
-
-
-这种「分流」能解决教育焦虑吗？]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国通过《反外国制裁法》]]></title>
-        <id>https://cn.nytimes.com/business/20210611/china-sanction/dual</id>
-        <link href="https://cn.nytimes.com/business/20210611/china-sanction/dual"/>
-        <updated>2021-06-11T06:36:02.000Z</updated>
-        <summary type="html"><![CDATA[KEITH BRADSHER2021年6月11日中国最高领导人习近平呼吁为中国建立“可爱”的形象，但周四的立法再次说明外交政策层面并没有出现根本性的转变。 Kevin Yao/Reuters
-Lawmakers in Beijing approved legislation on Thursday strengthening the authority of ministries to bar companies and individuals from obeying foreign sanctions against China. The new law was the latest in a series of moves by the Chinese government to push back against international pressure on its conduct in Hong Kong and in its far western Xinjiang region.
-北京的立法者周四通过了一项法律，加强了国家部委禁止公司和个人遵守外国对中国制裁的权力。为反击国际社会对其在香港和新疆地区的行为所施加的压力，中国政府采取了一系列行动，此次立法就是其中的最新举措。
-Passage of the new law means that multinational corporations and their employees could increasingly find themselves in a bind. The United States and the European Union have prohibited any dealings with a lengthening list of businesses and people…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linus Torvalds 回应邮件列表中的反疫苗评论]]></title>
-        <id>https://www.solidot.org/story?sid=68013</id>
-        <link href="https://www.solidot.org/story?sid=68013"/>
-        <updated>2021-06-11T06:22:52.000Z</updated>
-        <summary type="html"><![CDATA[任何地方都能看到反疫苗的信息，Linux 内核开发者邮件列表也有。有人声称接种疫苗会创造新的人种，他及其家人都不愿意参加这一基因人体实验。Linux 作者 Linus Torvalds 对此做出了回应，为此普及了 mRNA 疫苗的概念，最后说如果他继续相信反疫苗阴谋论，那么最好在内核开发讨论邮件列表上闭上嘴。Torvalds 说，疫苗拯救了数千万人的生命，而新冠的 mRNA 疫苗不会以任何方式改变你的基因序列，它只是加入一剂特定的序列让你的细胞去生成免疫系统能识别的突刺蛋白。mRNA 疫苗半衰期只有几小时，注射的疫苗会在一到两天内完全消失。它的改变不具有长期性，除了人体系统能在以后识别和对抗新的异种蛋白，而这种能力也会随时间而削弱。mRNA 疫苗是目前最先进也是最具有针对性的疫苗，不像传统疫苗那样需要额外的遗传物质，比传统疫苗的外来遗传物质更少。如果你看到周围的新冠病例减少，那是因为大部分人都接种了疫苗，因此也保护了你。但如果出现新一波疫情（如传播更快的新变种），那么你及其家人将会面临更高的风险。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CD Projekt 证实黑客窃取的内部数据已在网上流传]]></title>
-        <id>https://www.solidot.org/story?sid=68012</id>
-        <link href="https://www.solidot.org/story?sid=68012"/>
-        <updated>2021-06-11T05:45:45.000Z</updated>
-        <summary type="html"><![CDATA[今年早些时候，波兰游戏开发商 CD Projekt Red 遭到了勒索软件的攻击，黑客在勒索通知中宣称他们窃取了《赛博朋克 2077》、《巫师3》、《巫师之昆特牌》以及未发布版本的《巫师3》的源代码，以及一些企业内部文件。有消息称 CD Projekt 支付了赎金。但过去几天，黑客窃取的 762 GB 的游戏源代码出现（不推荐下载）了 BT 网站上，玩家还在源代码中发现了一些与审查相关的代码。CD Projekt 现在发表声明证实它的源代码在网络中开始流传，问题比此前预计的更严重，它的雇员/前雇员信息也遭到泄露。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在悲伤中活下去：失去母亲的亚特兰大枪案遗属]]></title>
-        <id>https://cn.nytimes.com/usa/20210611/atlanta-shooting-victims/dual</id>
-        <link href="https://cn.nytimes.com/usa/20210611/atlanta-shooting-victims/dual"/>
-        <updated>2021-06-11T04:06:02.000Z</updated>
-        <summary type="html"><![CDATA[JULIANA KIM2021年6月11日亚特兰大黄金水疗馆外的哀悼者，格兰特在那里被枪杀。 Chang W. Lee/The New York Times
-DULUTH, Ga. — It was already 1 p.m. when Randy Park tumbled out of bed one miserable March day. It had been another long night of TV and video games to distract himself from the emptiness swirling through the townhouse where his mother had once cooked meals between her shifts at a spa. He padded down the hallway, past her vacant bedroom, and nudged his younger brother, Eric, awake.
-佐治亚州德卢斯——在3月一个悲惨的日子里，兰迪·朴(Randy Park)从床上爬起来的时候已经是下午1点了。在水疗中心的轮班间隙，母亲曾经在这个联排公寓里做饭。现在只剩空虚，又一个漫长的夜晚就靠电视和打游戏让他可以分散注意力。他走过走廊，经过她空荡荡的卧室，把弟弟埃里克(Eric)摇醒。
-It was past time to face another day on their own.
-又是两人独自面对生活的一天。
-In the immediate aftermath of the deadly shootings in the Atlanta area, the faces of Randy and Eric Park, now 22 and 21, see…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EA 游戏源代码遭黑客窃取]]></title>
-        <id>https://www.solidot.org/story?sid=68011</id>
-        <link href="https://www.solidot.org/story?sid=68011"/>
-        <updated>2021-06-11T03:37:30.000Z</updated>
-        <summary type="html"><![CDATA[黑客从 EA 公司窃取到 FIFA 21 及其配对服务器的源代码，以及 FIFA 21 使用的 Frostbite 引擎代码。 Frostbite 引擎被广泛用于 EA 旗下工作室的游戏如《战地》系列。其它被窃取的信息还包括私有框架和 SDK。黑客声称共窃取到 760 GB 的数据。EA 已经证实了这一消息，正对此展开调查。公司发言人表示玩家数据没有被访问，称它已经改进了安全，不认为会对游戏或业务产生影响。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大众考虑按小时付费模式向客户提供自主驾驶功能]]></title>
-        <id>https://www.solidot.org/story?sid=68010</id>
-        <link href="https://www.solidot.org/story?sid=68010"/>
-        <updated>2021-06-10T15:41:01.000Z</updated>
-        <summary type="html"><![CDATA[德国汽车制造商大众考虑按小时付费或一系列付费订阅模式向客户提供电动汽车的自主驾驶功能。真正的自主驾驶功能距离实用还有很长的路要走，目前汽车主要使用的是一些高级的辅助驾驶功能。以特斯拉为例，客户是需要额外付费才能获得高级的辅助驾驶功能，而这个价格通常需要上万美元。大众董事 Thomas Ulbrich 透露该公司正在探索多种付费模式，比如以每小时 7 欧元的费用租赁自主驾驶，客户如果不想自己驾驶三小时，那么可以花费 21 欧元让自主驾驶系统接管。Ulbrich 认为这比特斯拉汽车超过 1 万美元的付费要更“平易近人”。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[策划炸亚马逊数据中心的得州男子认罪]]></title>
-        <id>https://www.solidot.org/story?sid=68009</id>
-        <link href="https://www.solidot.org/story?sid=68009"/>
-        <updated>2021-06-10T15:24:44.000Z</updated>
-        <summary type="html"><![CDATA[密谋炸毁亚马逊数据中心的得州男子周三承认了指控。28 岁的 Seth Aaron Pendley 是在今年 4 月被捕的，他当时试图从卧底 FBI 特工手中购买用于炸毁建筑物的 C4 塑料炸药，但实际拿到的是哑弹。当把东西放到车内时 FBI 逮捕了他。Pendley 曾告诉卧底，愤怒的“寡头”足以激发反应，促使美国人民采取行动对抗他所谓的“独裁统治”。Pendley 将面临 5 到 10 年徒刑，判决将在 10 月 1 日宣布。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[额外维或能解释暗物质]]></title>
-        <id>https://www.solidot.org/story?sid=68008</id>
-        <link href="https://www.solidot.org/story?sid=68008"/>
-        <updated>2021-06-10T12:57:46.000Z</updated>
-        <summary type="html"><![CDATA[在宇宙中绝大部分物质是看不见的，暗物质占到了宇宙物质的 85%。暗物质不与电磁力发生作用，它的存在主要是通过引力效应得知，对其进行测量非常困难，它存在的确凿证据也很难得到。加州河滨分校的理论物理学家在《Journal of High Energy Physics》发表论文（预印本），认为暗物质可以通过额外维进行解释。我们所熟悉的空间有三个维度，物理学家认为额外的第四个维度可以解释为什么暗物质隐藏的如此之深，他们认为暗力（dark forces）控制了暗物质粒子的相互作用。额外维通常是描述共形场论的数学技巧，但他们没有使用共形场论，而是利用了全息额外维理论。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[武汉市场在疫情爆发前贩卖了大量野生动物]]></title>
-        <id>https://www.solidot.org/story?sid=68007</id>
-        <link href="https://www.solidot.org/story?sid=68007"/>
-        <updated>2021-06-10T12:51:26.000Z</updated>
-        <summary type="html"><![CDATA[中国、加拿大和英国的研究人员在《Scientific Reports》期刊上发表论文，报告武汉生鲜市场在疫情爆发前贩卖过大量野生动物。新冠被认为来自蝙蝠，经过中间宿主传播给人类，但目前中间宿主还无法确认，其中穿山甲被认为是最可能的中间宿主。研究人员总共记录了 2017 年 5 月至 2019 年 11 月期间武汉市场上 38 种动物超 4.7 万只的销售情况。其中 33 种动物之前曾感染过可影响人类的疾病或致病寄生虫。中国因疫情已经暂停了野生动物的售卖和食用。在武汉出售的野生动物包括貂、果子狸、貉、獾、刺猬、黄鼠狼、豪猪、土拨鼠、赤狐、鼯鼠、八哥、蛇、毒蛇、眼镜蛇和暹罗鳄鱼。几乎所有的动物都是“活体出售、关在堆叠的笼子里、状况不佳”，并且经常是现场宰杀。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
