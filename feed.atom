@@ -2,10 +2,192 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://solohuman.github.io/rss-m/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T00:44:48.712Z</updated>
+    <updated>2021-07-14T00:39:03.932Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://solohuman.github.io/rss-m/index.html"/>
     <link rel="self" href="https://solohuman.github.io/rss-m/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[工信部发布网络产品安全漏洞管理规定]]></title>
+        <id>https://www.solidot.org/story?sid=68271</id>
+        <link href="https://www.solidot.org/story?sid=68271"/>
+        <updated>2021-07-13T11:25:37.000Z</updated>
+        <summary type="html"><![CDATA[工信部发布了《网络产品安全漏洞管理规定》，从 9 月 1 日起开始实施。《规定》旨在规范网络产品安全漏洞发现、报告、修补和发布等行为。
+《规定》第四条：任何组织或者个人不得利用网络产品安全漏洞从事危害网络安全的活动，不得非法收集、出售、发布网络产品安全漏洞信息；明知他人利用网络产品安全漏洞从事危害网络安全的活动的，不得为其提供技术支持、广告推广、支付结算等帮助。第五条：网络产品提供者、网络运营者和网络产品安全漏洞收集平台应当建立健全网络产品安全漏洞信息接收渠道并保持畅通，留存网络产品安全漏洞信息接收日志不少于 6 个月。第七条：工业和信息化部网络安全威胁和漏洞信息共享平台同步向国家网络与信息安全信息通报中心、国家计算机网络应急技术处理协调中心通报相关漏洞信息。鼓励网络产品提供者建立所提供网络产品安全漏洞奖励机制，对发现并通报所提供网络产品安全漏洞的组织或者个人给予奖励。第十条：任何组织或者个人设立的网络产品安全漏洞收集平台，应当向工业和信息化部备案。工业和信息化部及时向公安部、国家互联网信息办公室通报相关漏洞收集平台，并对通过备案的漏洞收集平台予以公布。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“每个人都有忍无可忍的时候”：古巴爆发大规模抗议]]></title>
+        <id>https://cn.nytimes.com/world/20210713/biden-cuba-protests/dual</id>
+        <link href="https://cn.nytimes.com/world/20210713/biden-cuba-protests/dual"/>
+        <updated>2021-07-13T09:36:02.000Z</updated>
+        <summary type="html"><![CDATA[OSCAR LOPEZ, ERNESTO LONDOÑO2021年7月13日
+
+
+Hospitals and pharmacies have run out of medicines as basic as penicillin and aspirin. Blackouts have become maddeningly frequent and agonizingly long. Cubans lucky enough to have foreign currency wait in line for hours for staples like beans and rice.
+医院和药房已经用完了青霉素和阿司匹林这样的基础药物。漫长而痛苦的停电频繁到让人发狂。运气好、手里有外币的古巴人也得排上几小时的队，购买豆类和大米等主食。
+
+A searing economic decline, leading to hardships Cubans have rarely seen since the collapse of the Soviet Union devastated their country in the 1990s, has stirred the island’s largest protest movement in decades, eliciting a chorus of support from American politicians and angry threats from Cuba’s government.
+严重的经济衰退导致古巴经历了自上世纪90年代苏联解体摧毁经济之后罕见的困境，激起这一岛国数十年来最大规模的抗议，引起美国政界的一致支持，以及古巴政府的愤怒威胁。
+“We stand with the Cuban people and …]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海地总统遇刺案之谜：一名医生缘何成为最大嫌犯]]></title>
+        <id>https://cn.nytimes.com/world/20210713/haiti-jovenel-assasination-sanon/dual</id>
+        <link href="https://cn.nytimes.com/world/20210713/haiti-jovenel-assasination-sanon/dual"/>
+        <updated>2021-07-13T08:36:02.000Z</updated>
+        <summary type="html"><![CDATA[CATHERINE PORTER, SIMON ROMERO, ERIC NAGOURNEY2021年7月13日自刺杀案后，海地一直处于紧张状态。 Joseph Odelyn/Associated Press
+As a sprawling multinational investigation into the assassination of Haiti’s president broadens, with suspects stretching from Colombia to Florida, the Haitian authorities have turned their focus to a little-known doctor who they said coveted the presidency.
+随着对海地总统遇刺案的跨国调查不断扩大，嫌疑人范围从哥伦比亚延伸到佛罗里达，海地当局已将注意力转向一位鲜为人知的医生，他们说此人在觊觎总统职位。
+The Haitian authorities say that President Jovenel Moïse was assassinated early on Wednesday morning by a team of perhaps two dozen heavily armed mercenaries recruited from abroad who rolled up to the president’s heavily guarded home in multiple vehicles, gained entry after little resistance and opened fire.
+海地当局称总统若弗内尔·莫伊兹(Jovenel Moïse)于上周三早上被约20多名全副武装的雇佣兵组成的…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[撞上监管高墙，中国金融科技业何去何从？]]></title>
+        <id>https://cn.nytimes.com/technology/20210713/china-fintech-ant-group/dual</id>
+        <link href="https://cn.nytimes.com/technology/20210713/china-fintech-ant-group/dual"/>
+        <updated>2021-07-13T08:06:02.000Z</updated>
+        <summary type="html"><![CDATA[RAYMOND ZHONG2021年7月13日 Michael Houtz
+When the coronavirus jammed up China’s economy last year, Rao Yong needed cash to tide over his online handicrafts business. But he dreaded the idea of spending long, dull hours at the bank.
+去年，当新冠病毒导致中国经济停滞之时，饶勇需要现金支撑他网店的手工艺品生意。但他又不愿意在银行白白耗去大量时间。
+The outbreak had snarled delivery services and made customers slow on their payments, so Mr. Rao, 33, used an app called Alipay to receive early payment on his invoices. Because his Alipay account was already tied to his digital storefront on Alibaba’s Taobao bazaar, getting the money was quick and painless.
+疫情导致快递服务陷入混乱，客人付款的速度也变慢了，于是，33岁的饶勇使用了支付宝这一应用程序提前收到款项。因为他的支付宝账户已经和他在阿里巴巴淘宝商城上的数字店铺绑定在一起，他可以很便捷地拿到现金。
+Alipay had helped Mr. Rao a few years before as well, when his business was just starting to expand and …]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软发现正被利用的 SolarWinds 0day 漏洞]]></title>
+        <id>https://www.solidot.org/story?sid=68270</id>
+        <link href="https://www.solidot.org/story?sid=68270"/>
+        <updated>2021-07-13T07:34:30.000Z</updated>
+        <summary type="html"><![CDATA[身处去年对美国政府机构发动供应链攻击事件中心的 SolarWinds 公司正忙于修补另一个正被利用的高危漏洞。微软发现了正被利用的漏洞，报告给了  SolarWinds 公司，该公司上周五释出了修复补丁。SolarWinds 称这次攻击与去年 12 月发现的供应链攻击不相干，影响其 Serv-U 产品线，有少数针对性的目标受到攻击，它还没有估计受漏洞直接影响的客户规模。漏洞存在于今年 5 月释出的最新 Serv-U version 15.2.3 HF1 版本中以及之前释出的所有版本中，运行  Serv-U version 15.2.3 HF1 的客户需要升级到 HF2，运行 Serv-U 15.2.3 的客户需要先升级到 15.2.3 HF1 再打补丁 HF2；运行 Serv-U versions 15.2.3 之前版本的客户需要升级到 15.2.3，再打补丁 HF1 和 HF2。它督促所有客户立即更新。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSearch 1.0 发布]]></title>
+        <id>https://www.solidot.org/story?sid=68269</id>
+        <link href="https://www.solidot.org/story?sid=68269"/>
+        <updated>2021-07-13T06:48:34.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊 AWS 发起的 Elasticsearch 分支 OpenSearch 释出了 1.0 版本。今年初，开发 Elasticsearch 和 Kibana 的公司 Elastic 宣布更改许可证，新版本将不再使用 Apache 2.0 而是使用 Elastic License 和 Server Side Public License，此举旨在禁止云服务商如 AWS 使用它的软件作为一种服务提供给客户。但许可的更改也意味着 Elasticsearch 和 Kibana 不再是开源软件了。OpenSearch 1.0 是基于  Apache 2.0 授权的 Elasticsearch 7.10.2 & Kibana 7.10.2，包含了搜索引擎守护程序 OpenSearch，可视化和用户界面 OpenSearch Dashboards，以及安全、警告和异常监测等高级功能。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里巴巴等考虑竞购紫光子公司股权]]></title>
+        <id>https://www.solidot.org/story?sid=68268</id>
+        <link href="https://www.solidot.org/story?sid=68268"/>
+        <updated>2021-07-13T06:47:07.000Z</updated>
+        <summary type="html"><![CDATA[阿里巴巴和国企正在考虑竞购紫光股份的部分股权。紫光股份是一家云计算基础设施公司，紫光集团持有其 46.45% 的股权，该集团正面临巨额债务到期。潜在竞购方包括无锡市政府所有的无锡产业发展集团、北京电子控股有限责任公司以及半导体投资基金建广资产。紫光所持股份的价值可能在 400 亿元至 500 亿元之间。清华紫光集团在一份声明中表示，为减轻债务风险，该公司“已在引资特别工作组的指导下接洽了几家投资者”。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卫生官员反对辉瑞的新冠加强针建议]]></title>
+        <id>https://www.solidot.org/story?sid=68267</id>
+        <link href="https://www.solidot.org/story?sid=68267"/>
+        <updated>2021-07-13T06:22:58.000Z</updated>
+        <summary type="html"><![CDATA[辉瑞和它的德国合作伙伴 BioNTech 上周宣布未来几周寻求从 FDA 获得授权向已注射两剂疫苗的接受者提供第三剂加强针，进一步增强体内的抗体水平。两家公司认为需要在第二针疫苗 6 到 12 个月内注射第三针。但世界各地的卫生官员对这一建议表达了反对意见，认为当前最重要的任务是给所有人完整接种疫苗，而不是给已接种的人提供加强针。美国卫生部、疾控中心和 FDA 上周发表联合声明称，已完整接种疫苗的美国人目前不需要加强针。世界卫生组织的官员本周一表示，缺乏证据支持加强针的需求，指出许多中低收入国家甚至连最易受影响人群提供第一针疫苗的供应都满足不了。卫生官员表示，疫苗的主要目的是预防严重症状和死亡，当前的疫苗已经能做到，通过注射第三剂加强针去预防一般症状不是目前的优先任务。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD CEO 称芯片短缺在 2021 年内将会一直存在]]></title>
+        <id>https://www.solidot.org/story?sid=68266</id>
+        <link href="https://www.solidot.org/story?sid=68266"/>
+        <updated>2021-07-13T06:21:21.000Z</updated>
+        <summary type="html"><![CDATA[AMD CEO 苏姿丰在接受采访时强调，到 2021 年底前芯片供应短缺将会一直影响制造商满足消费者需求的能力。她说，过去 12 个月里，需求远远超过他们最雄心勃勃的预期。由此可见供应链的压力有多大。消费者早已经感受到了供应链短缺的影响，从显卡到 CPU 的各种产品都供不应求。AMD Ryzen 5000 系列的处理器的供应情况目前已显著改善，但需求仍然超过了供应。她还谈论了新冠疫情的影响以及对  Xilinx 的收购。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“妈妈，你什么时候回来？”：印度疫情中的孤儿们]]></title>
+        <id>https://cn.nytimes.com/world/20210713/india-covid-orphans/dual</id>
+        <link href="https://cn.nytimes.com/world/20210713/india-covid-orphans/dual"/>
+        <updated>2021-07-13T05:06:01.000Z</updated>
+        <summary type="html"><![CDATA[SUHASINI RAJ2021年7月13日G·哈安维·雷迪和弟弟妹妹生活在印度南部城市海得拉巴，因为双亲死于新冠，他们成了孤儿。 Rebecca Conway for The New York Times
+PATTAPUR, India — In a small, colorfully painted house on India’s eastern coast, G. Sonali Reddy cooks meals and feeds her younger siblings by day and rocks them to sleep at night, hoping to assuage their fears, just as her mother would.
+印度帕塔普尔——在印度东海岸一座色彩缤纷的小房子里，G·索纳利·雷迪(G.Sonali Reddy)白天给弟弟妹妹做饭，晚上哄他们入睡，希望能像她的母亲一样减轻他们的恐惧。
+Sonali, still a child at 14, is her family’s caretaker. Several years ago, her father took his own life after the failure of the family’s business selling spare trolley parts. Then in May, her mother, Sabita, contracted Covid-19 as a calamitous wave of infections swept across India.
+索纳利承担了照料家庭的角色，而她还只是个14岁的孩子。几年前，她的父亲在销售手推车备件的家族生意失败后自杀。然后在5月，灾难性的感染浪潮席卷了印度，她的母亲萨比塔(Sabit…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台湾与BioNTech达成疫苗购买协议，打破数月僵局]]></title>
+        <id>https://cn.nytimes.com/asia-pacific/20210713/taiwan-biontech-vaccine/dual</id>
+        <link href="https://cn.nytimes.com/asia-pacific/20210713/taiwan-biontech-vaccine/dual"/>
+        <updated>2021-07-13T04:36:01.000Z</updated>
+        <summary type="html"><![CDATA[RAYMOND ZHONG2021年7月13日本月，一家位于台北的疫苗接种中心。在今年的大部分时间里，台湾购买BioNTech疫苗的努力似乎已成为与中国政治紧张局势的牺牲品。 Ann Wang/Reuters
+BioNTech on Monday announced a deal to provide 10 million doses of its coronavirus vaccine to Taiwan, easing a serious shortage there and ending months of deadlock stemming from the self-ruling island’s complicated relationship with China, which considers Taiwan part of its territory.
+BioNTech周一宣布向台湾提供1000万剂新冠病毒疫苗，缓解了台湾疫苗严重短缺的局面，并结束了由于自治的台湾与中国之间复杂的关系而导致的长达数月的僵局。中国将台湾视为其领土的一部分。
+The deal is a convoluted one, reflecting the delicate needle that had to be threaded.
+这是一笔错综复杂的交易，反映出不得不穿针引线一般的微妙局面。
+The vaccines will be purchased, then donated to Taiwan’s government, by two of the island’s most prominent corporate titans — Foxconn, a major assembler of Apple’s iPhones; and TSMC, which makes the…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漫游喜马拉雅，体验一个变化中的西藏]]></title>
+        <id>https://cn.nytimes.com/travel/20210713/tibetan-culture/dual</id>
+        <link href="https://cn.nytimes.com/travel/20210713/tibetan-culture/dual"/>
+        <updated>2021-07-13T03:06:01.000Z</updated>
+        <summary type="html"><![CDATA[STUART BUTLER2021年7月13日西藏东部的德格印经院，一名西藏男子走过转经轮。 
+I was sitting inside the dark, yak-hair tent of a nomad family in Ladakh, in the Indian Himalaya. Outside, some scruffy sheep searched for greenery among the cold and barren moonscape, and large raptors circled in the thermals. As we huddled around the hearth, the old man handed me a small glass of salty, yak-butter tea.
+我在位于喜马拉雅山脉印度一侧的拉达克，坐在一个游牧家庭光线暗淡的牦牛毛帐篷里。外面，几头脏兮兮的绵羊在这片寒冷贫瘠、像月球表面一样荒凉的土地上寻找绿色植物，大型猛禽乘着热气流在空中盘旋。我们一起挤在炉火旁边时，帐篷里的老头儿将一小杯咸奶茶递到我手里。
+“There were wolves here two nights ago,” he told me through a translator. “This time I chased them away, but they will come back again and try and get at my sheep. It’s happening more and more.”
+“两天前的夜里有狼来过，”他通过翻译对我说。“这次我把它们赶跑了，但它们会再来，它们想抓走我的羊。这种事越来越多。”
+“Everything about being a herder is getting more …]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因笔记本零部件短缺台式机销量反弹]]></title>
+        <id>https://www.solidot.org/story?sid=68265</id>
+        <link href="https://www.solidot.org/story?sid=68265"/>
+        <updated>2021-07-13T01:52:10.000Z</updated>
+        <summary type="html"><![CDATA[IDC 的数据显示，2021 年第二季度因笔记本零部件短缺台式机销量出现反弹。全球 PC 出货量同比增长 13.2% 至 8630 万台，联想排名第一出货量超过 2000 万台，同比增长 14.90%，惠普第二出货量 1859 万但同比只增长 2.70%。之后是戴尔的 1397 万台，苹果的 615 万台，宏碁的 608 万台。PC 出货量的增长开始放缓，2020 年的第四季度的增长率为 25.8%，而 2021 年第一季度增长 55.9%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密货币交易量锐减]]></title>
+        <id>https://www.solidot.org/story?sid=68264</id>
+        <link href="https://www.solidot.org/story?sid=68264"/>
+        <updated>2021-07-13T01:41:41.000Z</updated>
+        <summary type="html"><![CDATA[周一公布的研究显示，6 月主要加密货币交易所的交易量下降逾 40%，部分原因是中国加强了加密货币监管。研究机构 CryptoCompare 的数据显示，现货交易量下降 42.7% 至 2.7 万亿美元，衍生品交易量则下降 40.7% 至 3.2 万亿美元。主要的加密货币交易所币安（Binance）面临着来自世界各地监管机构的审查，但仍保持了其现货交易量最大平台的地位。不过 6 月份币安的交易量还是下降了 56%，至 6,680 亿美元。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古巴限制社交媒体]]></title>
+        <id>https://www.solidot.org/story?sid=68263</id>
+        <link href="https://www.solidot.org/story?sid=68263"/>
+        <updated>2021-07-13T00:08:28.000Z</updated>
+        <summary type="html"><![CDATA[网络监测数据显示，从 7 月 12 日开始古巴限制了社交媒体和消息应用，此举被认为旨在限制信息流动。古巴上周末爆发了罕见的大规模反政府抗议。受到干扰的通讯平台包括了 WhatsApp、Facebook、Instagram 和部分 Telegram 服务。VPN 服务可以绕过这一干扰。古巴的反政府抗议与经济困难，疫苗短缺等问题有关。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究发现年长应聘者获得的工作机会少但用年轻的照片能帮助提高几率]]></title>
         <id>https://www.solidot.org/story?sid=68262</id>
@@ -3799,26 +3981,6 @@ It was the first time the world’s richest nations had discussed organizing a d
         <link href="https://www.solidot.org/story?sid=68030"/>
         <updated>2021-06-14T14:41:08.000Z</updated>
         <summary type="html"><![CDATA[因  Freenode IRC 网络组织结构最近的变动，自由软件基金会（FSF）在 5 月 27 日召开社区会议讨论 FSF 和 GNU 官方 IRC 频道的未来。会议决定将官方 IRC 频道迁移到 Libera.Chat，立即生效，新官方频道包括 #fsf、#gnu 和 #libreplanet。FSF 是在 2002 年选择  Freenode 作为官方频道的，从 6 月 25 日 UTC 14:00 起，Freenode 网络中的 #fsf、#gnu 和 #libreplanet 将改为 ##fsf、##gnu 和 ##libreplanet，## 前缀代表非官方频道，这意味着它们不再由 FSF 或 GNU 工作人员管理。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[远程工作者工作更长时间而不是更有效率]]></title>
-        <id>https://www.solidot.org/story?sid=68029</id>
-        <link href="https://www.solidot.org/story?sid=68029"/>
-        <updated>2021-06-13T15:21:40.000Z</updated>
-        <summary type="html"><![CDATA[随着新冠疫苗接种率的提高，世界各地的企业开始恢复到过去的办公模式，远程办公的实验即将结束。对员工和雇主的早期调查显示，远程办公并没有减少生产力。一家亚洲科技公司使用安装在计算机上的软件跟踪了超过一万名员工在 2019 年 4 月到 2020 年 8 月之间的活动，发现远程工作者生产力没有下降是因为他们工作了更长时间。他们的总工作时间比疫情流行前增加了 30%。正常时间之间的工作时间增加了 18%。虽然生产力没有下降，但单位工作效率下降了 20%。员工集中注意力的时间被发现减少了，原因可能是更多的远程会议，或者家庭中的其他人带来的分心，如有孩子的员工每天工作时间比没有孩子的员工多 20 分钟。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分析 FLoC 的隐私问题]]></title>
-        <id>https://www.solidot.org/story?sid=68028</id>
-        <link href="https://www.solidot.org/story?sid=68028"/>
-        <updated>2021-06-13T14:06:24.000Z</updated>
-        <summary type="html"><![CDATA[Google 提出的第三方 cookies 替代 Federated Learning of Cohorts (FLoC) 引发了很多争议，多家基于 Chromium 的浏览器开发商已经决定禁用 FLoC，而搜索巨人则声称 FLoC 对隐私更为友好、更少跟踪。Mozilla 对 FLoC 进行了分析，发现它存在多个需要解决的隐私问题。FLoC 使用了代表一组有着相似兴趣用户的识别符，它代表的用户数量可能多达数千，但这并不意味着它不能被用于跟踪单个用户，原因是用户的兴趣是在变化的，因此 FLoC ID 也在变化。FLoC ID 目前大约每周重新计算一次，这意味着网站可以组合利用第一周、第二周等等的 FLoC ID 去跟踪单个用户。FLoC 还被发现会泄露更多的信息。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
