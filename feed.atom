@@ -2,16 +2,211 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://solohuman.github.io/rss-m/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T00:42:19.316Z</updated>
+    <updated>2021-07-17T00:42:12.092Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://solohuman.github.io/rss-m/index.html"/>
     <link rel="self" href="https://solohuman.github.io/rss-m/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金星：LGBTQ先锋人物还是性别保守派？]]></title>
+        <id>https://cn.nytimes.com/china/20210716/china-transgender-jin-xing/dual</id>
+        <link href="https://cn.nytimes.com/china/20210716/china-transgender-jin-xing/dual"/>
+        <updated>2021-07-16T21:06:02.000Z</updated>
+        <summary type="html"><![CDATA[王月眉, JOY DONG2021年7月16日“你给我贴上男性标签也好女性标签也好，我都是一个发光的人，”金星说。 Gilles Sabrié for The New York Times
+Jin Xing, a 53-year-old television host often called China’s Oprah Winfrey, holds strong views about what it means to be a woman. She has hounded female guests to hurry up and get married, and she has pressed others to give birth. When it comes to men, she has recommended that women act helpless to get their way.
+对于身为女性意味着什么，53岁的电视节目主持人金星（她常被称为中国的奥普拉·温弗瑞[Oprah Winfrey]）有着强烈的看法。她一直穷追不舍地要女嘉宾快点结婚，还催促别人生孩子。谈到男性，她建议女性表现出无助以达到自己的目的。
+That might not be so unusual in China, where traditional gender norms are still deeply embedded, especially among older people. Except Ms. Jin is no typical Chinese star.
+这在中国可能并不罕见，尤其是在老年人中，传统的性别规范仍然根深蒂固。但是，金星不是典型的中国明星。
+As China’s first — and even today, only — major trans…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[与坂本龙一对话：癌症、自然与时间]]></title>
+        <id>https://cn.nytimes.com/culture/20210716/ryuichi-sakamoto-time/dual</id>
+        <link href="https://cn.nytimes.com/culture/20210716/ryuichi-sakamoto-time/dual"/>
+        <updated>2021-07-16T09:36:01.000Z</updated>
+        <summary type="html"><![CDATA[SADIE REBECCA STARNES2021年7月16日
+Ryuichi Sakamoto is in Tokyo for the summertime rainy season. A New York resident for over 30 years, the Oscar-winning composer has been in Japan since last November — not because of the pandemic, but because of a diagnosis of rectal cancer, discovered just after he went into remission after several years of treatment for throat cancer.
+坂本龙一正在东京度过夏日雨季。这位奥斯卡获奖作曲家在纽约居住了30多年，自去年11月以来一直在日本——不是因为疫情，而是因为他在接受数年喉癌治疗，病情好转不久后，又被诊断出患有直肠癌。
+Despite his health problems, Sakamoto has been as prolific as ever, participating in concerts, exhibitions and most recently an opera, “Time,” which premiered last month at the Holland Festival.
+尽管存在健康问题，坂本还是一如既往地多产，他参加音乐会和展览，以及最近创作了歌剧《时间》(Time)，该剧上个月在荷兰艺术节上首演。
+
+
+“Time” is part of Sakamoto’s ongoing exploration of “asynchronism,” musi…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工信部将对 APP 违规调用通讯录和位置权限等加大惩处]]></title>
+        <id>https://www.solidot.org/story?sid=68302</id>
+        <link href="https://www.solidot.org/story?sid=68302"/>
+        <updated>2021-07-16T07:19:15.000Z</updated>
+        <summary type="html"><![CDATA[工信部信息通信管理局局长赵志国周五表示，将在常态化监管的基础上，适时针对重点问题、重点企业开展“回头看”，对反复出现违规调用通信录和用户地理位置权限等相关问题的企业，加大惩处力度，确保整改过的问题“不反弹、不反复”。“比如说调用通讯录、用户位置信息权限等，调用这些数据不是用户使用场景所必须，不符合信息收集最小必要原则，因此必须加大惩处力度。对于整改不到位、落实效果不好的，我们要在整治基础上纳入信用管理。”赵志国称。“数据是国家基础战略资源和重要的生产要素。”他强调。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“好朋友也会有分歧”：拜登默克尔会面，美德关系回暖]]></title>
+        <id>https://cn.nytimes.com/world/20210716/biden-merkel-meeting/dual</id>
+        <link href="https://cn.nytimes.com/world/20210716/biden-merkel-meeting/dual"/>
+        <updated>2021-07-16T07:06:01.000Z</updated>
+        <summary type="html"><![CDATA[KATIE ROGERS2021年7月16日“好朋友之间也会有分歧，”拜登总统周四在白宫与德国总理默克尔一起举行的新闻发布会上说。 Doug Mills/The New York Times
+WASHINGTON — Signaling that the U.S.-European alliance remained strong after the tension of the Trump era, President Biden and Chancellor Angela Merkel of Germany on Thursday stressed their shared values, even as both acknowledged differences on a major Russian pipeline and how best to approach China.
+华盛顿——周四，拜登总统和德国总理安格拉·默克尔(Angela Merkel)强调了他们的共同价值观，表明在经历了特朗普时代的紧张关系后，美欧同盟依然强大，尽管双方也都承认，在俄罗斯的一条主要管道以及如何同中国打交道的问题上仍存在分歧。
+During meetings at the White House, Mr. Biden’s agenda included several of his most pressing geopolitical priorities, such as restraining Chinese influence, curbing Russian aggression and waiving intellectual property restrictions on coronavirus vaccine manufacturers.
+在白宫会晤期间，拜登的议程…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国的信念危机]]></title>
+        <id>https://cn.nytimes.com/opinion/20210716/us-foreign-policy/dual</id>
+        <link href="https://cn.nytimes.com/opinion/20210716/us-foreign-policy/dual"/>
+        <updated>2021-07-16T07:06:01.000Z</updated>
+        <summary type="html"><![CDATA[DAVID BROOKS2021年7月16日 Jim Huylebroek for The New York Times
+For most of the past century, human dignity had a friend — the United States of America. We are a deeply flawed and error-prone nation, like any other, but America helped defeat fascism and communism and helped set the context for European peace, Asian prosperity and the spread of democracy.
+在上个世纪的大多数时间里，人类尊严有一个朋友——美利坚合众国。美国和其他国家一样，都存在根深蒂固的缺陷，也会犯错，但我们帮助击败了法西斯主义和共产主义，并为欧洲和平、亚洲繁荣和民主的传播奠定了基础。
+Then came Iraq and Afghanistan, and America lost faith in itself and its global role — like a pitcher who has been shelled and no longer has confidence in his own stuff. On the left, many now reject the idea that America can be or is a global champion of democracy, and they find phrases like “the indispensable nation” or the “last best hope of …]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网信办公安部等进驻滴滴打车]]></title>
+        <id>https://www.solidot.org/story?sid=68301</id>
+        <link href="https://www.solidot.org/story?sid=68301"/>
+        <updated>2021-07-16T07:06:00.000Z</updated>
+        <summary type="html"><![CDATA[网信办官方微信发表公告，国家网信办会同公安部、国家安全部、自然资源部、交通运输部、税务总局、市场监管总局等部门联合进驻滴滴出行，开展网络安全审查。滴滴出行 6 月底赴美上市后引发监管风暴，陆续遭遇多个监管部门调查，滴滴出行旗下应用亦遭下架。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[物价持续低迷，日本面临通货紧缩压力]]></title>
+        <id>https://cn.nytimes.com/business/20210716/inflation-us-japan/dual</id>
+        <link href="https://cn.nytimes.com/business/20210716/inflation-us-japan/dual"/>
+        <updated>2021-07-16T06:36:03.000Z</updated>
+        <summary type="html"><![CDATA[BEN DOOLEY2021年7月16日上个月，东京的一条商业街。尽管出台了提升物价的政策，日本经济仍在通货紧缩中挣扎。 Carl Court/Getty Images
+TOKYO — In the United States, everyone is talking about inflation. The country’s reopening from the coronavirus pandemic has unleashed pent-up demand for everything from raw materials like lumber to secondhand goods like used cars, pushing up prices at the fastest clip in over a decade.
+东京——在美国，人人都在谈论通货膨胀。从新冠疫情中重新开放的美国如今释放了一切被压抑的需求，从木材等原材料到二手车等二手商品无所不包，推动了物价以十几年来的最快速度上涨。
+Japan, however, is having the opposite problem. Consumers are paying less for many goods, from Uniqlo parkas to steaming-hot bowls of ramen. While in the United States average prices have jumped 5.4 percent in the past year, the Japanese economy has faced deflationary pressure, with prices dipping 0.1 percent in May from the previous year.…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国就阿富汗局势发出警告，对美国撤军表示担忧]]></title>
+        <id>https://cn.nytimes.com/china/20210716/china-pakistan-afghanistan/dual</id>
+        <link href="https://cn.nytimes.com/china/20210716/china-pakistan-afghanistan/dual"/>
+        <updated>2021-07-16T03:36:02.000Z</updated>
+        <summary type="html"><![CDATA[STEVEN LEE MYERS2021年7月16日本月的阿富汗喀布尔。中国高级官员已在声明中明确表示，他们将把该地区蔓延的任何不安全因素归咎于美国。 Jim Huylebroek for The New York Times
+The Chinese government rarely passes up a chance to accuse the United States of military adventurism and hegemony. In the case of Afghanistan, though, it has changed its tone, warning that Washington now bears the responsibility for the hasty end to its two-decade war there.
+中国政府很少放过谴责美国军事冒险主义和霸权主义的机会。但在阿富汗问题上，中国已改变了口吻。中国警告说，华盛顿现在要为仓促结束其在阿富汗长达20年的战争承担责任。
+“The United States, which created the Afghan issue in the first place, should act responsibly to ensure a smooth transition in Afghanistan,” China’s foreign minister, Wang Yi, said this month at a forum in Beijing. “It should not simply shift the burden onto others and withdraw from the country with the mess left behind unatten…]]></summary>
+        <author>
+            <name>纽约时报双语版</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve 宣布 Linux 掌机 Steam Deck]]></title>
+        <id>https://www.solidot.org/story?sid=68299</id>
+        <link href="https://www.solidot.org/story?sid=68299"/>
+        <updated>2021-07-16T02:40:28.000Z</updated>
+        <summary type="html"><![CDATA[Valve 正式宣布了运行 Linux 操作系统的掌机 Steam Deck，采用 AMD 的 APU（Zen 2 + RDNA 2），12 月发售，商品页面显示这款产品目前不对中国区开放预购。Valve 开发 Linux 掌机的消息早在今年五月就已传出。Steam Deck 的显示屏为 7 英寸 LCD 分辨率 1280 x 800px，60Hz；CPU 为 4 核 8 线的 Zen 2，频率 2.4-3.5GHz，性能 448 GFlops FP32，GPU 为 8 个  RDNA 2 计算单元（CU），性能 1.6 TFlops FP32；内存 16 GB LPDDR5，可选储存 64 GB eMMC、256 GB NVMe SSD、512 GB 高速 NVMe SSD，提供了 microSD 卡插槽，操作系统为基于 Arch Linux 的 SteamOS。掌机的起售价为 399 美元。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔谈判以 300 亿美元收购 GlobalFoundries]]></title>
+        <id>https://www.solidot.org/story?sid=68298</id>
+        <link href="https://www.solidot.org/story?sid=68298"/>
+        <updated>2021-07-16T00:47:49.000Z</updated>
+        <summary type="html"><![CDATA[WSJ 援引知情人士的消息报道，英特尔正在谈判以 300 亿美元收购半导体制造商 GlobalFoundries。收购谈判可能没有直接涉及到 GlobalFoundries，该公司发言人否认在与英特尔磋商收购。GlobalFoundries 原是英特尔竞争对手 AMD 的芯片制造部门，2009 年从 AMD 分拆，由阿联酋的阿布扎比主权财富基金控股，目前是世界第四大芯片代工厂，次于台积电、三星电子和联电。英特尔已经宣布将进入芯片代工行业，但它的芯片工厂主要是为制造自己的芯片设计的，收购 GlobalFoundries 有助于弥补这一缺陷。GlobalFoundries 的一个主要客户是 AMD。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国研究建议对糖和盐征税]]></title>
+        <id>https://www.solidot.org/story?sid=68297</id>
+        <link href="https://www.solidot.org/story?sid=68297"/>
+        <updated>2021-07-15T15:48:45.000Z</updated>
+        <summary type="html"><![CDATA[为了推广健康饮食，英国的一项评估报告建议对糖和盐征税，鼓励吃蔬菜。食品行业则警告对批发糖和盐征税可能导致商品食物价格上涨。这项评估研究是由英国政府在 2019 年委托进行的，首相 Boris Johnson 表示政府会在六个月内做出回应。报告主要作者  Henry Dimbleby 表示他们并不认为食物价格会上涨，征税主要目的是推动重新配置食物成分，减少食物中的糖和盐。报告推荐的税率是对批发用于加工食物的糖每公斤征税 3 英镑，每公斤盐征税 6 英镑。这将显著增加使用糖和盐的成本。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊雨林释放出的二氧化碳超过了吸收的二氧化碳]]></title>
+        <id>https://www.solidot.org/story?sid=68296</id>
+        <link href="https://www.solidot.org/story?sid=68296"/>
+        <updated>2021-07-15T15:29:44.000Z</updated>
+        <summary type="html"><![CDATA[科学家首次确认，亚马逊雨林释放出的二氧化碳超过了吸收的二氧化碳。研究报告发表在《自然》期刊上。南美洲雨林此前是一个碳汇，如今则成为了一个净碳排放来源。雨林大部分排放来自于人为的放火，以清理土地用于养殖牛和生产大豆。但即便没有火，更严热的气候和干旱已经让它成为了一个碳排放来源。研究人员使用飞机测量了 2010 年到 2018 年雨林上空的二氧化碳和一氧化碳浓度，发现火一年产生了 15 亿吨二氧化碳，雨林生长吸收了 5 亿吨，有 10 亿吨释放到了大气中，这相当于日本的年度排放。日本是世界第五大排放国。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币挖矿重心正在转移]]></title>
+        <id>https://www.solidot.org/story?sid=68295</id>
+        <link href="https://www.solidot.org/story?sid=68295"/>
+        <updated>2021-07-15T13:19:45.000Z</updated>
+        <summary type="html"><![CDATA[剑桥大学新兴金融研究中心的研究发现，在政府最新打击前中国的比特币挖矿份额已经在下降。中国的比特币挖矿份额从 2019 年 9 月的 75.5%  降至 2021 年 4 月的 46%。哈萨克斯坦现在是第三大比特币矿国，其份额从 2019 年 9 月的 1.4% 增加到 2021 年 4 月的  8.2%。美国第二份额为 16.8%。在中国关闭比特币矿场前，研究人员观察到挖矿的季节性流动，在干燥季节转移到燃煤的省份，在雨季转移到水电富裕的四川。四川在 6 月份禁止了比特币挖矿。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊收购 Facebook 的卫星互联网部门]]></title>
+        <id>https://www.solidot.org/story?sid=68294</id>
+        <link href="https://www.solidot.org/story?sid=68294"/>
+        <updated>2021-07-15T13:13:01.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊收购了 Facebook 的卫星互联网团队，以推动它的卫星互联网业务。团队成员包括了物理学家、光学、原型、机械和软件工程师，其中之一是 Jin Bains，他现在是亚马逊 Project Kuiper 的项目总监。亚马逊计划发射一个地球低轨道卫星星座，与  SpaceX 的 Starlink 展开竞争，但其进度远远落在  SpaceX 后面。 Starlink 卫星星座已有超过 1500 颗卫星，超过一万名用户参加了 beta 测试。亚马逊从 FCC 获得了批准发射 3,236 颗低地球轨道卫星，但卫星何时发射以及服务何时提供还没有时间表。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧盟提议从 2035 年起禁止燃油汽车销售]]></title>
         <id>https://www.solidot.org/story?sid=68293</id>
         <link href="https://www.solidot.org/story?sid=68293"/>
         <updated>2021-07-15T10:28:06.000Z</updated>
         <summary type="html"><![CDATA[欧盟提议从 2035 年起实际上禁止新的汽油和柴油汽车销售，旨在加快向零排放电动汽车的转换，这是应对全球变暖全面措施的一部分。欧盟执委会建议到 2030 年将汽车的二氧化碳排放量在 2021 年的基础上降低 55%，降幅远大于目前制定的减排 37.5% 目标。执委会还建议到 2035 年将二氧化碳排放量减少 100%，届时新的化石燃料动力汽车将无法在27个成员国内销售。欧洲汽车工业协会 ACEA 表示，禁止某项特定技术并不是合理的进步方式，在这个转变过程中，需要内燃机汽车、混合动力车、电池电动车和氢燃料汽车都发挥作用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix 准备发行游戏]]></title>
+        <id>https://www.solidot.org/story?sid=68292</id>
+        <link href="https://www.solidot.org/story?sid=68292"/>
+        <updated>2021-07-15T08:58:28.000Z</updated>
+        <summary type="html"><![CDATA[流媒体巨头 Netflix 准备进入游戏发行市场，虽然还没有正式宣布，它已经雇佣了一名前 EA 和 Oculus 高管领导游戏发行团队。Netflix 此举可能意味着它准备将游戏作为其服务的一部分。它此前曾推出过含有游戏化元素的电视内容，如交互式情景喜剧，让观众选择不同分支。此外，Netflix 还开发了许多基于游戏的视频内容，如改编自《猎魔人》的电视剧，改编自《恶魔城》的动画，等等。Netflix 的游戏计划尚未明朗，还不知道它是否会提供串流游戏的服务。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA 准备修复哈勃望远镜的问题]]></title>
+        <id>https://www.solidot.org/story?sid=68291</id>
+        <link href="https://www.solidot.org/story?sid=68291"/>
+        <updated>2021-07-15T08:33:35.000Z</updated>
+        <summary type="html"><![CDATA[哈勃望远镜因为负荷计算机故障已经处于“安全模式”一个多月，故障的可能源头已被跟踪到一个向故障计算机供电的控制单元，地面控制人员准备切换到备份硬件。NASA 表示望远镜本身以及科学仪器的状况都是良好的。在这之前，地面控制人员已经发送指令重置被认为存在问题的电源控制单元，但这一尝试失败了。NASA 现在批准哈勃故障修复团队切换到备份的电源控制单元，将在美国时间周四开始实施。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[物理学家接近解决量子计算的纠错问题]]></title>
+        <id>https://www.solidot.org/story?sid=68290</id>
+        <link href="https://www.solidot.org/story?sid=68290"/>
+        <updated>2021-07-15T07:46:59.000Z</updated>
+        <summary type="html"><![CDATA[Google 的物理学家在量子计算的纠错方面取得了重要进展。虽然研究人员还不能补偿所有类型的错误——这是构建成熟量子计算机的必要一步，但实现这一目标已经“近在咫尺”了。量子计算机的量子比特易受外界干扰，如 Google 的量子比特在被噪音淹没前只能维持双向状态（two-way state）15 微秒。纠错是量子计算机面临的一大挑战。传统计算机可以利用冗余副本验证正确状态去防止错误，但量子计算机没办法这么做，量子力学禁止拷贝一个量子比特的未知状态到另一个量子比特。为了纠错，科学家设计出方法将一个逻辑量子比特的信息分布到多个量子比特。如一个量子比特有 30% 的概率为 1，70% 为 1，这些信息可以分布到三个量子比特，作为一个集合，三个量子比特处于所有三个有 30% 可能性为 0，70% 为 1 的状态。Google 研究人员在《自然》期刊上报告，他们将量子比特在 50 微秒后出错的概率从 40% 减少到 0.2%。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
@@ -3714,188 +3909,6 @@ China’s new leader, Xi Jinping, was leaning on Western companies to strengthen
         <link href="https://www.solidot.org/story?sid=68061"/>
         <updated>2021-06-17T13:30:17.000Z</updated>
         <summary type="html"><![CDATA[要让汽车飞起来面临巨大的挑战，而要让电动汽车飞起来，挑战会更为艰巨，需要考虑到电池的重量以及充电的频率。滨州州立大学的 Chao-Yang Wang 和同事开发出一种原型电池，让电动空中飞车成为可能。新电池支持 80 公里的飞行，能量密度每公斤 271 瓦特时，能维持超过 2000 次充电周期，充电只需要 5 到 10 分钟。电池使用了一种自加热技术去实现快速充电而不会导致短路。研究人员计划中的下一代电池能量密度将达到每公斤 350 到 400 瓦特时，成本减少到每千瓦时 50 美元。研究报告发表在《Joule》期刊上。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lina Khan 被任命为 FTC 主席]]></title>
-        <id>https://www.solidot.org/story?sid=68060</id>
-        <link href="https://www.solidot.org/story?sid=68060"/>
-        <updated>2021-06-17T10:40:46.000Z</updated>
-        <summary type="html"><![CDATA[在美国参议院确认反垄断知名人士 Lina Khan 出任联邦贸易委员会(FTC)五名委员之一后，总统拜登(Joe Biden)立即任命她担任 FTC 主席，这可能意味着拜登政府将对科技巨头如 Google、Amazon、Facebook 和 Apple 采取更强硬的立场。但 FTC 不太可能立即开始拆分这些巨头。32 岁的 Lina Khan 是哥伦比亚大学法学院教授，她的委员提名以 69 对 28 票在参议院获得通过，但拜登任命她担任主席则出乎很多人的意料，之前从未有过类似的先例。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地缘政治竞争延伸至太空：中俄联手对抗美国]]></title>
-        <id>https://cn.nytimes.com/world/20210617/china-russia-space/dual</id>
-        <link href="https://cn.nytimes.com/world/20210617/china-russia-space/dual"/>
-        <updated>2021-06-17T10:36:01.000Z</updated>
-        <summary type="html"><![CDATA[ANDREW E. KRAMER, STEVEN LEE MYERS2021年6月17日俄罗斯航天器于4月发射前往国际空间站。俄罗斯官员表示，一旦当前协议于2024年结束，他们可能会退出空间站。 Bill Ingalls/NASA, via Agence France-Presse — Getty Images
-MOSCOW — Sixty-three years ago, the Soviet Union put the first satellite in space. Nearly four years later, it sent the first man into orbit, Yuri Gagarin. It fell behind NASA in the space race that followed, but even after the collapse of the Soviet Union, Russia remained a reliable space power, joining with the United States to build and operate the International Space Station for the last two decades.
-莫斯科——63年前，苏联将第一颗卫星送入太空。将近四年后，它将尤里·加加林(Yuri Gagarin)送入轨道，令其成为首个进入太空的人。在随后的太空竞赛中它落后于NASA，但即使在苏联解体之后，俄罗斯仍然是一个稳定的太空强国，在过去的20年里与美国一起建造和运作国际空间站。
-Now, the future of the Russian space program rests with the world’s new space power, China.
-现在，俄…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果预装应用面临限制]]></title>
-        <id>https://www.solidot.org/story?sid=68059</id>
-        <link href="https://www.solidot.org/story?sid=68059"/>
-        <updated>2021-06-17T08:59:17.000Z</updated>
-        <summary type="html"><![CDATA[美国国会上周提出的反垄断改革法案寻求限制平台给自家产品竞争优势，如禁止用户从设备上移除预装的应用。该法案将意味着苹果必须让消费者决定使用哪种应用或者卸载哪些应用。领导这项立法工作的罗德岛州民主党众议员 David Cicilline 称下载其它应用和下载苹果自家应用一样简单，苹果将无法使用其市场支配力量偏袒自家产品和服务。这一限制还将适用于亚马逊的 Prime 订阅服务。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1990 年代的移动加密算法被发现含有后门]]></title>
-        <id>https://www.solidot.org/story?sid=68058</id>
-        <link href="https://www.solidot.org/story?sid=68058"/>
-        <updated>2021-06-17T08:51:23.000Z</updated>
-        <summary type="html"><![CDATA[1990 年代的加密算法受制于出口管制规定，强加密算法被限制出口，因此很多当时广泛使用的加密算法是所谓的“弱加密”，也就是可能含有有意加入的后门，使得加密后的数据容易破解。现在，德国波鸿鲁尔大学的研究人员与法国和挪威的同事合作发表了一篇论文，发现 1990 年代实现的移动手机加密算法 GEA-1 含有后门。GEA-1 仍然包含在最近几年发售的  Android 和 iOS 手机中，它本应该早在 2013 年就需要被淘汰了。这个后门对情报机构可能没什么价值了，因为任何人都可以利用该漏洞。研究人员分析了两种加密 2G 数据的算法  GEA-1 和 GEA-2，它们都是弱加密算法，其中 GEA-1 密钥非常容易破解，因此被认为包含有意加入的后门。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国考虑假期禁止补习]]></title>
-        <id>https://www.solidot.org/story?sid=68057</id>
-        <link href="https://www.solidot.org/story?sid=68057"/>
-        <updated>2021-06-17T07:59:54.000Z</updated>
-        <summary type="html"><![CDATA[中国计划于本月公布比预期更严格的新规定，整顿规模达 1,200 亿美元的民间教育培训行业，包括对广告设限，以及试行禁止假日期间补习。新规旨在减轻学童的压力，并通过降低家庭生活成本来提高出生率，最早可能于下周公布并在下个月生效。新规将在北京、上海和其它几个大城市试行禁止寒暑假期间的线上和线下补习。教育部和其他有关部门正在起草的改革方案针对的是从幼儿园到 12 年级学生的教培市场，这一行业近年来发展迅速，竞争白热化。监管机构也将禁止在线上和线下对课外辅导“过度”打广告，尤其是在主流媒体和公共区域，他们并称辅导费也将受到严格控制。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台湾疫苗僵局谁之过：当公共卫生采购变成政治问题]]></title>
-        <id>https://cn.nytimes.com/asia-pacific/20210617/taiwan-china-biontech-vaccine/dual</id>
-        <link href="https://cn.nytimes.com/asia-pacific/20210617/taiwan-china-biontech-vaccine/dual"/>
-        <updated>2021-06-17T07:36:01.000Z</updated>
-        <summary type="html"><![CDATA[RAYMOND ZHONG, CHRISTOPHER F. SCHUETZE2021年6月17日本月，医务人员在台湾台北市一所学校为民众接种疫苗。 Ann Wang/Reuters
-TAIPEI, Taiwan — This is the age of “vaccine diplomacy.” It is also the era of its bitter, mudslinging opposite.
-台湾台北——这是属于“疫苗外交”的时代。这也是属于疫苗外交中怀恨诋毁这一面的时代。
-For months, Taiwan has been unable to purchase doses of the BioNTech coronavirus vaccine, and the island’s leaders blame “Chinese intervention.” China, which regards Taiwan as its own territory, calls this accusation “fabricated out of nothing.”
-几个月来，台湾始终无法购买BioNTech新冠疫苗，该岛领导人指责“中国介入”。视台湾为自己领土的中国则称这种指责是“无中生有”。
-It is unclear what steps, if any, the government in Beijing has taken to disrupt Taiwan’s dealings with BioNTech, the German drugmaker that developed the vaccine with Pfizer. BioNTech declined to comment.
-尚不清楚北京政府采取了哪些措施（如果有的话）干扰台湾与BioNTech的协…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国发射神舟十二号载人飞船，三名宇航员探索太空]]></title>
-        <id>https://cn.nytimes.com/science/20210617/china-launch-space-station/dual</id>
-        <link href="https://cn.nytimes.com/science/20210617/china-launch-space-station/dual"/>
-        <updated>2021-06-17T06:06:01.000Z</updated>
-        <summary type="html"><![CDATA[STEVEN LEE MYERS, KENNETH CHANG2021年6月17日周四，“长征二号F”火箭运载“神舟十二号”飞船，将三名宇航员送入太空轨道。 Greg Baker/Agence France-Presse — Getty Images
-There will soon be two places in orbit where astronauts live.
-轨道上即将有两个给宇航员居住的地方。
-
-On a clear, sunny Thursday morning in the Gobi Desert, China launched three astronauts to rendezvous with the country’s nascent space station.
-在一个晴朗、阳光明媚的周四上午，在戈壁沙漠，中国将三名宇航员送入太空，与该国刚刚建成的空间站会合。
-They waved to cameras in their capsule as their trip to space began. Twenty-one minutes into the mission, the director of the launch center, Zhang Zhifen, announced that it was “a complete success.”
-当他们的太空之旅开始时，三名宇航员从太空舱里向摄像机挥手。21分钟后，酒泉卫星发射中心主任张志芬宣布发射“圆满成功”。
-
-If all now goes according to plan, they will rendezvous with China’s nascent space station later in the day, beginning what is planned to b…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果的 VPN 实际上是洋葱路由]]></title>
-        <id>https://www.solidot.org/story?sid=68056</id>
-        <link href="https://www.solidot.org/story?sid=68056"/>
-        <updated>2021-06-17T05:03:23.000Z</updated>
-        <summary type="html"><![CDATA[苹果最近在开发者大会上宣布了名为 private relay 的隐私保护功能，媒体广泛称之为苹果的 VPN 服务，但它实际上是洋葱路由。路由使用了两跳，苹果提供第一跳，独立第三方提供第二跳。目前该服务只支持 Safari、Mail 等应用，还不清楚苹果是否会提供公共 API 允许其它应用程序和浏览器使用，也不清楚路由是否经过洋葱层。苹果否认自己知道客户的 DNS 查询和 Web 流量，如果收到传票它能反馈的信息也很少。苹果此举将洋葱路由这个黑客使用的专门工具转变成数十亿设备日常使用的服务。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国成功发射神舟十二号]]></title>
-        <id>https://www.solidot.org/story?sid=68055</id>
-        <link href="https://www.solidot.org/story?sid=68055"/>
-        <updated>2021-06-17T04:04:00.000Z</updated>
-        <summary type="html"><![CDATA[中国载人航天工程办公室宣布，6 月 17 日 9 时 22 分，搭载神舟十二号载人飞船的长征二号F遥十二运载火箭，在酒泉卫星发射中心点火发射，约 573 秒后，神舟十二号载人飞船与火箭成功分离，进入预定轨道，顺利将聂海胜、刘伯明、汤洪波3名航天员送入太空。这是载人航天工程立项实施以来的第 19 次飞行任务，也是空间站建造阶段的首次载人飞行任务。飞船入轨后，将按照预定程序，与天和核心舱进行自主快速交会对接。组合体飞行期间，航天员将进驻天和核心舱，完成为期 3 个月的在轨驻留，开展机械臂操作、太空出舱等活动，验证航天员长期在轨驻留、再生生保等一系列关键技术。中国空间站未来还将迎来俄罗斯和欧洲航天局的宇航员，作为未来太空飞行的一部分，欧洲航天局宇航员 Matthias Maurer 和 Samantha Cristoforetti 已经接受了中国航天员培训。中国还计划在 2024 年发射名为 Xuntian 的太空望远镜，望远镜将周期性的对接空间站进行维护。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[滴滴出行遭反垄断调查]]></title>
-        <id>https://www.solidot.org/story?sid=68054</id>
-        <link href="https://www.solidot.org/story?sid=68054"/>
-        <updated>2021-06-17T03:57:55.000Z</updated>
-        <summary type="html"><![CDATA[中国市场监管机构开始对打车巨头滴滴出行展开反垄断调查。此时滴滴出行正在推进在美国 IPO 的计划。这也是中国针对平台企业进行打击行动的最新一起。此前几个月，中国监管机构对几家平台企业进行打击，包括阿里巴巴、腾讯等科技巨头都受到巨额罚款。消息人士称，中国国家市场监督管理总局正在调查滴滴是否使用了任何不公平地排挤小型竞争对手的竞争行为。消息人士表示，市场监管机构的调查处于初始阶段，监管机构尚未给该公司下达具体指示。调查对该公司 IPO 的影响还有待观察。滴滴有望成为自 2014 年阿里巴巴 250 亿美元上市以来，中国在纽约的最大 IPO。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭秘东条英机遗骸下落：骨灰被撒入太平洋]]></title>
-        <id>https://cn.nytimes.com/asia-pacific/20210617/japan-tojo-remains/dual</id>
-        <link href="https://cn.nytimes.com/asia-pacific/20210617/japan-tojo-remains/dual"/>
-        <updated>2021-06-17T03:36:01.000Z</updated>
-        <summary type="html"><![CDATA[LIVIA ALBECK-RIPKA, HIKARI HIDA2021年6月17日日本首相东条英机站在东京日本议会外的一张未注明日期的照片。 Charles Gorry/Associated Press
-For more than 70 years, the location of the remains of Hideki Tojo, the Japanese prime minister who led his country’s war effort during World War II, was an enduring mystery.
-70多年来，在第二次世界大战期间领导国家战争的日本首相东条英机的遗骸下落一直是个谜。
-A great-grandson of Tojo said he had always believed that only the hair and nails of his ancestor were buried in a family plot in northwest Tokyo. He had no idea where the rest of the remains were. But the answer had been hidden in plain sight.
-东条英机的一名曾孙说，他一直认为，曾祖父只有头发和指甲被埋在位于东京西北部的家族墓地里。他不知道遗骸的其他部分在什么地方。但答案一直隐藏在众目睽睽之下。
-Declassified documents in the U.S. national archives that were unearthed by a Japanese professor show that American military officials scattered Tojo’s ashes …]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国否认台山核电站辐射泄露，承认燃料棒受损]]></title>
-        <id>https://cn.nytimes.com/china/20210617/china-nuclear-reactor/dual</id>
-        <link href="https://cn.nytimes.com/china/20210617/china-nuclear-reactor/dual"/>
-        <updated>2021-06-17T02:36:01.000Z</updated>
-        <summary type="html"><![CDATA[KEITH BRADSHER2021年6月17日2013年在建的广东省台山核电厂。中国周三说，核电厂的个别铀燃料棒出现破损，这在反应堆中并不罕见。 Peter Parks/Agence France-Presse — Getty Images
-SHANGHAI — The Chinese government said on Wednesday that “about five” of the uranium fuel rods inside a nuclear power plant in southeastern China had been damaged, but added that no radiation had leaked out of reactors at the site.
-上海——中国政府周三说，位于中国东南部的一座核电厂“约为五根左右”铀燃料棒受损，但补充说，该核电厂没有发生反应堆辐射泄漏。
-Regulators have also reviewed and approved limits on how much radioactive gas is allowed to accumulate in the water at the reactor, China’s National Nuclear Safety Administration said in a statement. Nuclear scientists in the United States and Europe said in interviews earlier this week that a buildup of radioactive gas in the water and steam surrounding the fuel rods, while not un…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《苹果日报》总编辑罗伟光等五人被捕]]></title>
-        <id>https://cn.nytimes.com/china/20210617/hong-kong-apple-daily/dual</id>
-        <link href="https://cn.nytimes.com/china/20210617/hong-kong-apple-daily/dual"/>
-        <updated>2021-06-17T02:36:01.000Z</updated>
-        <summary type="html"><![CDATA[王霜舟, TIFFANY MAY2021年6月17日周四，《苹果日报》记者拍摄的画面显示数十名香港警员进入壹传媒总部。 Lam Yik/Reuters
-HONG KONG — The Hong Kong police on Thursday arrested five executives at an embattled pro-democracy newspaper on suspicion of colluding with foreign powers to violate the Chinese territory’s sweeping national security law.
-香港——周四，香港警方以涉嫌串谋勾结外国势力，违反该地区全面的国家安全法为由，逮捕了一家深陷困境的亲民主报社的五名高管。
-The police said they had arrested five people of a media company on suspicion of “collusion with a foreign country or with external elements to endanger national security.” They did not name the company or specify who the foreign powers might be.
-警方表示，他们逮捕了一家媒体机构中的五名人士，他们涉嫌“串谋勾结外国或境外势力危害国家安全”。警方没有给出该公司的名称，也没有明确指明外国势力是谁。
-The five executives work for Apple Daily, a pro-democracy newspaper or its parent company, Next Digital, the newspaper…]]></summary>
-        <author>
-            <name>纽约时报双语版</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰警方逮捕了勒索软件黑帮 Clop 的六名嫌疑人]]></title>
-        <id>https://www.solidot.org/story?sid=68053</id>
-        <link href="https://www.solidot.org/story?sid=68053"/>
-        <updated>2021-06-16T15:49:10.000Z</updated>
-        <summary type="html"><![CDATA[乌克兰警方与韩国警方合作逮捕了勒索软件黑帮 Clop 的六名嫌疑人，扣押了大量现金、包括特斯拉和梅塞德斯在内的汽车，以及大量苹果电脑。Clop 据报道去年以韩国 E-Land 集团为目标，在 12 个月内窃取到 200 万信用卡信息。在进入该公司内网之后 Clop 部署了远程访问木马 Flawedammyy。趋势科技称，在最臭名昭著的勒索软件黑帮 Conti、Doppelpaymer、Egregor、Clop 和 REvil 中，Clop 在网上公开了 5 TB 窃取的数据，超过其它勒索软件黑帮。它攻击的美国目标包括了斯坦福大学医学院、马里兰大学和加州大学。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚洲国家在疫苗接种率上落后]]></title>
-        <id>https://www.solidot.org/story?sid=68052</id>
-        <link href="https://www.solidot.org/story?sid=68052"/>
-        <updated>2021-06-16T14:37:56.000Z</updated>
-        <summary type="html"><![CDATA[在遏制新冠病毒方面曾处于世界领先地位的亚洲国家，如今在疲于摆脱病毒的困扰。一个重要原因是在疫苗接种率上落后。在亚洲，约有 20% 的人至少接种过一剂疫苗，以日本为例，这一比例仅有 14%。相比之下，法国这一数字接近 45%，在美国超过 50%，在英国超过 60%。中国的情况略好，据报道中国总共接种了近 9 亿剂疫苗。由于疫苗接种在亚洲各地都处于滞后状态，因此任何有力的国际重新开放也会滞后。澳大利亚表示将继续关闭边境一年。日本目前禁止几乎所有非日本居民入境，而中国对海外入境人员的严格审查导致跨国企业失去了关键员工。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
